@@ -73,12 +73,12 @@ Delancey 24 High:Boston Center:126.470:C24:C:BOS:CTR:ZBW:24:4701:4757
 ;
 ; AREA B
 ;
-Gardner 36 Low:Boston Center:123.750:C36:C:BOS:CTR:ZBW:36:4701:4757
-Concord 37 Low:Boston Center:134.700:C37:C:BOS:CTR:ZBW:37:4701:4757
-ATHENS 38 High:Boston Center:135.320:C38:C:BOS:CTR:ZBW:38:4601:4657
-Cambridge 39 High:Boston Center:128.320:C39:C:BOS:CTR:ZBW:39:4601:4657
-Montpelier 52 Low:Boston Center:135.700:C52:C:BOS:CTR:ZBW:52:4701:4757
-Plattsburgh 53 High:Boston Center:118.820:C53:C:BOS:CTR:ZBW:53:4601:4657
+Gardner 36 Low:Boston Center:123.750:36:C:BOS:CTR:ZBW:36:4701:4757
+Concord 37 Low:Boston Center:134.700:37:C:BOS:CTR:ZBW:37:4701:4757
+ATHENS 38 High:Boston Center:135.320:38:C:BOS:CTR:ZBW:38:4601:4657
+Cambridge 39 High:Boston Center:128.320:39:C:BOS:CTR:ZBW:39:4601:4657
+Montpelier 52 Low:Boston Center:135.700:52:C:BOS:CTR:ZBW:52:4701:4757
+Plattsburgh 53 High:Boston Center:118.820:53:C:BOS:CTR:ZBW:53:4601:4657
 ;
 ; AREA C
 ;
