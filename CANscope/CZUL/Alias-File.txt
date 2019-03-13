@@ -36,11 +36,8 @@
 .tinfo Traffic at your $1 O’Clock, $2 Nm, $3 bound, type $4, $5 Ft. Do you have traffic in sight?
 ..tinfo Traffic a vos $1 Heures, $2 Nm, Direction $3, type $4, a $5 Pieds. Avez vous le traffic en vue?
 
-.cont Contact $radioname(GR) on $freq(GR) ; See ya!
-..cont Contactez $radioname(GR) sur $freq(GR) Bon vol!
-
-.cont2 Contact $radioname(MO) on $freq(MO) ; See ya!
-..cont2 Contactez $radioname(MO) sur $freq(MO) Bon vol!
+.freq Contact $radioname(GR) on $freq(GR) ; See ya!
+..freq Contactez $radioname(GR) sur $freq(GR) Bon vol!
 
 .closed Closed, all aircraft monitor UNICOM on 122,800. / Fermé, toutes les stations changez fréquence UNICOM 122,800.
 
