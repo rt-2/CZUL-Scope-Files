@@ -2,8 +2,8 @@
 .taxi Runway $deprwy , altimeter $altim(cyul) , Taxi via $1, $2, $3, $4, Hold short $deprwy(CYUL)
 ..taxi Piste $deprwy , altimetre $altim(cyul) , Circulez via $1, $2, $3, $4, Restez a l’écart $deprwy(CYUL)
 
-.twr Contact $radioname(UL) on $freq(UL) ; See ya!
-..twr Contactez $radioname(UL) sur $freq(UL) Bon vol!
+.twrfreq Contact $radioname(UL) on $freq(UL) ; See ya!
+..twrfreq Contactez $radioname(UL) sur $freq(UL) Bon vol!
 
 .welcome Welcome to Montréal–Pierre Elliott Trudeau International Airport, taxi via $1, cross runway 28, $2, hold short of apron, contact $radioname(UA) on $freq(UA), good day
 ..welcome Bienvenue à l’aéroport international Montréal Pierre-Elliott Trudeau, circulez $1, traversez piste 28, $2, restez à l’écart du tablier, contactez $radioname(UA) sur $freq(UA), bonne journée!
