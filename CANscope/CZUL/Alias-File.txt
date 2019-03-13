@@ -49,8 +49,8 @@
 
 .back **ATTENTION TO ALL AIRCRAFT** $callsign is now back on frequency. **ATTENTION À TOUTES LES STATIONS** $callsign est de retour.
 
-.gv Are you able to receive voice?
-..gv Êtes-vous capable de recevoir la voix?
+.voice Are you able to receive voice?
+..voice Êtes-vous capable de recevoir la voix?
 
 .pdc MONTREAL PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $alt | FILED ROUTE $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
 
