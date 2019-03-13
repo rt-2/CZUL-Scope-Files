@@ -47,7 +47,7 @@
 .dis Disregard
 ..dis Ignorez la dernière transmission
 
-.willback **ATTENTION TO ALL AIRCRAFT** $callsign will be back in $1 minutes. **ATTENTION À TOUTES LES STATIONS** $callsign sera de retour dans $1 minutes.
+.brb **ATTENTION TO ALL AIRCRAFT** $callsign will be back in $1 minutes. **ATTENTION À TOUTES LES STATIONS** $callsign sera de retour dans $1 minutes.
 
 .back **ATTENTION TO ALL AIRCRAFT** $callsign is now back on frequency. **ATTENTION À TOUTES LES STATIONS** $callsign est de retour.
 
