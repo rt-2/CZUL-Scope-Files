@@ -1,6 +1,8 @@
 
-.taxi Runway $deprwy , altimeter $altim(cyul) , Taxi via $1, $2, $3, $4, Hold short $deprwy(CYUL)
-..taxi Piste $deprwy , altimetre $altim(cyul) , Circulez via $1, $2, $3, $4, Restez a l’écart $deprwy(CYUL)
+.taxi Runway $deprwy, altimeter $altim(cyul), Taxi via $1, $2, $3, $4, Call me holding short $deprwy(CYUL)
+..taxi Piste $deprwy, altimetre $altim(cyul), Circulez via $1, $2, $3, $4, Rapellez-moi l’écart $deprwy(CYUL)
+.taxifreq Runway $deprwy, altimeter $altim(cyul), Taxi via $1, $2, $3, $4, Call $radioname($5) on $freq($5) holding short of  $deprwy(CYUL)
+..taxifreq Piste $deprwy, altimetre $altim(cyul), Circulez via $1, $2, $3, $4,  Contactez $radioname($5) sur $freq($5) à l’écart $deprwy(CYUL)
 
 .twrfreq Contact $radioname(UL) on $freq(UL) ; See ya!
 ..twrfreq Contactez $radioname(UL) sur $freq(UL) Bon vol!
