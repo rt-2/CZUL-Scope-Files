@@ -1,18 +1,19 @@
-.pdc MONTREAL PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $alt | FILED ROUTE $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
 
-.pdcam MONTREAL PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $alt | ***CAUTION*** ***AMENDED ROUTE*** $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
+.taxi Runway $deprwy, altimeter $altim(cyul), Taxi via $1, $2, $3, $4, Call me holding short $deprwy(CYUL)
+..taxi Piste $deprwy, altimetre $altim(cyul), Circulez via $1, $2, $3, $4, Rapellez-moi l’écart $deprwy(CYUL)
+.taxifreq Runway $deprwy, altimeter $altim(cyul), Taxi via $1, $2, $3, $4, Call $radioname($5) on $freq($5) holding short of  $deprwy(CYUL)
+..taxifreq Piste $deprwy, altimetre $altim(cyul), Circulez via $1, $2, $3, $4,  Contactez $radioname($5) sur $freq($5) à l’écart $deprwy(CYUL)
 
-.taxi Runway $deprwy , altimeter $altim(cyul) , Taxi via $1, $2, $3, $4, Hold short $deprwy(CYUL)
-..taxi Piste $deprwy , altimetre $altim(cyul) , Circulez via $1, $2, $3, $4, Restez a l’écart $deprwy(CYUL)
+.twrfreq Contact $radioname(UL) on $freq(UL) ; See ya!
+..twrfreq Contactez $radioname(UL) sur $freq(UL) Bon vol!
 
-.twr Contact $radioname(UL) on $freq(UL) ; See ya!
-..twr Contactez $radioname(UL) sur $freq(UL) Bon vol!
+.welcome Welcome to Montréal–Pierre Elliott Trudeau International Airport, taxi via $1, cross runway 28, $2, hold short of apron, contact $radioname(UA) on $freq(UA), good day
+..welcome Bienvenue à l’aéroport international Montréal Pierre-Elliott Trudeau, circulez $1, traversez piste 28, $2, restez à l’écart du tablier, contactez $radioname(UA) sur $freq(UA), bonne journée!
 
-.wel Welcome to Montréal–Pierre Elliott Trudeau International Airport, taxi via $1, cross runway 28, $2, hold short of apron, contact $radioname(UA) on $freq(UA), good day
-..wel Bienvenue à l’aéroport international Montréal Pierre-Elliott Trudeau, circulez $1, traversez piste 28, $2, restez à l’écart du tablier, contactez $radioname(UA) sur $freq(UA), bonne journée!
-
-.to Contact $radioname($1) on $freq($1) when airborne, wind $wind , Cleared for take-off runway $deprwy(CYUL), have a nice flight
-..to Contactez $radioname($1) sur $freq($1) à l’envol, vent $wind, autorisé à décoller piste $deprwy(CYUL), bon vol!
+.to Call me when airborne, wind $wind , Cleared for take-off runway $deprwy(CYUL)
+..to Appelez-moi à l’envol, vent $wind, autorisé à décoller piste $deprwy(CYUL)
+.tofreq Contact $radioname($1) on $freq($1) when airborne, wind $wind , Cleared for take-off runway $deprwy(CYUL), have a nice flight
+..tofreq Contactez $radioname($1) sur $freq($1) à l’envol, vent $wind, autorisé à décoller piste $deprwy(CYUL), bon vol!
 
 .lu Line-up & Wait runway $deprwy(CYUL)
 ..lu Alignez-vous et Attendez piste $deprwy(CYUL)
@@ -26,49 +27,39 @@
 .land Exit $1, wind $wind, Cleared to land rwy $arrrwy(CYUL)
 ..land Quittez $1, vents $wind, Autorisé a atterrir piste $arrrwy(CYUL)
 
-.desi Arrivals good day, expect $1 approach runway $2 , descend to $alt , altimeter $altim(cyul)
+.desi Arrivals good day, expect $1 approach runway $2 , descend to $alt , altimeter $altim(CYUL)
 ..desi Arrivées bonjour, anticipez approche $1 piste $2 , descendez à $alt, altimetre $altim(CYUL) 
 
 .clbi Good day, Radar identified $calt Ft, Climb $alt & turn direct $1 on course
 ..clbi Bonjour, Identifié radar $calt, Montez $alt & virez direct $1 en route
 
-.tinfo Traffic at your $1 O’Clock, $2 Nm, $3 bound, type $4, $5 Ft. Do you have traffic in sight?
-..tinfo Traffic a vos $1 Heures, $2 Nm, Direction $3, type $4, a $5 Pieds. Avez vous le traffic en vue?
+.tfc Traffic at your $1 O’Clock, $2 Nm, $3 bound, type $4, $5 Ft. Do you have traffic in sight?
+..tfc Traffic a vos $1 Heures, $2 Nm, Direction $3, type $4, a $5 Pieds. Avez vous le traffic en vue?
 
-.cont Contact $radioname(GR) on $freq(GR) ; See ya!
-..cont Contactez $radioname(GR) sur $freq(GR) Bon vol!
+.freq Contact $radioname($1) on $freq($1) ; See ya!
+..freq Contactez $radioname($1) sur $freq($1) Bon vol!
 
-.cont2 Contact $radioname(MO) on $freq(MO) ; See ya!
-..cont2 Contactez $radioname(MO) sur $freq(MO) Bon vol!
+.clsd Closed, all aircraft monitor UNICOM on 122,800. / Fermé, toutes les stations changez fréquence UNICOM 122,800.
 
-.closed Closed, all aircraft monitor UNICOM on 122,800 / Fermé, toutes les stations changez fréquence UNICOM 122,800
+.clsdfreq Closed, all stations change to $radioname($1) on $freq($1) for further services. / Fermé, toutes les stations changez pour $radioname($1) sur $freq($1).
 
 .dis Disregard
+..dis Ignorez la dernière transmission
 
-.disfr Ignorez la dernière transmission
+.brb **ATTENTION TO ALL AIRCRAFT** $callsign will be back in $1 minutes. **ATTENTION À TOUTES LES STATIONS** $callsign sera de retour dans $1 minutes.
 
-.willback **ATTENTION TO ALL AIRCRAFT** $callsign will be back on frequency.
+.back **ATTENTION TO ALL AIRCRAFT** $callsign is now back on frequency. **ATTENTION À TOUTES LES STATIONS** $callsign est de retour.
 
-.back **ATTENTION TO ALL AIRCRAFT** $callsign is now back on frequency.
+.voice Are you able to receive voice?
+..voice Êtes-vous capable de recevoir la voix?
 
-.getvoice Are you able to receive voice?
+.pdc MONTREAL PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $alt | FILED ROUTE $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
+.pdcam MONTREAL PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $alt | ***CAUTION*** ***AMENDED ROUTE*** $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1, ATIS AND ACKNOWLEDGE ROUTE MODIFICATION TO CONFIRM CLEARANCE
 
 .pdcyqb QUEBEC CITY PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $alt | FILED ROUTE $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
-
-.pdcamyqb QUEBEC CITY PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $alt | ***CAUTION*** ***AMENDED ROUTE*** $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
+.pdcamyqb QUEBEC CITY PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $alt | ***CAUTION*** ***AMENDED ROUTE*** $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1, ATIS AND ACKNOWLEDGE ROUTE MODIFICATION TO CONFIRM CLEARANCE
 
 .pdcyow OTTAWA PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $alt | FILED ROUTE $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
+.pdcamyow OTTAWA PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $alt | ***CAUTION*** ***AMENDED ROUTE*** $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1, ATIS AND ACKNOWLEDGE ROUTE MODIFICATION TO CONFIRM CLEARANCE
 
-.pdcamyow OTTAWA PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $alt | ***CAUTION*** ***AMENDED ROUTE*** $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
-
-.pdcreject PRE-DEPARTURE CLEARANCE | $AIRCRAFT | REJECTED – FLIGHT PLAN INVALID – REVERT TO VOICE PROCEDURES
-
-.pdcerror PRE-DEPARTURE CLEARANCE | $AIRCRAFT | – ERROR IN MESSAGE – REVERT TO VOICE PROCEDURES
-
-.thanks Thank you for flying Montreal, 
-
-.merci Merci d'avoir choisi Montréal,
-
-.vapp $oclock(CYUL)
-
-.pdcamr PRE-DEPARTURE CLEARANCE | $AIRCRAFT | REJECTED – AMENDED ROUTE – REVERT TO VOICE PROCEDURES
+.pdcreject PRE-DEPARTURE CLEARANCE | $AIRCRAFT | REJECTED – REVERT TO VOICE PROCEDURES
