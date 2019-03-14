@@ -1,8 +1,6 @@
 ; Montreal FIR all in one for Euroscope
-; JEAN FRANCOIS DESROSIERS (JF@VATCAN.CA) ANTHONY BELLIVEAU (AB@CZUL.ORG) ALEXANDRE DUFRESNE (ALEXANDRE.DUFRESNE@OUTLOOK.COM)
+; ALEXANDRE DUFRESNE (ALEXANDRE.DUFRESNE@OUTLOOK.COM)
 ; WWW.CZUL.CA
-
-;MAJOR CHANGES TO SECTORS FOR HIGH and LOW AIRSPACE
 
 [RADAR]
 ;RADAR:<name>:<longitude>:<latitude>:<P range>:<P floor>:<P slope>:<S range>:<S floor>:<S slope><C range>:<C floor>:<C slope>
