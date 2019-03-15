@@ -15,7 +15,7 @@ AG:CYUL_APP:132.850:canada.voice.vatsim.net:cyul_app
 AG:CYUL_L_APP:126.900:canada.voice.vatsim.net:cyul_lo_app
 AG:CYUL_N_APP:132.850:canada.voice.vatsim.net:cyul_an_app
 AG:CYUL_S_APP:118.900:canada.voice.vatsim.net:cyul_as_app
-AG:CYUL_VF_APP:125.150:canada.voice.vatsim.net:cyul_vf_app
+AG:CYUL_VF_APP:134.150:canada.voice.vatsim.net:cyul_vf_app
 AG:CYUL_ATIS:133.700:canada.voice.vatsim.net:cyul_atis
 AG:CPTL_APP:135.150:canada.voice.vatsim.net:cptl_app
 AG:CYBG_APP:127.200:canada.voice.vatsim.net:cybg_app
