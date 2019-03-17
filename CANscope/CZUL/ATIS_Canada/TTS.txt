@@ -1,0 +1,9 @@
+Alpha, Bravo, Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliet, Kilo, Mike, November, Oscar, Papa, Quebec, Romeo, Sierra, Tango, Uniform, Whiskey, Yankee, Zulu
+
+Thousand, Hundred, Zero, One, Two, Three, Four, Five, Six, Seven, Eight, Nine, Ten, Eleven, Twelve, Thirteen, Fourteen, Fifteen, Sixteen, Seventeen, Eighteen, Nineteen, Twenty, Thirty, One Eighth, One Quarter, Three Eight, Three Quarter, Five Eight
+
+Advise ATC You have Information, Altimeter, And, Approach, At, Automated, Becoming, Between, Blowing, Breaking Actions, Breaking Actions Moderate, Broken, Calm, Ceiling and Visibility are Ok, Clouds, No Clouds Below Ten Thousand, Seedy, Degree, Degrees, Departure, Dew point, Downgrading, Drifting, Drizzle, Feet, Few, Fog, Freezing, Good, Grains, Gusting, Hail, One Half, Haze, Heavy, Ice Crystals, Ice Pellets, ILS, Information, In Vicinity, Knots, Landing and Departing Runway, Left, Less Than, Light, Localizer Back Course, Low, Light Rain
+
+Minus, Mist, Moderate, More Than, NDB, Neutral, Over Cast, Partial, Patches of Fog, Rain, Right, R NAV, Runway, RVR, Scattered, Shallow, Showers, Sky Clear, Sky Condition, Small, Snow, Temperature, Thunderstorm, To, Upgrading, Variable, Visibility, Visual, Vertical Visibility, Wind, Winds Calm, With, Weather At, Landing Runway
+
+Bagot ville, Edmonton International, Fredericton, Hamilton, Halifax International, Ottawa nternational, Quebec City International, Moncton International, Gander International, Montreal International, Vancouver International, London, Calgary International, Saint Johns International, Toronto International, Canadian Forces Base Greenwood, Goose Bay, Victoria International
