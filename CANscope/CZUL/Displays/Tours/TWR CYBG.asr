@@ -1,0 +1,58 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Free Text:YBG MVA\32<29:freetext
+Free Text:YBG MVA\41<37:freetext
+Free Text:YBG MVA\43<38:freetext
+Free Text:YBG MVA\44<39:freetext
+Free Text:YBG MVA\44<40:freetext
+Free Text:YBG MVA\52<46:freetext
+Free Text:YBG MVA\59<53:freetext
+Geo:AIRPORT LAYOUTS:
+Geo:GEO:
+Runways:CYBG Bagotville 11-29:centerline
+Runways:CYBG Bagotville 11-29:extended centerline 1
+Runways:CYBG Bagotville 11-29:extended centerline 1 left base
+Runways:CYBG Bagotville 11-29:extended centerline 1 left ticks
+Runways:CYBG Bagotville 11-29:extended centerline 1 left vectoring
+Runways:CYBG Bagotville 11-29:extended centerline 1 right base
+Runways:CYBG Bagotville 11-29:extended centerline 1 right ticks
+Runways:CYBG Bagotville 11-29:extended centerline 1 right vectoring
+Runways:CYBG Bagotville 11-29:extended centerline 2
+Runways:CYBG Bagotville 11-29:extended centerline 2 left base
+Runways:CYBG Bagotville 11-29:extended centerline 2 left ticks
+Runways:CYBG Bagotville 11-29:extended centerline 2 left vectoring
+Runways:CYBG Bagotville 11-29:extended centerline 2 right base
+Runways:CYBG Bagotville 11-29:extended centerline 2 right ticks
+Runways:CYBG Bagotville 11-29:extended centerline 2 right vectoring
+Runways:CYBG Bagotville 11-29:name
+Runways:CYBG Bagotville 18-36:centerline
+Runways:CYBG Bagotville 18-36:extended centerline 1
+Runways:CYBG Bagotville 18-36:extended centerline 1 left base
+Runways:CYBG Bagotville 18-36:extended centerline 1 left ticks
+Runways:CYBG Bagotville 18-36:extended centerline 1 left vectoring
+Runways:CYBG Bagotville 18-36:extended centerline 1 right base
+Runways:CYBG Bagotville 18-36:extended centerline 1 right ticks
+Runways:CYBG Bagotville 18-36:extended centerline 1 right vectoring
+Runways:CYBG Bagotville 18-36:extended centerline 2
+Runways:CYBG Bagotville 18-36:extended centerline 2 left base
+Runways:CYBG Bagotville 18-36:extended centerline 2 left ticks
+Runways:CYBG Bagotville 18-36:extended centerline 2 left vectoring
+Runways:CYBG Bagotville 18-36:extended centerline 2 right base
+Runways:CYBG Bagotville 18-36:extended centerline 2 right ticks
+Runways:CYBG Bagotville 18-36:extended centerline 2 right vectoring
+Runways:CYBG Bagotville 18-36:name
+Stars:YBG - Min Vectoring Alt:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:NARDS
+WINDOWAREA:47.912843:-71.531354:48.822279:-70.317602

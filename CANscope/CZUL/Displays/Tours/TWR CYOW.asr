@@ -1,0 +1,140 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC low boundary:BOSTON-MSS:
+ARTCC low boundary:CZUL South Gate:
+ARTCC low boundary:czul-czyz_SE_(X)CN:
+ARTCC low boundary:frontiere_sud:
+ARTCC low boundary:YOW_TCU:
+Fixes:ADVOS:name
+Fixes:ADVOS:symbol
+Fixes:ALPAT:name
+Fixes:ALPAT:symbol
+Fixes:AMOBI:name
+Fixes:AMOBI:symbol
+Fixes:ESREM:name
+Fixes:ESREM:symbol
+Fixes:ILOGI:name
+Fixes:ILOGI:symbol
+Fixes:MEGNO:name
+Fixes:MEGNO:symbol
+Fixes:MODON:name
+Fixes:MODON:symbol
+Fixes:RAFNO:name
+Fixes:RAFNO:symbol
+Fixes:TEFLY:name
+Fixes:TEFLY:symbol
+Fixes:TEXEN:name
+Fixes:TEXEN:symbol
+Fixes:TILOG:name
+Fixes:TILOG:symbol
+Fixes:VISOL:name
+Fixes:VISOL:symbol
+Fixes:VIVAX:name
+Fixes:VIVAX:symbol
+Fixes:VODUL:name
+Fixes:VODUL:symbol
+Fixes:VOLAG:name
+Fixes:VOLAG:symbol
+Fixes:WATTO:name
+Fixes:WATTO:symbol
+Fixes:XOLTI:name
+Fixes:XOLTI:symbol
+Free Text:YOW MVA\20<18:freetext
+Free Text:YOW MVA\20<18:freetext
+Free Text:YOW MVA\20<18:freetext
+Free Text:YOW MVA\23<21:freetext
+Free Text:YOW MVA\29<26:freetext
+Free Text:YOW MVA\29<26:freetext
+Free Text:YOW MVA\29<26:freetext
+Free Text:YOW MVA\32<29:freetext
+Free Text:YOW MVA\32<29:freetext
+Free Text:YOW MVA\37<33:freetext
+Free Text:YOW MVA\37<33:freetext
+Free Text:YOW MVA\39<38:freetext
+Free Text:YOW MVA\39<38:freetext
+Free Text:YOW MVA\60<60:freetext
+Geo:AIRPORT LAYOUTS:
+Geo:GEO:
+NDBs:OW:name
+NDBs:OW:symbol
+NDBs:YRR:name
+NDBs:YRR:symbol
+Runways:CYND Ottawa Gatineau 09-27:centerline
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 left base
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 left ticks
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 left vectoring
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 right base
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 right ticks
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 right vectoring
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 left base
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 left ticks
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 left vectoring
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 right base
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 right ticks
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 right vectoring
+Runways:CYND Ottawa Gatineau 09-27:name
+Runways:CYOW Ottawa MacDonald Cartier 04-22:centerline
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 left base
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 right base
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 left base
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 right base
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 04-22:name
+Runways:CYOW Ottawa MacDonald Cartier 07-25:centerline
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 left base
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 right base
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 left base
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 right base
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 07-25:name
+Runways:CYOW Ottawa MacDonald Cartier 14-32:centerline
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 left base
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 right base
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 left base
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 right base
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 14-32:name
+Stars:YOW - Min Vectoring Alt:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:NARDS
+WINDOWAREA:45.068220:-76.165332:45.579001:-75.124892

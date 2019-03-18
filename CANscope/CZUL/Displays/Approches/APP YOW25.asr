@@ -1,0 +1,358 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:CYHU:name
+Airports:CYHU:symbol
+Airports:CYJN:name
+Airports:CYJN:symbol
+Airports:CYMX:name
+Airports:CYMX:symbol
+Airports:CYOW:name
+Airports:CYOW:symbol
+Airports:CYUL:name
+Airports:CYUL:symbol
+ARTCC boundary:KZBW_CZYZ:
+ARTCC low boundary:BOSTON-MSS:
+ARTCC low boundary:CZUL South Gate:
+ARTCC low boundary:czul-czyz_SE_(X)CN:
+ARTCC low boundary:frontiere_sud:
+ARTCC low boundary:GL-RW:
+ARTCC low boundary:MTL_TCU:
+ARTCC low boundary:YOW_TCU:
+Fixes:ADVOS:name
+Fixes:ADVOS:symbol
+Fixes:ALIDO:name
+Fixes:ALIDO:symbol
+Fixes:ALSET:name
+Fixes:ALSET:symbol
+Fixes:APLOV:name
+Fixes:APLOV:symbol
+Fixes:AVVON:name
+Fixes:AVVON:symbol
+Fixes:BEMOG:name
+Fixes:BEMOG:symbol
+Fixes:BOKLU:name
+Fixes:BOKLU:symbol
+Fixes:BOMET:name
+Fixes:BOMET:symbol
+Fixes:BOREG:name
+Fixes:BOREG:symbol
+Fixes:BUGSY:name
+Fixes:BUGSY:symbol
+Fixes:CATOG:name
+Fixes:CATOG:symbol
+Fixes:CYRIL:name
+Fixes:CYRIL:symbol
+Fixes:DUNUM:name
+Fixes:DUNUM:symbol
+Fixes:ELSUB:name
+Fixes:ELSUB:symbol
+Fixes:EMPEK:name
+Fixes:EMPEK:symbol
+Fixes:ESTEL:name
+Fixes:ESTEL:symbol
+Fixes:GABEV:name
+Fixes:GABEV:symbol
+Fixes:HABBS:name
+Fixes:HABBS:symbol
+Fixes:IGTAD:name
+Fixes:IGTAD:symbol
+Fixes:IKLAX:name
+Fixes:IKLAX:symbol
+Fixes:ILEMU:name
+Fixes:ILEMU:symbol
+Fixes:ILIXU:name
+Fixes:ILIXU:symbol
+Fixes:IPSAK:name
+Fixes:IPSAK:symbol
+Fixes:KANIK:name
+Fixes:KANIK:symbol
+Fixes:KAREB:name
+Fixes:KAREB:symbol
+Fixes:KAVSU:name
+Fixes:KAVSU:symbol
+Fixes:KODEX:name
+Fixes:KODEX:symbol
+Fixes:LAFIT:name
+Fixes:LAFIT:symbol
+Fixes:LANRK:name
+Fixes:LANRK:symbol
+Fixes:LETAK:name
+Fixes:LETAK:symbol
+Fixes:LORKA:name
+Fixes:LORKA:symbol
+Fixes:MERKO:name
+Fixes:MERKO:symbol
+Fixes:MIVOK:name
+Fixes:MIVOK:symbol
+Fixes:OBTAX:name
+Fixes:OBTAX:symbol
+Fixes:OLIGO:name
+Fixes:OLIGO:symbol
+Fixes:ONDOB:name
+Fixes:ONDOB:symbol
+Fixes:RADEN:name
+Fixes:RADEN:symbol
+Fixes:REEDO:name
+Fixes:REEDO:symbol
+Fixes:REVAL:name
+Fixes:REVAL:symbol
+Fixes:SAVAL:name
+Fixes:SAVAL:symbol
+Fixes:SMARE:name
+Fixes:SMARE:symbol
+Fixes:TADMO:name
+Fixes:TADMO:symbol
+Fixes:TAKOL:name
+Fixes:TAKOL:symbol
+Fixes:TAMKO:name
+Fixes:TAMKO:symbol
+Fixes:TAPVO:name
+Fixes:TAPVO:symbol
+Fixes:TEFLY:name
+Fixes:TEFLY:symbol
+Fixes:TEXEN:name
+Fixes:TEXEN:symbol
+Fixes:THURO:name
+Fixes:THURO:symbol
+Fixes:TOXIP:name
+Fixes:TOXIP:symbol
+Fixes:TUKIR:name
+Fixes:TUKIR:symbol
+Fixes:ULAGU:name
+Fixes:ULAGU:symbol
+Fixes:VIBRU:name
+Fixes:VIBRU:symbol
+Fixes:VIKNO:name
+Fixes:VIKNO:symbol
+Fixes:VILRO:name
+Fixes:VILRO:symbol
+Fixes:VISOL:name
+Fixes:VISOL:symbol
+Fixes:XOLTI:name
+Fixes:XOLTI:symbol
+Free Text:YOW MVA\20<18:freetext
+Free Text:YOW MVA\20<18:freetext
+Free Text:YOW MVA\20<18:freetext
+Free Text:YOW MVA\23<21:freetext
+Free Text:YOW MVA\29<26:freetext
+Free Text:YOW MVA\29<26:freetext
+Free Text:YOW MVA\29<26:freetext
+Free Text:YOW MVA\32<29:freetext
+Free Text:YOW MVA\32<29:freetext
+Free Text:YOW MVA\37<33:freetext
+Free Text:YOW MVA\37<33:freetext
+Free Text:YOW MVA\39<38:freetext
+Free Text:YOW MVA\39<38:freetext
+Free Text:YOW MVA\60<60:freetext
+Geo:GEO:
+NDBs:YGK:frequency
+NDBs:YGK:name
+NDBs:YGK:symbol
+Runways:CYND Ottawa Gatineau 09-27:centerline
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 left base
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 left ticks
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 left vectoring
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 right base
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 right ticks
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 right vectoring
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 left base
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 left ticks
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 left vectoring
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 right base
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 right ticks
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 right vectoring
+Runways:CYND Ottawa Gatineau 09-27:name
+Runways:CYOW Ottawa MacDonald Cartier 04-22:centerline
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 left base
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 right base
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 left base
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 right base
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 04-22:name
+Runways:CYOW Ottawa MacDonald Cartier 07-25:centerline
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 left base
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 right base
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 left base
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 right base
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 07-25:name
+Runways:CYOW Ottawa MacDonald Cartier 14-32:centerline
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 left base
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 right base
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 left base
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 right base
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 14-32:name
+Sids:YOW arr CAPTL:
+Sids:YOW arr DEANS:
+Sids:YOW arr LEAMY:
+Sids:YOW arr MEECH:
+Sids:YOW arr RIVER:
+Sids:YOW dep CYUL:
+Sids:YOW dep CYYZ:
+Sids:YOW dep EAST:
+Sids:YOW dep NE:
+Sids:YOW dep NORTH:
+Sids:YOW dep NW:
+Sids:YOW dep SE:
+Sids:YOW dep SW:
+Sids:YOW dep WEST:
+Sids:YOW dep WEST PROP:
+Stars:YOW - CONFIG 25:
+VORs:ART:frequency
+VORs:ART:name
+VORs:ART:symbol
+VORs:BGR:frequency
+VORs:BGR:name
+VORs:BGR:symbol
+VORs:BTV:frequency
+VORs:BTV:name
+VORs:BTV:symbol
+VORs:MLT:frequency
+VORs:MLT:name
+VORs:MLT:symbol
+VORs:MSS:frequency
+VORs:MSS:name
+VORs:MSS:symbol
+VORs:PQI:frequency
+VORs:PQI:name
+VORs:PQI:symbol
+VORs:SYR:frequency
+VORs:SYR:name
+VORs:SYR:symbol
+VORs:VBS:frequency
+VORs:VBS:name
+VORs:VBS:symbol
+VORs:VIE:frequency
+VORs:VIE:name
+VORs:VIE:symbol
+VORs:VLV:frequency
+VORs:VLV:name
+VORs:VLV:symbol
+VORs:YBC:frequency
+VORs:YBC:name
+VORs:YBC:symbol
+VORs:YCF:frequency
+VORs:YCF:name
+VORs:YCF:symbol
+VORs:YEE:frequency
+VORs:YEE:name
+VORs:YEE:symbol
+VORs:YFB:frequency
+VORs:YFB:name
+VORs:YFB:symbol
+VORs:YGL:frequency
+VORs:YGL:name
+VORs:YGL:symbol
+VORs:YGP:frequency
+VORs:YGP:name
+VORs:YGP:symbol
+VORs:YGR:frequency
+VORs:YGR:name
+VORs:YGR:symbol
+VORs:YJN:frequency
+VORs:YJN:name
+VORs:YJN:symbol
+VORs:YKL:frequency
+VORs:YKL:name
+VORs:YKL:symbol
+VORs:YMO:frequency
+VORs:YMO:name
+VORs:YMO:symbol
+VORs:YMX:frequency
+VORs:YMX:name
+VORs:YMX:symbol
+VORs:YNA:frequency
+VORs:YNA:name
+VORs:YNA:symbol
+VORs:YOW:frequency
+VORs:YOW:name
+VORs:YOW:symbol
+VORs:YQB:frequency
+VORs:YQB:name
+VORs:YQB:symbol
+VORs:YRI:frequency
+VORs:YRI:name
+VORs:YRI:symbol
+VORs:YSB:frequency
+VORs:YSB:name
+VORs:YSB:symbol
+VORs:YSC:frequency
+VORs:YSC:name
+VORs:YSC:symbol
+VORs:YSO:frequency
+VORs:YSO:name
+VORs:YSO:symbol
+VORs:YTS:frequency
+VORs:YTS:name
+VORs:YTS:symbol
+VORs:YUL:frequency
+VORs:YUL:name
+VORs:YUL:symbol
+VORs:YVO:frequency
+VORs:YVO:name
+VORs:YVO:symbol
+VORs:YVP:frequency
+VORs:YVP:name
+VORs:YVP:symbol
+VORs:YWK:frequency
+VORs:YWK:name
+VORs:YWK:symbol
+VORs:YXI:frequency
+VORs:YXI:name
+VORs:YXI:symbol
+VORs:YYB:frequency
+VORs:YYB:name
+VORs:YYB:symbol
+VORs:YYR:frequency
+VORs:YYR:name
+VORs:YYR:symbol
+VORs:YYY:frequency
+VORs:YYY:name
+VORs:YYY:symbol
+VORs:YZV:frequency
+VORs:YZV:name
+VORs:YZV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:CSiT
+WINDOWAREA:44.436401:-77.486667:46.265427:-73.761020

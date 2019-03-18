@@ -1,0 +1,703 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+Airports:CYHU:name
+Airports:CYHU:symbol
+Airports:CYJN:name
+Airports:CYJN:symbol
+Airports:CYMX:name
+Airports:CYMX:symbol
+Airports:CYUL:name
+Airports:CYUL:symbol
+ARTCC boundary:KZBW_CTR:
+ARTCC boundary:KZBW_CZYZ:
+ARTCC boundary:QM-QX:
+ARTCC boundary:W080:
+ARTCC boundary:west:
+ARTCC boundary:YBG_MTCA:
+ARTCC boundary:ZEGZUL:
+ARTCC boundary:ZWGZUL:
+ARTCC boundary:ZWGZYZ:
+ARTCC low boundary:BOSTON-MSS:
+ARTCC low boundary:CYYR_APP:
+ARTCC low boundary:CZUL South Gate:
+ARTCC low boundary:czul-czyz_SE_(X)CN:
+ARTCC low boundary:est:
+ARTCC low boundary:frontiere_sud:
+ARTCC low boundary:GL-NK:
+ARTCC low boundary:GL-RW:
+ARTCC low boundary:HV-GL:
+ARTCC low boundary:KBTV_TCU:
+ARTCC low boundary:MTL_SPLIT:
+ARTCC low boundary:MTL_TCU:
+ARTCC low boundary:nord:
+ARTCC low boundary:RW-HV:
+ARTCC low boundary:YOW_TCU:
+ARTCC low boundary:YQB_TCU:
+ARTCC low boundary:YTR_MTCU:
+ARTCC low boundary:zv:
+Fixes:ALKOB:name
+Fixes:ALKOB:symbol
+Fixes:ANTUR:name
+Fixes:ANTUR:symbol
+Fixes:AVPUT:name
+Fixes:AVPUT:symbol
+Fixes:AYROU:name
+Fixes:AYROU:symbol
+Fixes:BERUS:name
+Fixes:BERUS:symbol
+Fixes:BODRA:name
+Fixes:BODRA:symbol
+Fixes:CHARN:name
+Fixes:CHARN:symbol
+Fixes:DUGNO:name
+Fixes:DUGNO:symbol
+Fixes:DUSMA:name
+Fixes:DUSMA:symbol
+Fixes:EIKMN:name
+Fixes:EIKMN:symbol
+Fixes:GRAND:name
+Fixes:GRAND:symbol
+Fixes:GRIBS:name
+Fixes:GRIBS:symbol
+Fixes:IKMAN:name
+Fixes:IKMAN:symbol
+Fixes:IRBIM:name
+Fixes:IRBIM:symbol
+Fixes:IRLAV:name
+Fixes:IRLAV:symbol
+Fixes:KAGLY:name
+Fixes:KAGLY:symbol
+Fixes:KELMU:name
+Fixes:KELMU:symbol
+Fixes:KEMSA:name
+Fixes:KEMSA:symbol
+Fixes:KENKI:name
+Fixes:KENKI:symbol
+Fixes:LABRE:name
+Fixes:LABRE:symbol
+Fixes:LETAK:name
+Fixes:LETAK:symbol
+Fixes:LORKA:name
+Fixes:LORKA:symbol
+Fixes:MEKSO:name
+Fixes:MEKSO:symbol
+Fixes:MIBNA:name
+Fixes:MIBNA:symbol
+Fixes:MIBNO:name
+Fixes:MIBNO:symbol
+Fixes:MIGLO:name
+Fixes:MIGLO:symbol
+Fixes:MUSLO:name
+Fixes:MUSLO:symbol
+Fixes:MUSVA:name
+Fixes:MUSVA:symbol
+Fixes:NAGNO:name
+Fixes:NAGNO:symbol
+Fixes:NALDI:name
+Fixes:NALDI:symbol
+Fixes:OLABA:name
+Fixes:OLABA:symbol
+Fixes:OLIGO:name
+Fixes:OLIGO:symbol
+Fixes:PEPKI:name
+Fixes:PEPKI:symbol
+Fixes:PIGLA:name
+Fixes:PIGLA:symbol
+Fixes:PINTE:name
+Fixes:PINTE:symbol
+Fixes:REVEN:name
+Fixes:REVEN:symbol
+Fixes:RONPU:name
+Fixes:RONPU:symbol
+Fixes:SINGA:name
+Fixes:SINGA:symbol
+Fixes:TALNO:name
+Fixes:TALNO:symbol
+Fixes:TORNI:name
+Fixes:TORNI:symbol
+Fixes:TUKIR:name
+Fixes:TUKIR:symbol
+Fixes:VIBRU:name
+Fixes:VIBRU:symbol
+Fixes:VIRSO:name
+Fixes:VIRSO:symbol
+Geo:GEO:
+NDBs:CL:name
+NDBs:CL:symbol
+NDBs:YUY:name
+NDBs:YUY:symbol
+Regions:CYR603 SFC-170:polygon
+Regions:CYR606 SFC-170:polygon
+Regions:CYR612 SFC-27:polygon
+Regions:CYR613 SFC-008:polygon
+Runways:CYBC Baie-Comeau 10-28:centerline
+Runways:CYBC Baie-Comeau 10-28:extended centerline 1
+Runways:CYBC Baie-Comeau 10-28:extended centerline 1 left base
+Runways:CYBC Baie-Comeau 10-28:extended centerline 1 left ticks
+Runways:CYBC Baie-Comeau 10-28:extended centerline 1 left vectoring
+Runways:CYBC Baie-Comeau 10-28:extended centerline 1 right base
+Runways:CYBC Baie-Comeau 10-28:extended centerline 1 right ticks
+Runways:CYBC Baie-Comeau 10-28:extended centerline 1 right vectoring
+Runways:CYBC Baie-Comeau 10-28:extended centerline 2
+Runways:CYBC Baie-Comeau 10-28:extended centerline 2 left base
+Runways:CYBC Baie-Comeau 10-28:extended centerline 2 left ticks
+Runways:CYBC Baie-Comeau 10-28:extended centerline 2 left vectoring
+Runways:CYBC Baie-Comeau 10-28:extended centerline 2 right base
+Runways:CYBC Baie-Comeau 10-28:extended centerline 2 right ticks
+Runways:CYBC Baie-Comeau 10-28:extended centerline 2 right vectoring
+Runways:CYBC Baie-Comeau 10-28:name
+Runways:CYBG Bagotville 11-29:centerline
+Runways:CYBG Bagotville 11-29:extended centerline 1
+Runways:CYBG Bagotville 11-29:extended centerline 1 left base
+Runways:CYBG Bagotville 11-29:extended centerline 1 left ticks
+Runways:CYBG Bagotville 11-29:extended centerline 1 left vectoring
+Runways:CYBG Bagotville 11-29:extended centerline 1 right base
+Runways:CYBG Bagotville 11-29:extended centerline 1 right ticks
+Runways:CYBG Bagotville 11-29:extended centerline 1 right vectoring
+Runways:CYBG Bagotville 11-29:extended centerline 2
+Runways:CYBG Bagotville 11-29:extended centerline 2 left base
+Runways:CYBG Bagotville 11-29:extended centerline 2 left ticks
+Runways:CYBG Bagotville 11-29:extended centerline 2 left vectoring
+Runways:CYBG Bagotville 11-29:extended centerline 2 right base
+Runways:CYBG Bagotville 11-29:extended centerline 2 right ticks
+Runways:CYBG Bagotville 11-29:extended centerline 2 right vectoring
+Runways:CYBG Bagotville 11-29:name
+Runways:CYBG Bagotville 18-36:centerline
+Runways:CYBG Bagotville 18-36:extended centerline 1
+Runways:CYBG Bagotville 18-36:extended centerline 1 left base
+Runways:CYBG Bagotville 18-36:extended centerline 1 left ticks
+Runways:CYBG Bagotville 18-36:extended centerline 1 left vectoring
+Runways:CYBG Bagotville 18-36:extended centerline 1 right base
+Runways:CYBG Bagotville 18-36:extended centerline 1 right ticks
+Runways:CYBG Bagotville 18-36:extended centerline 1 right vectoring
+Runways:CYBG Bagotville 18-36:extended centerline 2
+Runways:CYBG Bagotville 18-36:extended centerline 2 left base
+Runways:CYBG Bagotville 18-36:extended centerline 2 left ticks
+Runways:CYBG Bagotville 18-36:extended centerline 2 left vectoring
+Runways:CYBG Bagotville 18-36:extended centerline 2 right base
+Runways:CYBG Bagotville 18-36:extended centerline 2 right ticks
+Runways:CYBG Bagotville 18-36:extended centerline 2 right vectoring
+Runways:CYBG Bagotville 18-36:name
+Runways:CYFB Iqualuit 17-35:centerline
+Runways:CYFB Iqualuit 17-35:extended centerline 1
+Runways:CYFB Iqualuit 17-35:extended centerline 1 left base
+Runways:CYFB Iqualuit 17-35:extended centerline 1 left ticks
+Runways:CYFB Iqualuit 17-35:extended centerline 1 left vectoring
+Runways:CYFB Iqualuit 17-35:extended centerline 1 right base
+Runways:CYFB Iqualuit 17-35:extended centerline 1 right ticks
+Runways:CYFB Iqualuit 17-35:extended centerline 1 right vectoring
+Runways:CYFB Iqualuit 17-35:extended centerline 2
+Runways:CYFB Iqualuit 17-35:extended centerline 2 left base
+Runways:CYFB Iqualuit 17-35:extended centerline 2 left ticks
+Runways:CYFB Iqualuit 17-35:extended centerline 2 left vectoring
+Runways:CYFB Iqualuit 17-35:extended centerline 2 right base
+Runways:CYFB Iqualuit 17-35:extended centerline 2 right ticks
+Runways:CYFB Iqualuit 17-35:extended centerline 2 right vectoring
+Runways:CYFB Iqualuit 17-35:name
+Runways:CYGP Gaspe 11-29:centerline
+Runways:CYGP Gaspe 11-29:extended centerline 1
+Runways:CYGP Gaspe 11-29:extended centerline 1 left base
+Runways:CYGP Gaspe 11-29:extended centerline 1 left ticks
+Runways:CYGP Gaspe 11-29:extended centerline 1 left vectoring
+Runways:CYGP Gaspe 11-29:extended centerline 1 right base
+Runways:CYGP Gaspe 11-29:extended centerline 1 right ticks
+Runways:CYGP Gaspe 11-29:extended centerline 1 right vectoring
+Runways:CYGP Gaspe 11-29:extended centerline 2
+Runways:CYGP Gaspe 11-29:extended centerline 2 left base
+Runways:CYGP Gaspe 11-29:extended centerline 2 left ticks
+Runways:CYGP Gaspe 11-29:extended centerline 2 left vectoring
+Runways:CYGP Gaspe 11-29:extended centerline 2 right base
+Runways:CYGP Gaspe 11-29:extended centerline 2 right ticks
+Runways:CYGP Gaspe 11-29:extended centerline 2 right vectoring
+Runways:CYGP Gaspe 11-29:name
+Runways:CYHU Montreal St-Hubert 06L-24R:centerline
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 left base
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 left ticks
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 left vectoring
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 right base
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 right ticks
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 right vectoring
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 left base
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 left ticks
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 left vectoring
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 right base
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 right ticks
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 right vectoring
+Runways:CYHU Montreal St-Hubert 06L-24R:name
+Runways:CYHU Montreal St-Hubert 06R-24L:centerline
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 left base
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 left ticks
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 left vectoring
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 right base
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 right ticks
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 right vectoring
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 left base
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 left ticks
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 left vectoring
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 right base
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 right ticks
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 right vectoring
+Runways:CYHU Montreal St-Hubert 06R-24L:name
+Runways:CYHU Montreal St-Hubert 10-28:centerline
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 left base
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 left ticks
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 left vectoring
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 right base
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 right ticks
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 right vectoring
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 left base
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 left ticks
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 left vectoring
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right base
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right ticks
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right vectoring
+Runways:CYHU Montreal St-Hubert 10-28:name
+Runways:CYJN St-Jean 02-20:centerline
+Runways:CYJN St-Jean 02-20:extended centerline 1
+Runways:CYJN St-Jean 02-20:extended centerline 1 left base
+Runways:CYJN St-Jean 02-20:extended centerline 1 left ticks
+Runways:CYJN St-Jean 02-20:extended centerline 1 left vectoring
+Runways:CYJN St-Jean 02-20:extended centerline 1 right base
+Runways:CYJN St-Jean 02-20:extended centerline 1 right ticks
+Runways:CYJN St-Jean 02-20:extended centerline 1 right vectoring
+Runways:CYJN St-Jean 02-20:extended centerline 2
+Runways:CYJN St-Jean 02-20:extended centerline 2 left base
+Runways:CYJN St-Jean 02-20:extended centerline 2 left ticks
+Runways:CYJN St-Jean 02-20:extended centerline 2 left vectoring
+Runways:CYJN St-Jean 02-20:extended centerline 2 right base
+Runways:CYJN St-Jean 02-20:extended centerline 2 right ticks
+Runways:CYJN St-Jean 02-20:extended centerline 2 right vectoring
+Runways:CYJN St-Jean 02-20:name
+Runways:CYJN St-Jean 06-24:centerline
+Runways:CYJN St-Jean 06-24:extended centerline 1
+Runways:CYJN St-Jean 06-24:extended centerline 1 left base
+Runways:CYJN St-Jean 06-24:extended centerline 1 left ticks
+Runways:CYJN St-Jean 06-24:extended centerline 1 left vectoring
+Runways:CYJN St-Jean 06-24:extended centerline 1 right base
+Runways:CYJN St-Jean 06-24:extended centerline 1 right ticks
+Runways:CYJN St-Jean 06-24:extended centerline 1 right vectoring
+Runways:CYJN St-Jean 06-24:extended centerline 2
+Runways:CYJN St-Jean 06-24:extended centerline 2 left base
+Runways:CYJN St-Jean 06-24:extended centerline 2 left ticks
+Runways:CYJN St-Jean 06-24:extended centerline 2 left vectoring
+Runways:CYJN St-Jean 06-24:extended centerline 2 right base
+Runways:CYJN St-Jean 06-24:extended centerline 2 right ticks
+Runways:CYJN St-Jean 06-24:extended centerline 2 right vectoring
+Runways:CYJN St-Jean 06-24:name
+Runways:CYJN St-Jean 11-29:centerline
+Runways:CYJN St-Jean 11-29:extended centerline 1
+Runways:CYJN St-Jean 11-29:extended centerline 1 left base
+Runways:CYJN St-Jean 11-29:extended centerline 1 left ticks
+Runways:CYJN St-Jean 11-29:extended centerline 1 left vectoring
+Runways:CYJN St-Jean 11-29:extended centerline 1 right base
+Runways:CYJN St-Jean 11-29:extended centerline 1 right ticks
+Runways:CYJN St-Jean 11-29:extended centerline 1 right vectoring
+Runways:CYJN St-Jean 11-29:extended centerline 2
+Runways:CYJN St-Jean 11-29:extended centerline 2 left base
+Runways:CYJN St-Jean 11-29:extended centerline 2 left ticks
+Runways:CYJN St-Jean 11-29:extended centerline 2 left vectoring
+Runways:CYJN St-Jean 11-29:extended centerline 2 right base
+Runways:CYJN St-Jean 11-29:extended centerline 2 right ticks
+Runways:CYJN St-Jean 11-29:extended centerline 2 right vectoring
+Runways:CYJN St-Jean 11-29:name
+Runways:CYMX Montreal Mirabel 06-24:centerline
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 left base
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 left ticks
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 left vectoring
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 right base
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 right ticks
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 right vectoring
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 left base
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 left ticks
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 left vectoring
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 right base
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 right ticks
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 right vectoring
+Runways:CYMX Montreal Mirabel 06-24:name
+Runways:CYMX Montreal Mirabel 11-29:centerline
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 left base
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 left ticks
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 left vectoring
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 right base
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 right ticks
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 right vectoring
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 left base
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 left ticks
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 left vectoring
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 right base
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 right ticks
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 right vectoring
+Runways:CYMX Montreal Mirabel 11-29:name
+Runways:CYND Ottawa Gatineau 09-27:centerline
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 left base
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 left ticks
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 left vectoring
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 right base
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 right ticks
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 right vectoring
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 left base
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 left ticks
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 left vectoring
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 right base
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 right ticks
+Runways:CYND Ottawa Gatineau 09-27:extended centerline 2 right vectoring
+Runways:CYND Ottawa Gatineau 09-27:name
+Runways:CYOW Ottawa MacDonald Cartier 04-22:centerline
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 left base
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 right base
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 1 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 left base
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 right base
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 04-22:extended centerline 2 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 04-22:name
+Runways:CYOW Ottawa MacDonald Cartier 07-25:centerline
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 left base
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 right base
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 1 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 left base
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 right base
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 07-25:extended centerline 2 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 07-25:name
+Runways:CYOW Ottawa MacDonald Cartier 14-32:centerline
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 left base
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 right base
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 1 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 left base
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 left ticks
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 left vectoring
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 right base
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 right ticks
+Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 right vectoring
+Runways:CYOW Ottawa MacDonald Cartier 14-32:name
+Runways:CYQB Quebec Jean Lesage 06-24:centerline
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1 left base
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1 left ticks
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1 left vectoring
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1 right base
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1 right ticks
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1 right vectoring
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2 left base
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2 left ticks
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2 left vectoring
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2 right base
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2 right ticks
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2 right vectoring
+Runways:CYQB Quebec Jean Lesage 06-24:name
+Runways:CYQB Quebec Jean Lesage 11-29:centerline
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1 left base
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1 left ticks
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1 left vectoring
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1 right base
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1 right ticks
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1 right vectoring
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 left base
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 left ticks
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 left vectoring
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 right base
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 right ticks
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 right vectoring
+Runways:CYQB Quebec Jean Lesage 11-29:name
+Runways:CYRC Chicoutimi St-Honore 06-24:centerline
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 1
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 1 left base
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 1 left ticks
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 1 left vectoring
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 1 right base
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 1 right ticks
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 1 right vectoring
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 2
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 2 left base
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 2 left ticks
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 2 left vectoring
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 2 right base
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 2 right ticks
+Runways:CYRC Chicoutimi St-Honore 06-24:extended centerline 2 right vectoring
+Runways:CYRC Chicoutimi St-Honore 06-24:name
+Runways:CYRC Chicoutimi St-Honore 12-30:centerline
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 1
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 1 left base
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 1 left ticks
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 1 left vectoring
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 1 right base
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 1 right ticks
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 1 right vectoring
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 2
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 2 left base
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 2 left ticks
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 2 left vectoring
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 2 right base
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 2 right ticks
+Runways:CYRC Chicoutimi St-Honore 12-30:extended centerline 2 right vectoring
+Runways:CYRC Chicoutimi St-Honore 12-30:name
+Runways:CYRC Chicoutimi St-Honore 18-36:centerline
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 1
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 1 left base
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 1 left ticks
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 1 left vectoring
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 1 right base
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 1 right ticks
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 1 right vectoring
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 2
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 2 left base
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 2 left ticks
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 2 left vectoring
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 2 right base
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 2 right ticks
+Runways:CYRC Chicoutimi St-Honore 18-36:extended centerline 2 right vectoring
+Runways:CYRC Chicoutimi St-Honore 18-36:name
+Runways:CYUL Montreal Trudeau 06L-24R:centerline
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 left base
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 left ticks
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 left vectoring
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 right base
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 right ticks
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 right vectoring
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 left base
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 left ticks
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 left vectoring
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 right base
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 right ticks
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 right vectoring
+Runways:CYUL Montreal Trudeau 06L-24R:name
+Runways:CYUL Montreal Trudeau 06R-24L:centerline
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 left base
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 left ticks
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 left vectoring
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 right base
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 right ticks
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 right vectoring
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 left base
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 left ticks
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 left vectoring
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 right base
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 right ticks
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 right vectoring
+Runways:CYUL Montreal Trudeau 06R-24L:name
+Runways:CYUL Montreal Trudeau 10-28:centerline
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 left base
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 left ticks
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 left vectoring
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 right base
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 right ticks
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 right vectoring
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 left base
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 left ticks
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 left vectoring
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right base
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right ticks
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right vectoring
+Runways:CYUL Montreal Trudeau 10-28:name
+Runways:CYUY Rouyn 08-26:centerline
+Runways:CYUY Rouyn 08-26:extended centerline 1
+Runways:CYUY Rouyn 08-26:extended centerline 1 left base
+Runways:CYUY Rouyn 08-26:extended centerline 1 left ticks
+Runways:CYUY Rouyn 08-26:extended centerline 1 left vectoring
+Runways:CYUY Rouyn 08-26:extended centerline 1 right base
+Runways:CYUY Rouyn 08-26:extended centerline 1 right ticks
+Runways:CYUY Rouyn 08-26:extended centerline 1 right vectoring
+Runways:CYUY Rouyn 08-26:extended centerline 2
+Runways:CYUY Rouyn 08-26:extended centerline 2 left base
+Runways:CYUY Rouyn 08-26:extended centerline 2 left ticks
+Runways:CYUY Rouyn 08-26:extended centerline 2 left vectoring
+Runways:CYUY Rouyn 08-26:extended centerline 2 right base
+Runways:CYUY Rouyn 08-26:extended centerline 2 right ticks
+Runways:CYUY Rouyn 08-26:extended centerline 2 right vectoring
+Runways:CYUY Rouyn 08-26:name
+Runways:CYVO Val-d-Or 18-36:centerline
+Runways:CYVO Val-d-Or 18-36:extended centerline 1
+Runways:CYVO Val-d-Or 18-36:extended centerline 1 left base
+Runways:CYVO Val-d-Or 18-36:extended centerline 1 left ticks
+Runways:CYVO Val-d-Or 18-36:extended centerline 1 left vectoring
+Runways:CYVO Val-d-Or 18-36:extended centerline 1 right base
+Runways:CYVO Val-d-Or 18-36:extended centerline 1 right ticks
+Runways:CYVO Val-d-Or 18-36:extended centerline 1 right vectoring
+Runways:CYVO Val-d-Or 18-36:extended centerline 2
+Runways:CYVO Val-d-Or 18-36:extended centerline 2 left base
+Runways:CYVO Val-d-Or 18-36:extended centerline 2 left ticks
+Runways:CYVO Val-d-Or 18-36:extended centerline 2 left vectoring
+Runways:CYVO Val-d-Or 18-36:extended centerline 2 right base
+Runways:CYVO Val-d-Or 18-36:extended centerline 2 right ticks
+Runways:CYVO Val-d-Or 18-36:extended centerline 2 right vectoring
+Runways:CYVO Val-d-Or 18-36:name
+Runways:CYYY Mont-Joli 06-24:centerline
+Runways:CYYY Mont-Joli 06-24:extended centerline 1
+Runways:CYYY Mont-Joli 06-24:extended centerline 1 left base
+Runways:CYYY Mont-Joli 06-24:extended centerline 1 left ticks
+Runways:CYYY Mont-Joli 06-24:extended centerline 1 left vectoring
+Runways:CYYY Mont-Joli 06-24:extended centerline 1 right base
+Runways:CYYY Mont-Joli 06-24:extended centerline 1 right ticks
+Runways:CYYY Mont-Joli 06-24:extended centerline 1 right vectoring
+Runways:CYYY Mont-Joli 06-24:extended centerline 2
+Runways:CYYY Mont-Joli 06-24:extended centerline 2 left base
+Runways:CYYY Mont-Joli 06-24:extended centerline 2 left ticks
+Runways:CYYY Mont-Joli 06-24:extended centerline 2 left vectoring
+Runways:CYYY Mont-Joli 06-24:extended centerline 2 right base
+Runways:CYYY Mont-Joli 06-24:extended centerline 2 right ticks
+Runways:CYYY Mont-Joli 06-24:extended centerline 2 right vectoring
+Runways:CYYY Mont-Joli 06-24:name
+Runways:CYYY Mont-Joli 15-33:centerline
+Runways:CYYY Mont-Joli 15-33:extended centerline 1
+Runways:CYYY Mont-Joli 15-33:extended centerline 1 left base
+Runways:CYYY Mont-Joli 15-33:extended centerline 1 left ticks
+Runways:CYYY Mont-Joli 15-33:extended centerline 1 left vectoring
+Runways:CYYY Mont-Joli 15-33:extended centerline 1 right base
+Runways:CYYY Mont-Joli 15-33:extended centerline 1 right ticks
+Runways:CYYY Mont-Joli 15-33:extended centerline 1 right vectoring
+Runways:CYYY Mont-Joli 15-33:extended centerline 2
+Runways:CYYY Mont-Joli 15-33:extended centerline 2 left base
+Runways:CYYY Mont-Joli 15-33:extended centerline 2 left ticks
+Runways:CYYY Mont-Joli 15-33:extended centerline 2 left vectoring
+Runways:CYYY Mont-Joli 15-33:extended centerline 2 right base
+Runways:CYYY Mont-Joli 15-33:extended centerline 2 right ticks
+Runways:CYYY Mont-Joli 15-33:extended centerline 2 right vectoring
+Runways:CYYY Mont-Joli 15-33:name
+Runways:CYZV Sept-Iles 09-27:centerline
+Runways:CYZV Sept-Iles 09-27:extended centerline 1
+Runways:CYZV Sept-Iles 09-27:extended centerline 1 left base
+Runways:CYZV Sept-Iles 09-27:extended centerline 1 left ticks
+Runways:CYZV Sept-Iles 09-27:extended centerline 1 left vectoring
+Runways:CYZV Sept-Iles 09-27:extended centerline 1 right base
+Runways:CYZV Sept-Iles 09-27:extended centerline 1 right ticks
+Runways:CYZV Sept-Iles 09-27:extended centerline 1 right vectoring
+Runways:CYZV Sept-Iles 09-27:extended centerline 2
+Runways:CYZV Sept-Iles 09-27:extended centerline 2 left base
+Runways:CYZV Sept-Iles 09-27:extended centerline 2 left ticks
+Runways:CYZV Sept-Iles 09-27:extended centerline 2 left vectoring
+Runways:CYZV Sept-Iles 09-27:extended centerline 2 right base
+Runways:CYZV Sept-Iles 09-27:extended centerline 2 right ticks
+Runways:CYZV Sept-Iles 09-27:extended centerline 2 right vectoring
+Runways:CYZV Sept-Iles 09-27:name
+Runways:CYZV Sept-Iles 13-31:centerline
+Runways:CYZV Sept-Iles 13-31:extended centerline 1
+Runways:CYZV Sept-Iles 13-31:extended centerline 1 left base
+Runways:CYZV Sept-Iles 13-31:extended centerline 1 left ticks
+Runways:CYZV Sept-Iles 13-31:extended centerline 1 left vectoring
+Runways:CYZV Sept-Iles 13-31:extended centerline 1 right base
+Runways:CYZV Sept-Iles 13-31:extended centerline 1 right ticks
+Runways:CYZV Sept-Iles 13-31:extended centerline 1 right vectoring
+Runways:CYZV Sept-Iles 13-31:extended centerline 2
+Runways:CYZV Sept-Iles 13-31:extended centerline 2 left base
+Runways:CYZV Sept-Iles 13-31:extended centerline 2 left ticks
+Runways:CYZV Sept-Iles 13-31:extended centerline 2 left vectoring
+Runways:CYZV Sept-Iles 13-31:extended centerline 2 right base
+Runways:CYZV Sept-Iles 13-31:extended centerline 2 right ticks
+Runways:CYZV Sept-Iles 13-31:extended centerline 2 right vectoring
+Runways:CYZV Sept-Iles 13-31:name
+VORs:ART:frequency
+VORs:ART:name
+VORs:ART:symbol
+VORs:VBS:frequency
+VORs:VBS:name
+VORs:VBS:symbol
+VORs:VLV:frequency
+VORs:VLV:name
+VORs:VLV:symbol
+VORs:YBC:frequency
+VORs:YBC:name
+VORs:YBC:symbol
+VORs:YGL:frequency
+VORs:YGL:name
+VORs:YGL:symbol
+VORs:YGP:frequency
+VORs:YGP:name
+VORs:YGP:symbol
+VORs:YJN:frequency
+VORs:YJN:name
+VORs:YJN:symbol
+VORs:YMX:frequency
+VORs:YMX:name
+VORs:YMX:symbol
+VORs:YOW:frequency
+VORs:YOW:name
+VORs:YOW:symbol
+VORs:YQB:frequency
+VORs:YQB:name
+VORs:YQB:symbol
+VORs:YRI:frequency
+VORs:YRI:name
+VORs:YRI:symbol
+VORs:YSC:frequency
+VORs:YSC:name
+VORs:YSC:symbol
+VORs:YUL:frequency
+VORs:YUL:name
+VORs:YUL:symbol
+VORs:YVO:frequency
+VORs:YVO:name
+VORs:YVO:symbol
+VORs:YYY:frequency
+VORs:YYY:name
+VORs:YYY:symbol
+VORs:YZV:frequency
+VORs:YZV:name
+VORs:YZV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:6
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:CSiT
+WINDOWAREA:44.903029:-75.587882:46.142672:-72.256356
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:65
+PLUGIN:Virtual Controller Assistant:CDYPOS:473
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:258
+PLUGIN:Virtual Controller Assistant:MSLYPOS:134
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:0
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2

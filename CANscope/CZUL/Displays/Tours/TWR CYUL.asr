@@ -1,0 +1,138 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+ARTCC low boundary:BOSTON-MSS:
+ARTCC low boundary:frontiere_sud:
+ARTCC low boundary:MTL_TCU:
+Fixes:ALNOV:name
+Fixes:ALNOV:symbol
+Fixes:ALWAR:name
+Fixes:ALWAR:symbol
+Fixes:BIRPO:name
+Fixes:BIRPO:symbol
+Fixes:FULFO:name
+Fixes:FULFO:symbol
+Fixes:GAUTI:name
+Fixes:GAUTI:symbol
+Fixes:ITNIS:name
+Fixes:ITNIS:symbol
+Fixes:LESEV:name
+Fixes:LESEV:symbol
+Fixes:LEVUG:name
+Fixes:LEVUG:symbol
+Fixes:LONNA:name
+Fixes:LONNA:symbol
+Fixes:MELPA:name
+Fixes:MELPA:symbol
+Fixes:NASKK:name
+Fixes:NASKK:symbol
+Fixes:NIKOO:name
+Fixes:NIKOO:symbol
+Fixes:OMEKI:name
+Fixes:OMEKI:symbol
+Fixes:PERVI:name
+Fixes:PERVI:symbol
+Fixes:SLOKA:name
+Fixes:SLOKA:symbol
+Fixes:VOLAX:name
+Fixes:VOLAX:symbol
+Fixes:XULTA:name
+Fixes:XULTA:symbol
+Free Text:YUL MVA\17<15:freetext
+Free Text:YUL MVA\22<20:freetext
+Free Text:YUL MVA\22<20:freetext
+Free Text:YUL MVA\22<20:freetext
+Free Text:YUL MVA\23<21:freetext
+Free Text:YUL MVA\25<22:freetext
+Free Text:YUL MVA\28<25:freetext
+Free Text:YUL MVA\28<25:freetext
+Free Text:YUL MVA\28<25:freetext
+Free Text:YUL MVA\28<25:freetext
+Free Text:YUL MVA\33<29:freetext
+Free Text:YUL MVA\33<30:freetext
+Free Text:YUL MVA\38<34:freetext
+Free Text:YUL MVA\38<34:freetext
+Geo:AIRPORT LAYOUTS:
+Geo:GEO:
+Regions:CYR603 SFC-170:polygon
+Regions:CYR612 SFC-27:polygon
+Regions:CYR613 SFC-008:polygon
+Regions:CYUL:polygon
+Runways:CYUL Montreal Trudeau 06L-24R:centerline
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 left base
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 left ticks
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 left vectoring
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 right base
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 right ticks
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 right vectoring
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 left base
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 left ticks
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 left vectoring
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 right base
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 right ticks
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 right vectoring
+Runways:CYUL Montreal Trudeau 06L-24R:name
+Runways:CYUL Montreal Trudeau 06R-24L:centerline
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 left base
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 left ticks
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 left vectoring
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 right base
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 right ticks
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 right vectoring
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 left base
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 left ticks
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 left vectoring
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 right base
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 right ticks
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 right vectoring
+Runways:CYUL Montreal Trudeau 06R-24L:name
+Runways:CYUL Montreal Trudeau 10-28:centerline
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 left base
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 left ticks
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 left vectoring
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 right base
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 right ticks
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 right vectoring
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 left base
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 left ticks
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 left vectoring
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right base
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right ticks
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right vectoring
+Runways:CYUL Montreal Trudeau 10-28:name
+Sids:CIRCUIT VILLE-MARIE:
+VORs:YUL:frequency
+VORs:YUL:name
+VORs:YUL:symbol
+SHOWC:0
+SHOWSB:0
+BELOW:150
+ABOVE:10000
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:NARDS
+WINDOWAREA:45.259581:-74.112747:45.672575:-73.271497
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:66
+PLUGIN:Virtual Controller Assistant:CDYPOS:466
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:0
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2
