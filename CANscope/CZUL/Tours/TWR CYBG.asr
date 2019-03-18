@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Program Files\CsernakGergely\EuroScope\CANscope\CZUL\CZUL_2013_12_26_v1312.sct2
-SECTORTITLE:CZUL_2013_12_26_v1312.sct2
 Airports:01G:name
 Airports:01G:symbol
 Airports:07B:name
