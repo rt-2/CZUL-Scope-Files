@@ -3,16 +3,9 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:E:\EuroScope\CANscope\CZUL\CZUL 2014.sct2
 SECTORTITLE:CZUL 2014.sct2
-Airports:CYJN:name
-Airports:CYJN:symbol
-Airports:CYMX:name
-Airports:CYMX:symbol
-Airports:CYOW:name
-Airports:CYOW:symbol
-Airports:CYQB:name
-Airports:CYQB:symbol
-Airports:CYUL:name
-Airports:CYUL:symbol
+ARTCC low boundary:BOSTON-MSS:
+ARTCC low boundary:frontiere_sud:
+ARTCC low boundary:MTL_TCU:
 Fixes:ALNOV:name
 Fixes:ALNOV:symbol
 Fixes:ALWAR:name
@@ -23,12 +16,8 @@ Fixes:FULFO:name
 Fixes:FULFO:symbol
 Fixes:GAUTI:name
 Fixes:GAUTI:symbol
-Fixes:IPVAN:name
-Fixes:IPVAN:symbol
 Fixes:ITNIS:name
 Fixes:ITNIS:symbol
-Fixes:KEKBA:name
-Fixes:KEKBA:symbol
 Fixes:LESEV:name
 Fixes:LESEV:symbol
 Fixes:LEVUG:name
@@ -43,14 +32,10 @@ Fixes:NIKOO:name
 Fixes:NIKOO:symbol
 Fixes:OMEKI:name
 Fixes:OMEKI:symbol
-Fixes:ORATOIRE:name
-Fixes:ORATOIRE:symbol
 Fixes:PERVI:name
 Fixes:PERVI:symbol
 Fixes:SLOKA:name
 Fixes:SLOKA:symbol
-Fixes:STADE:name
-Fixes:STADE:symbol
 Fixes:VOLAX:name
 Fixes:VOLAX:symbol
 Fixes:XULTA:name
@@ -74,6 +59,7 @@ Geo:GEO:
 Regions:CYR603 SFC-170:polygon
 Regions:CYR612 SFC-27:polygon
 Regions:CYR613 SFC-008:polygon
+Regions:CYUL:polygon
 Runways:CYUL Montreal Trudeau 06L-24R:centerline
 Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1
 Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 left base
@@ -137,9 +123,8 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:15.50000
 TAGFAMILY:NARDS
-WINDOWAREA:45.268130:-74.377831:45.810670:-73.063378
+WINDOWAREA:45.259581:-74.112747:45.672575:-73.271497
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
 PLUGIN:Virtual Controller Assistant:CDSHOW:1
 PLUGIN:Virtual Controller Assistant:CDXPOS:66
