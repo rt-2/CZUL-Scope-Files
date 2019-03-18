@@ -472,10 +472,7 @@ Airports:CZDI:name
 Airports:CZEM:name
 Airports:CZKE:name
 Airports:CZNB:name
-Airports:CZQM:name
-Airports:CZUL:name
 Airports:CZUM:name
-Airports:CZYZ:name
 Airports:D38:name
 Airports:D43:name
 Airports:D46:name
@@ -548,7 +545,6 @@ Airports:KUCA:name
 Airports:KWVL:name
 Airports:LFVM:name
 Airports:LFVP:name
-Airports:LPPO:name
 Airports:ME05:name
 Airports:ME06:name
 Airports:ME08:name
@@ -655,7 +651,6 @@ Airports:NY96:name
 Airports:NY97:name
 Airports:SG4:name
 Airports:SR2:name
-Airports:SU2:name
 Airports:TK3:name
 Airports:VT01:name
 Airports:VT03:name
@@ -684,40 +679,8 @@ Airports:VT52:name
 Airports:VT53:name
 Airports:VT55:name
 Airports:VT56:name
-ARTCC boundary:BOS-SPLIT:
-ARTCC boundary:BOSTON-MSS:
-ARTCC boundary:CL-TAFFY:
-ARTCC boundary:CZEG-CZQX:
-ARTCC boundary:CZQM-KZNY:
-ARTCC boundary:CZQM_FIR:
-ARTCC boundary:CZQX_CTR:
-ARTCC boundary:CZQX_OC:
-ARTCC boundary:CZUL-CZEG:
-ARTCC boundary:CZUL-CZQX:
-ARTCC boundary:CZUL-CZWG:
-ARTCC boundary:CZUL-CZYZ:
-ARTCC boundary:CZUL-KZBW:
-ARTCC boundary:CZUL_PON:
-ARTCC boundary:CZWG-CZEG:
-ARTCC boundary:CZYZ_CZWG:
-ARTCC boundary:CZYZ_HI:
 ARTCC boundary:KZBW_CTR:
 ARTCC boundary:KZBW_CZYZ:
-ARTCC boundary:KZBW_KZNY:
-ARTCC boundary:KZOB_CT:
-ARTCC boundary:LE-ZV:
-ARTCC boundary:PO:
-ARTCC boundary:QE-QX:
-ARTCC boundary:WK:
-ARTCC boundary:WK-ZV:
-ARTCC boundary:YBG_MTCU:
-ARTCC boundary:YUY-25NM:
-ARTCC boundary:ZMPZOB:
-ARTCC boundary:ZMPZWG:
-ARTCC boundary:ZMPZYZ:
-ARTCC boundary:ZYZZOB:
-ARTCC high boundary:EST:
-ARTCC high boundary:MANIC:
 Free Text:YBG MVA\32<29:freetext
 Free Text:YBG MVA\41<37:freetext
 Free Text:YBG MVA\43<38:freetext
@@ -725,9 +688,7 @@ Free Text:YBG MVA\44<39:freetext
 Free Text:YBG MVA\44<40:freetext
 Free Text:YBG MVA\52<46:freetext
 Free Text:YBG MVA\59<53:freetext
-NDBs:D8:frequency
-NDBs:D8:name
-NDBs:D8:symbol
+Geo:GEO:
 NDBs:RJ:frequency
 NDBs:RJ:name
 NDBs:RJ:symbol
@@ -737,9 +698,6 @@ NDBs:YBG:symbol
 NDBs:YRC:frequency
 NDBs:YRC:name
 NDBs:YRC:symbol
-NDBs:YTF:frequency
-NDBs:YTF:name
-NDBs:YTF:symbol
 Runways:CYBG Bagotville 11-29:centerline
 Runways:CYBG Bagotville 11-29:extended centerline 1
 Runways:CYBG Bagotville 11-29:extended centerline 1 left base
@@ -790,6 +748,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)
-WINDOWAREA:46.401755:-73.924365:50.440087:-68.018606
+WINDOWAREA:47.250014:-73.029624:49.317640:-68.817958
