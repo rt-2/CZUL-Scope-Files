@@ -3,10 +3,7 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:E:\EuroScope\CANscope\CZUL\CZUL 2014.sct2
 SECTORTITLE:CZUL 2014.sct2
-Airports:CYJN:name
-Airports:CYJN:symbol
 Geo:AIRPORT LAYOUTS:
-Runways:CYJN St-Jean 02-20:centerline
 Runways:CYJN St-Jean 02-20:extended centerline 1
 Runways:CYJN St-Jean 02-20:extended centerline 1 left base
 Runways:CYJN St-Jean 02-20:extended centerline 1 left ticks
@@ -22,7 +19,6 @@ Runways:CYJN St-Jean 02-20:extended centerline 2 right base
 Runways:CYJN St-Jean 02-20:extended centerline 2 right ticks
 Runways:CYJN St-Jean 02-20:extended centerline 2 right vectoring
 Runways:CYJN St-Jean 02-20:name
-Runways:CYJN St-Jean 06-24:centerline
 Runways:CYJN St-Jean 06-24:extended centerline 1
 Runways:CYJN St-Jean 06-24:extended centerline 1 left base
 Runways:CYJN St-Jean 06-24:extended centerline 1 left ticks
@@ -38,7 +34,6 @@ Runways:CYJN St-Jean 06-24:extended centerline 2 right base
 Runways:CYJN St-Jean 06-24:extended centerline 2 right ticks
 Runways:CYJN St-Jean 06-24:extended centerline 2 right vectoring
 Runways:CYJN St-Jean 06-24:name
-Runways:CYJN St-Jean 11-29:centerline
 Runways:CYJN St-Jean 11-29:extended centerline 1
 Runways:CYJN St-Jean 11-29:extended centerline 1 left base
 Runways:CYJN St-Jean 11-29:extended centerline 1 left ticks
@@ -65,6 +60,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:NARDS
-WINDOWAREA:45.288086:-73.298824:45.303000:-73.262691
+WINDOWAREA:45.286674:-73.298824:45.304412:-73.262691
