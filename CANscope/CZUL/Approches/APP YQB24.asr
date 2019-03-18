@@ -17,10 +17,6 @@ Airports:CYSJ:name
 Airports:CYSJ:symbol
 Airports:CYUL:name
 Airports:CYUL:symbol
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
-ARTCC high boundary:NORD:
-ARTCC low boundary:frontière_sud_+_CN:
 ARTCC low boundary:YQB_TCU:
 Fixes:ADVEM:name
 Fixes:ADVEM:symbol
@@ -124,6 +120,20 @@ Fixes:VIXUV:name
 Fixes:VIXUV:symbol
 Fixes:VODIX:name
 Fixes:VODIX:symbol
+Free Text:YQB MVA\24<22   :freetext
+Free Text:YQB MVA\24<22   :freetext
+Free Text:YQB MVA\33<30   :freetext
+Free Text:YQB MVA\39<35   :freetext
+Free Text:YQB MVA\40<36   :freetext
+Free Text:YQB MVA\40<36   :freetext
+Free Text:YQB MVA\43<39   :freetext
+Free Text:YQB MVA\43<39   :freetext
+Free Text:YQB MVA\50<45   :freetext
+Free Text:YQB MVA\50<45   :freetext
+Free Text:YQB MVA\50<45   :freetext
+Free Text:YQB MVA\50<45   :freetext
+Free Text:YQB MVA\57<51   :freetext
+Free Text:YQB MVA\57<51   :freetext
 Geo:GEO:
 NDBs:BV:name
 NDBs:BV:symbol
@@ -133,8 +143,12 @@ Regions:CYR603 SFC-170:polygon
 Regions:CYR612 SFC-27:polygon
 Runways:CYQB Quebec Jean Lesage 06-24:centerline
 Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1 left base
 Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1 left ticks
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1 left vectoring
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1 right base
 Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1 right ticks
+Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1 right vectoring
 Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2
 Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2 left base
 Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2 left ticks
@@ -143,6 +157,22 @@ Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2 right base
 Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2 right ticks
 Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 2 right vectoring
 Runways:CYQB Quebec Jean Lesage 06-24:name
+Runways:CYQB Quebec Jean Lesage 11-29:centerline
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1 left base
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1 left ticks
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1 left vectoring
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1 right base
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1 right ticks
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 1 right vectoring
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 left base
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 left ticks
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 left vectoring
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 right base
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 right ticks
+Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 right vectoring
+Runways:CYQB Quebec Jean Lesage 11-29:name
 Sids:YQB arr KAROT:
 Sids:YQB arr OLAVO:
 Sids:YQB arr OMVAR:
@@ -171,9 +201,8 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:15.50000
 TAGFAMILY:CSiT
-WINDOWAREA:46.110213:-73.020085:47.281706:-69.871713
+WINDOWAREA:45.923147:-73.020085:47.468772:-69.871713
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
 PLUGIN:Virtual Controller Assistant:CDSHOW:1
 PLUGIN:Virtual Controller Assistant:CDXPOS:100

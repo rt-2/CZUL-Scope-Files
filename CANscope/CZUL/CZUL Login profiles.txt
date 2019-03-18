@@ -69,9 +69,14 @@ ATIS2:Montreal Centre - SECTEUR BREVOORT SECTOR - Bilingual (EN/FR)
 ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
 ATIS4:
 
+PROFILE:CYUL_APP:150:5
+ATIS2:Montreal Arrivals North - Bilingual (EN/FR)
+ATIS3:Realistic correlation and radar coverage enabled
+ATIS4:
+
 PROFILE:CYUL_N_APP:150:5
 ATIS2:Montreal Arrivals North - Bilingual (EN/FR)
-ATIS3:Covering CYUL only
+ATIS3:
 ATIS4:
 
 PROFILE:CYUL_L_APP:150:5
