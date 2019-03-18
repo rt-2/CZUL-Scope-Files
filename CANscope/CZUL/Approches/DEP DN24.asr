@@ -3,54 +3,14 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:C:\Program Files\CsernakGergely\EuroScope\CANscope\CZUL\CZUL_2013_12_26_v1312.sct2
 SECTORTITLE:CZUL_2013_12_26_v1312.sct2
-ARTCC boundary:BOS-SPLIT:
-ARTCC boundary:BOSTON-MSS:
-ARTCC boundary:CL-TAFFY:
-ARTCC boundary:CZEG-CZQX:
-ARTCC boundary:CZQM-KZNY:
-ARTCC boundary:CZQM_FIR:
-ARTCC boundary:CZQX_CTR:
-ARTCC boundary:CZQX_OC:
-ARTCC boundary:CZUL-CZEG:
-ARTCC boundary:CZUL-CZQX:
-ARTCC boundary:CZUL-CZWG:
-ARTCC boundary:CZUL-CZYZ:
-ARTCC boundary:CZUL-KZBW:
-ARTCC boundary:CZUL_PON:
-ARTCC boundary:CZWG-CZEG:
-ARTCC boundary:CZYZ_CZWG:
-ARTCC boundary:CZYZ_HI:
 ARTCC boundary:KZBW_CTR:
 ARTCC boundary:KZBW_CZYZ:
-ARTCC boundary:KZBW_KZNY:
-ARTCC boundary:KZOB_CT:
-ARTCC boundary:LE-ZV:
-ARTCC boundary:PO:
-ARTCC boundary:QE-QX:
-ARTCC boundary:WK:
-ARTCC boundary:WK-ZV:
-ARTCC boundary:YBG_MTCU:
-ARTCC boundary:YUY-25NM:
-ARTCC boundary:ZMPZOB:
-ARTCC boundary:ZMPZWG:
-ARTCC boundary:ZMPZYZ:
-ARTCC boundary:ZYZZOB:
-ARTCC high boundary:CZQM_280-:
-ARTCC high boundary:CZQX_180+:
-ARTCC high boundary:CZQX_CTR:
-ARTCC high boundary:CZYZ_LOW:
-ARTCC high boundary:EST:
-ARTCC high boundary:MANIC:
-ARTCC high boundary:NORD:
-ARTCC high boundary:NORD-YQB:
-ARTCC high boundary:YZ-UL-GATE:
 ARTCC low boundary:BOSTON-MSS:
 ARTCC low boundary:CYYR_APP:
+ARTCC low boundary:frontiere_sud:
 ARTCC low boundary:KBTV_TCU:
+ARTCC low boundary:MTL_SPLIT:
 ARTCC low boundary:MTL_TCU:
-ARTCC low boundary:YOW_TCU:
-ARTCC low boundary:YQB_TCU:
-ARTCC low boundary:YTR_MTCU:
 Fixes:AGNAG:name
 Fixes:AGNAG:symbol
 Fixes:ALSET:name
@@ -191,96 +151,61 @@ Fixes:VOBOK:name
 Fixes:VOBOK:symbol
 Fixes:WARDS:name
 Fixes:WARDS:symbol
-NDBs:1E:name
-NDBs:1E:symbol
-NDBs:1F:name
-NDBs:1F:symbol
+Free Text:YUL MVA\17<15:freetext
+Free Text:YUL MVA\22<20:freetext
+Free Text:YUL MVA\22<20:freetext
+Free Text:YUL MVA\22<20:freetext
+Free Text:YUL MVA\23<21:freetext
+Free Text:YUL MVA\25<22:freetext
+Free Text:YUL MVA\28<25:freetext
+Free Text:YUL MVA\28<25:freetext
+Free Text:YUL MVA\28<25:freetext
+Free Text:YUL MVA\28<25:freetext
+Free Text:YUL MVA\33<29:freetext
+Free Text:YUL MVA\33<30:freetext
+Free Text:YUL MVA\38<34:freetext
+Free Text:YUL MVA\38<34:freetext
+Geo:GEO:
 NDBs:2Q:name
 NDBs:2Q:symbol
-NDBs:2T:name
-NDBs:2T:symbol
 NDBs:3B:name
 NDBs:3B:symbol
 NDBs:3U:name
 NDBs:3U:symbol
 NDBs:5Q:name
 NDBs:5Q:symbol
-NDBs:6E:name
-NDBs:6E:symbol
-NDBs:6F:name
-NDBs:6F:symbol
-NDBs:7L:name
-NDBs:7L:symbol
 NDBs:7P:name
 NDBs:7P:symbol
 NDBs:9H:name
 NDBs:9H:symbol
 NDBs:9Q:name
 NDBs:9Q:symbol
-NDBs:AU:name
-NDBs:AU:symbol
-NDBs:AY:name
-NDBs:AY:symbol
-NDBs:BST:name
-NDBs:BST:symbol
-NDBs:BT:name
-NDBs:BT:symbol
-NDBs:BUP:name
-NDBs:BUP:symbol
 NDBs:BV:name
 NDBs:BV:symbol
 NDBs:BX:name
 NDBs:BX:symbol
-NDBs:CA:name
-NDBs:CA:symbol
 NDBs:CL:name
 NDBs:CL:symbol
 NDBs:CN:name
 NDBs:CN:symbol
-NDBs:D8:name
-NDBs:D8:symbol
 NDBs:DG:name
 NDBs:DG:symbol
-NDBs:E8:name
-NDBs:E8:symbol
-NDBs:EPM:name
-NDBs:EPM:symbol
-NDBs:F7:name
-NDBs:F7:symbol
 NDBs:F8:name
 NDBs:F8:symbol
-NDBs:F9:name
-NDBs:F9:symbol
-NDBs:FC:name
-NDBs:FC:symbol
 NDBs:FE:name
 NDBs:FE:symbol
 NDBs:GL:name
 NDBs:GL:symbol
-NDBs:GMA:name
-NDBs:GMA:symbol
 NDBs:GP:name
 NDBs:GP:symbol
-NDBs:GTB:name
-NDBs:GTB:symbol
 NDBs:GW:name
 NDBs:GW:symbol
-NDBs:HO:name
-NDBs:HO:symbol
-NDBs:JC:name
-NDBs:JC:symbol
 NDBs:K7:name
 NDBs:K7:symbol
 NDBs:K8:name
 NDBs:K8:symbol
 NDBs:KR:name
 NDBs:KR:symbol
-NDBs:KZ:name
-NDBs:KZ:symbol
-NDBs:LLX:name
-NDBs:LLX:symbol
-NDBs:LNT:name
-NDBs:LNT:symbol
 NDBs:ME:name
 NDBs:ME:symbol
 NDBs:ML:name
@@ -291,22 +216,12 @@ NDBs:MT:name
 NDBs:MT:symbol
 NDBs:NM:name
 NDBs:NM:symbol
-NDBs:OG:name
-NDBs:OG:symbol
-NDBs:OLD:name
-NDBs:OLD:symbol
-NDBs:OO:name
-NDBs:OO:symbol
 NDBs:OU:name
 NDBs:OU:symbol
 NDBs:OW:name
 NDBs:OW:symbol
 NDBs:PN:name
 NDBs:PN:symbol
-NDBs:PQ:name
-NDBs:PQ:symbol
-NDBs:PTD:name
-NDBs:PTD:symbol
 NDBs:QB:name
 NDBs:QB:symbol
 NDBs:R1:name
@@ -315,20 +230,10 @@ NDBs:RI:name
 NDBs:RI:symbol
 NDBs:RJ:name
 NDBs:RJ:symbol
-NDBs:RQM:name
-NDBs:RQM:symbol
-NDBs:SB:name
-NDBs:SB:symbol
 NDBs:SC:name
 NDBs:SC:symbol
-NDBs:SJ:name
-NDBs:SJ:symbol
-NDBs:SL:name
-NDBs:SL:symbol
 NDBs:T8:name
 NDBs:T8:symbol
-NDBs:TZ:name
-NDBs:TZ:symbol
 NDBs:UAC:name
 NDBs:UAC:symbol
 NDBs:UFX:name
@@ -337,32 +242,22 @@ NDBs:UHA:name
 NDBs:UHA:symbol
 NDBs:UL:name
 NDBs:UL:symbol
-NDBs:UM:name
-NDBs:UM:symbol
 NDBs:VP:name
 NDBs:VP:symbol
 NDBs:W7:name
 NDBs:W7:symbol
-NDBs:XQA:name
-NDBs:XQA:symbol
 NDBs:Y8:name
 NDBs:Y8:symbol
 NDBs:YAS:name
 NDBs:YAS:symbol
-NDBs:YAT:name
-NDBs:YAT:symbol
 NDBs:YBG:name
 NDBs:YBG:symbol
 NDBs:YBM:name
 NDBs:YBM:symbol
-NDBs:YDP:name
-NDBs:YDP:symbol
 NDBs:YFA:name
 NDBs:YFA:symbol
 NDBs:YFM:name
 NDBs:YFM:symbol
-NDBs:YFT:name
-NDBs:YFT:symbol
 NDBs:YFY:name
 NDBs:YFY:symbol
 NDBs:YGK:name
@@ -391,8 +286,6 @@ NDBs:YLQ:name
 NDBs:YLQ:symbol
 NDBs:YLU:name
 NDBs:YLU:symbol
-NDBs:YMH:name
-NDBs:YMH:symbol
 NDBs:YMU:name
 NDBs:YMU:symbol
 NDBs:YMW:name
@@ -401,16 +294,8 @@ NDBs:YNC:name
 NDBs:YNC:symbol
 NDBs:YPH:name
 NDBs:YPH:symbol
-NDBs:YPP:name
-NDBs:YPP:symbol
-NDBs:YPQ:name
-NDBs:YPQ:symbol
 NDBs:YPX:name
 NDBs:YPX:symbol
-NDBs:YQA:name
-NDBs:YQA:symbol
-NDBs:YR:name
-NDBs:YR:symbol
 NDBs:YRC:name
 NDBs:YRC:symbol
 NDBs:YRQ:name
@@ -421,12 +306,6 @@ NDBs:YSH:name
 NDBs:YSH:symbol
 NDBs:YSK:name
 NDBs:YSK:symbol
-NDBs:YSL:name
-NDBs:YSL:symbol
-NDBs:YTA:name
-NDBs:YTA:symbol
-NDBs:YTF:name
-NDBs:YTF:symbol
 NDBs:YTQ:name
 NDBs:YTQ:symbol
 NDBs:YTR:name
@@ -435,8 +314,6 @@ NDBs:YUY:name
 NDBs:YUY:symbol
 NDBs:YVB:name
 NDBs:YVB:symbol
-NDBs:YWA:name
-NDBs:YWA:symbol
 NDBs:YXK:name
 NDBs:YXK:symbol
 NDBs:YXR:name
@@ -447,8 +324,6 @@ NDBs:YZG:name
 NDBs:YZG:symbol
 NDBs:ZBM:name
 NDBs:ZBM:symbol
-NDBs:ZDH:name
-NDBs:ZDH:symbol
 NDBs:ZEM:name
 NDBs:ZEM:symbol
 NDBs:ZHU:name
@@ -459,25 +334,139 @@ NDBs:ZMR:name
 NDBs:ZMR:symbol
 NDBs:ZMX:name
 NDBs:ZMX:symbol
-NDBs:ZOW:name
-NDBs:ZOW:symbol
-NDBs:ZSB:name
-NDBs:ZSB:symbol
-NDBs:ZST:name
-NDBs:ZST:symbol
-NDBs:ZUL:name
-NDBs:ZUL:symbol
-NDBs:ZV:name
-NDBs:ZV:symbol
-NDBs:ZYB:name
-NDBs:ZYB:symbol
-NDBs:ZYZ:name
-NDBs:ZYZ:symbol
 NDBs:ZZR:name
 NDBs:ZZR:symbol
 Regions:CYR603 SFC-170:polygon
 Regions:CYR606 SFC-170:polygon
 Regions:CYR612 SFC-27:polygon
+Runways:CYHU Montreal St-Hubert 06L-24R:centerline
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 left base
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 left ticks
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 left vectoring
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 right base
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 right ticks
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 right vectoring
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 left base
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 left ticks
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 left vectoring
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 right base
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 right ticks
+Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 right vectoring
+Runways:CYHU Montreal St-Hubert 06L-24R:name
+Runways:CYHU Montreal St-Hubert 06R-24L:centerline
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 left base
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 left ticks
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 left vectoring
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 right base
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 right ticks
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 right vectoring
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 left base
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 left ticks
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 left vectoring
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 right base
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 right ticks
+Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 right vectoring
+Runways:CYHU Montreal St-Hubert 06R-24L:name
+Runways:CYHU Montreal St-Hubert 10-28:centerline
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 left base
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 left ticks
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 left vectoring
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 right base
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 right ticks
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 right vectoring
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 left base
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 left ticks
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 left vectoring
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right base
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right ticks
+Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right vectoring
+Runways:CYHU Montreal St-Hubert 10-28:name
+Runways:CYJN St-Jean 02-20:centerline
+Runways:CYJN St-Jean 02-20:extended centerline 1
+Runways:CYJN St-Jean 02-20:extended centerline 1 left base
+Runways:CYJN St-Jean 02-20:extended centerline 1 left ticks
+Runways:CYJN St-Jean 02-20:extended centerline 1 left vectoring
+Runways:CYJN St-Jean 02-20:extended centerline 1 right base
+Runways:CYJN St-Jean 02-20:extended centerline 1 right ticks
+Runways:CYJN St-Jean 02-20:extended centerline 1 right vectoring
+Runways:CYJN St-Jean 02-20:extended centerline 2
+Runways:CYJN St-Jean 02-20:extended centerline 2 left base
+Runways:CYJN St-Jean 02-20:extended centerline 2 left ticks
+Runways:CYJN St-Jean 02-20:extended centerline 2 left vectoring
+Runways:CYJN St-Jean 02-20:extended centerline 2 right base
+Runways:CYJN St-Jean 02-20:extended centerline 2 right ticks
+Runways:CYJN St-Jean 02-20:extended centerline 2 right vectoring
+Runways:CYJN St-Jean 02-20:name
+Runways:CYJN St-Jean 06-24:centerline
+Runways:CYJN St-Jean 06-24:extended centerline 1
+Runways:CYJN St-Jean 06-24:extended centerline 1 left base
+Runways:CYJN St-Jean 06-24:extended centerline 1 left ticks
+Runways:CYJN St-Jean 06-24:extended centerline 1 left vectoring
+Runways:CYJN St-Jean 06-24:extended centerline 1 right base
+Runways:CYJN St-Jean 06-24:extended centerline 1 right ticks
+Runways:CYJN St-Jean 06-24:extended centerline 1 right vectoring
+Runways:CYJN St-Jean 06-24:extended centerline 2
+Runways:CYJN St-Jean 06-24:extended centerline 2 left base
+Runways:CYJN St-Jean 06-24:extended centerline 2 left ticks
+Runways:CYJN St-Jean 06-24:extended centerline 2 left vectoring
+Runways:CYJN St-Jean 06-24:extended centerline 2 right base
+Runways:CYJN St-Jean 06-24:extended centerline 2 right ticks
+Runways:CYJN St-Jean 06-24:extended centerline 2 right vectoring
+Runways:CYJN St-Jean 06-24:name
+Runways:CYJN St-Jean 11-29:centerline
+Runways:CYJN St-Jean 11-29:extended centerline 1
+Runways:CYJN St-Jean 11-29:extended centerline 1 left base
+Runways:CYJN St-Jean 11-29:extended centerline 1 left ticks
+Runways:CYJN St-Jean 11-29:extended centerline 1 left vectoring
+Runways:CYJN St-Jean 11-29:extended centerline 1 right base
+Runways:CYJN St-Jean 11-29:extended centerline 1 right ticks
+Runways:CYJN St-Jean 11-29:extended centerline 1 right vectoring
+Runways:CYJN St-Jean 11-29:extended centerline 2
+Runways:CYJN St-Jean 11-29:extended centerline 2 left base
+Runways:CYJN St-Jean 11-29:extended centerline 2 left ticks
+Runways:CYJN St-Jean 11-29:extended centerline 2 left vectoring
+Runways:CYJN St-Jean 11-29:extended centerline 2 right base
+Runways:CYJN St-Jean 11-29:extended centerline 2 right ticks
+Runways:CYJN St-Jean 11-29:extended centerline 2 right vectoring
+Runways:CYJN St-Jean 11-29:name
+Runways:CYMX Montreal Mirabel 06-24:centerline
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 left base
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 left ticks
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 left vectoring
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 right base
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 right ticks
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 right vectoring
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 left base
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 left ticks
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 left vectoring
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 right base
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 right ticks
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 right vectoring
+Runways:CYMX Montreal Mirabel 06-24:name
+Runways:CYMX Montreal Mirabel 11-29:centerline
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 left base
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 left ticks
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 left vectoring
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 right base
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 right ticks
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 right vectoring
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 left base
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 left ticks
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 left vectoring
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 right base
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 right ticks
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 right vectoring
+Runways:CYMX Montreal Mirabel 11-29:name
 Runways:CYUL Montreal Trudeau 06L-24R:centerline
 Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1
 Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 left base
@@ -528,12 +517,9 @@ Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right vectoring
 Runways:CYUL Montreal Trudeau 10-28:name
 Sids:YUL arr CARTR:
 Sids:YUL arr HABBS:
-Sids:YUL arr LAFLR:
 Sids:YUL arr OMBRE:
 Sids:YUL dep CYGK:
 Sids:YUL dep CYOW:
-Sids:YUL dep CYQB 70BLO:
-Sids:YUL dep CYQB 90ABV:
 Sids:YUL dep CYYZ JET:
 Sids:YUL dep CYYZ PROP:
 Sids:YUL dep EAST JET:
@@ -549,39 +535,22 @@ Stars:CYR612 SFC-27:
 Stars:YUL - LO 24:
 VORs:ART:name
 VORs:ART:symbol
-VORs:AUG:name
-VORs:AUG:symbol
 VORs:BGR:name
 VORs:BGR:symbol
-VORs:BML:name
-VORs:BML:symbol
 VORs:BTV:name
 VORs:BTV:symbol
-VORs:HUL:name
-VORs:HUL:symbol
 VORs:MLT:name
 VORs:MLT:symbol
 VORs:MSS:name
 VORs:MSS:symbol
-VORs:PLB:name
-VORs:PLB:symbol
-VORs:PNN:name
-VORs:PNN:symbol
 VORs:PQI:name
 VORs:PQI:symbol
-VORs:SLK:name
-VORs:SLK:symbol
 VORs:VBS:name
 VORs:VBS:symbol
 VORs:VIE:name
 VORs:VIE:symbol
 VORs:VLV:name
 VORs:VLV:symbol
-VORs:X7:name
-VORs:X7:symbol
-VORs:XBG:name
-VORs:YAY:name
-VORs:YAY:symbol
 VORs:YBC:name
 VORs:YBC:symbol
 VORs:YCF:name
@@ -590,8 +559,6 @@ VORs:YEE:name
 VORs:YEE:symbol
 VORs:YFB:name
 VORs:YFB:symbol
-VORs:YFC:name
-VORs:YFC:symbol
 VORs:YGL:name
 VORs:YGL:symbol
 VORs:YGP:name
@@ -616,8 +583,6 @@ VORs:YSB:name
 VORs:YSB:symbol
 VORs:YSC:name
 VORs:YSC:symbol
-VORs:YSJ:name
-VORs:YSJ:symbol
 VORs:YSO:name
 VORs:YSO:symbol
 VORs:YTS:name
@@ -652,4 +617,4 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:NARDS
-WINDOWAREA:44.441615:-75.117624:46.538659:-72.050854
+WINDOWAREA:44.441615:-75.720034:46.538659:-71.448444
