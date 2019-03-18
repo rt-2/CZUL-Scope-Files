@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+DisplayRotation:15.50000
 Airports:CYHU:name
 Airports:CYHU:symbol
 Airports:CYMX:name

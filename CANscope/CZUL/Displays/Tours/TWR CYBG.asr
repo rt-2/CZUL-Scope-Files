@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+DisplayRotation:15.50000
 Free Text:YBG MVA\32<29:freetext
 Free Text:YBG MVA\41<37:freetext
 Free Text:YBG MVA\43<38:freetext

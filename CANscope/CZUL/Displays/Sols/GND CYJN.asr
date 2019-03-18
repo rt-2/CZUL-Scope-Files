@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+DisplayRotation:15.50000
 Geo:AIRPORT LAYOUTS:
 Runways:CYJN St-Jean 02-20:extended centerline 1
 Runways:CYJN St-Jean 02-20:extended centerline 1 left base

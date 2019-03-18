@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+DisplayRotation:15.50000
 Free Text:CYOW Ramp\G                     :freetext
 Free Text:CYOW Ramp\G                     :freetext
 Free Text:CYOW Ramp\G/A                      :freetext

@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+DisplayRotation:15.50000
 Free Text:CYQB Taxiway\A:freetext
 Free Text:CYQB Taxiway\B:freetext
 Free Text:CYQB Taxiway\B1:freetext

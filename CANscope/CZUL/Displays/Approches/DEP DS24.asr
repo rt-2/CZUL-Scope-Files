@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+DisplayRotation:15.50000
 ARTCC boundary:KZBW_CTR:
 ARTCC boundary:KZBW_CZYZ:
 ARTCC low boundary:BOSTON-MSS:

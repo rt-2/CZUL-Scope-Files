@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+DisplayRotation:15.50000
 Free Text:CYQB FBO\AEROPRO/CFAQ:freetext
 Free Text:CYQB FBO\AILES QC:freetext
 Free Text:CYQB FBO\AIR LIAISON/SKYJET:freetext

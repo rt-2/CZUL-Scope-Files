@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+DisplayRotation:15.50000
 ARTCC low boundary:BOSTON-MSS:
 ARTCC low boundary:frontiere_sud:
 ARTCC low boundary:MTL_TCU:

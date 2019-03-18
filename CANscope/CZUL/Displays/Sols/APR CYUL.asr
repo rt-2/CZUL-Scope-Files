@@ -1,6 +1,7 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
+DisplayRotation:15.50000
 Free Text:CYUL FBO\ACA:freetext
 Free Text:CYUL FBO\AIE:freetext
 Free Text:CYUL FBO\BBA:freetext

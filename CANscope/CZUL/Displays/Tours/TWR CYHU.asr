@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+DisplayRotation:15.50000
 ARTCC low boundary:MTL_TCU:
 Free Text:YUL MVA\17<15:freetext
 Free Text:YUL MVA\22<20:freetext
