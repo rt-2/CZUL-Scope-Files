@@ -114,6 +114,8 @@ Fixes:VOBIM:name
 Fixes:VOBIM:symbol
 Fixes:VODIX:name
 Fixes:VODIX:symbol
+Fixes:XOSPO:name
+Fixes:XOSPO:symbol
 Fixes:XUDLU:name
 Fixes:XUDLU:symbol
 Free Text:YQB MVA\24<22   :freetext
@@ -203,7 +205,7 @@ SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:CSiT
-WINDOWAREA:46.149960:-73.209041:47.380171:-69.902863
+WINDOWAREA:45.761574:-73.593952:47.790445:-69.461228
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
 PLUGIN:Virtual Controller Assistant:CDSHOW:1
 PLUGIN:Virtual Controller Assistant:CDXPOS:100
