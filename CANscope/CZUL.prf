@@ -1,5 +1,5 @@
 Settings	ipaddr	\..\ipaddr.txt
-Settings	alias	\CZUL\Alias-File.txt
+Settings	alias	\CZUL\CZUL Aliases.txt
 Settings	airlines	\CZUL\DataFiles\ICAO_Airlines.txt
 Settings	aircraft	\CZUL\DataFiles\ICAO_Aircraft.txt
 Settings	airports	\CZUL\DataFiles\ICAO_Airports.txt
