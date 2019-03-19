@@ -35,16 +35,3 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 TAGFAMILY:NARDS
 WINDOWAREA:46.782989:-71.410101:46.800193:-71.368419
-PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
-PLUGIN:Virtual Controller Assistant:CDSHOW:1
-PLUGIN:Virtual Controller Assistant:CDXPOS:61
-PLUGIN:Virtual Controller Assistant:CDYPOS:465
-PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
-PLUGIN:Virtual Controller Assistant:FADETRAIL:0
-PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
-PLUGIN:Virtual Controller Assistant:MSLSHOW:0
-PLUGIN:Virtual Controller Assistant:MSLXPOS:200
-PLUGIN:Virtual Controller Assistant:MSLYPOS:200
-PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
-PLUGIN:Virtual Controller Assistant:TRAILSHOW:0
-PLUGIN:Virtual Controller Assistant:TRAILTYPE:2
