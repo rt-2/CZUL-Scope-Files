@@ -3,8 +3,6 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:E:\EuroScope\CANscope\CZUL\CZUL 2014.sct2
 SECTORTITLE:CZUL 2014.sct2
-Airports:CYUL:name
-Airports:CYUL:symbol
 Free Text:CYBG Taxiway\A                     :freetext
 Free Text:CYBG Taxiway\B                     :freetext
 Free Text:CYBG Taxiway\C                     :freetext
@@ -26,6 +24,5 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:0.00000
 TAGFAMILY:NARDS
-WINDOWAREA:48.315779:-71.032715:48.344908:-70.954431
+WINDOWAREA:48.311128:-71.032715:48.349559:-70.954431
