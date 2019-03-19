@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:E:\EuroScope\CANscope\CZUL\CZUL 2014.sct2
-SECTORTITLE:CZUL 2014.sct2
 Airports:CYHU:name
 Airports:CYHU:symbol
 Airports:CYJN:name
@@ -12,6 +10,7 @@ Airports:CYMX:symbol
 Airports:CYUL:name
 Airports:CYUL:symbol
 ARTCC boundary:KZBW_CTR:
+ARTCC boundary:KZBW_CZYZ:
 ARTCC boundary:QM-QX:
 ARTCC boundary:W080:
 ARTCC boundary:west:
@@ -19,20 +18,23 @@ ARTCC boundary:YBG_MTCA:
 ARTCC boundary:ZEGZUL:
 ARTCC boundary:ZWGZUL:
 ARTCC boundary:ZWGZYZ:
-ARTCC high boundary:Northern Control Area:
-ARTCC high boundary:WK-ZV:
-ARTCC high boundary:zv_180-:
+ARTCC low boundary:BOSTON-MSS:
+ARTCC low boundary:CYYR_APP:
+ARTCC low boundary:CZUL South Gate:
 ARTCC low boundary:czul-czyz_SE_(X)CN:
 ARTCC low boundary:est:
-ARTCC low boundary:frontière_sud_+_CN:
+ARTCC low boundary:frontiere_sud:
 ARTCC low boundary:GL-NK:
 ARTCC low boundary:GL-RW:
 ARTCC low boundary:HV-GL:
+ARTCC low boundary:KBTV_TCU:
+ARTCC low boundary:MTL_SPLIT:
 ARTCC low boundary:MTL_TCU:
 ARTCC low boundary:nord:
 ARTCC low boundary:RW-HV:
 ARTCC low boundary:YOW_TCU:
 ARTCC low boundary:YQB_TCU:
+ARTCC low boundary:YTR_MTCU:
 ARTCC low boundary:zv:
 Fixes:ALKOB:name
 Fixes:ALKOB:symbol
@@ -48,16 +50,12 @@ Fixes:BODRA:name
 Fixes:BODRA:symbol
 Fixes:CHARN:name
 Fixes:CHARN:symbol
-Fixes:CHICA:name
-Fixes:CHICA:symbol
 Fixes:DUGNO:name
 Fixes:DUGNO:symbol
 Fixes:DUSMA:name
 Fixes:DUSMA:symbol
 Fixes:EIKMN:name
 Fixes:EIKMN:symbol
-Fixes:EPSAT:name
-Fixes:EPSAT:symbol
 Fixes:GRAND:name
 Fixes:GRAND:symbol
 Fixes:GRIBS:name
@@ -124,7 +122,6 @@ Fixes:VIBRU:name
 Fixes:VIBRU:symbol
 Fixes:VIRSO:name
 Fixes:VIRSO:symbol
-Geo:AIRPORT LAYOUTS:
 Geo:GEO:
 NDBs:CL:name
 NDBs:CL:symbol
@@ -630,84 +627,30 @@ Runways:CYZV Sept-Iles 13-31:extended centerline 2 right base
 Runways:CYZV Sept-Iles 13-31:extended centerline 2 right ticks
 Runways:CYZV Sept-Iles 13-31:extended centerline 2 right vectoring
 Runways:CYZV Sept-Iles 13-31:name
-VORs:ALB-ALBANY:frequency
-VORs:ALB-ALBANY:name
-VORs:ALB-ALBANY:symbol
 VORs:ART:frequency
 VORs:ART:name
 VORs:ART:symbol
-VORs:BGR-BANGOR:frequency
-VORs:BGR-BANGOR:name
-VORs:BGR-BANGOR:symbol
-VORs:BTV-BURLINGTON:frequency
-VORs:BTV-BURLINGTON:name
-VORs:BTV-BURLINGTON:symbol
-VORs:ENE-KENNEBUNK:frequency
-VORs:ENE-KENNEBUNK:name
-VORs:ENE-KENNEBUNK:symbol
-VORs:MLT-MILLINOCKET:frequency
-VORs:MLT-MILLINOCKET:name
-VORs:MLT-MILLINOCKET:symbol
-VORs:MSS-MASSENA:frequency
-VORs:MSS-MASSENA:name
-VORs:MSS-MASSENA:symbol
-VORs:PQI-PRESQUE-ISLE:frequency
-VORs:PQI-PRESQUE-ISLE:name
-VORs:PQI-PRESQUE-ISLE:symbol
-VORs:SYR-SYRACUSE:frequency
-VORs:SYR-SYRACUSE:name
-VORs:SYR-SYRACUSE:symbol
 VORs:VBS:frequency
 VORs:VBS:name
 VORs:VBS:symbol
-VORs:VIE-COEHILL:frequency
-VORs:VIE-COEHILL:name
-VORs:VIE-COEHILL:symbol
 VORs:VLV:frequency
 VORs:VLV:name
 VORs:VLV:symbol
-VORs:YAN-AMESON:frequency
-VORs:YAN-AMESON:name
-VORs:YAN-AMESON:symbol
 VORs:YBC:frequency
 VORs:YBC:name
 VORs:YBC:symbol
-VORs:YCF-CAMPBELLFORD:frequency
-VORs:YCF-CAMPBELLFORD:name
-VORs:YCF-CAMPBELLFORD:symbol
-VORs:YEE-MIDLAND:frequency
-VORs:YEE-MIDLAND:name
-VORs:YEE-MIDLAND:symbol
-VORs:YFB-FROBAY:frequency
-VORs:YFB-FROBAY:name
-VORs:YFB-FROBAY:symbol
 VORs:YGL:frequency
 VORs:YGL:name
 VORs:YGL:symbol
 VORs:YGP:frequency
 VORs:YGP:name
 VORs:YGP:symbol
-VORs:YGQ-GERALDTON:frequency
-VORs:YGQ-GERALDTON:name
-VORs:YGQ-GERALDTON:symbol
-VORs:YGR-GRINDSTONE:frequency
-VORs:YGR-GRINDSTONE:name
-VORs:YGR-GRINDSTONE:symbol
 VORs:YJN:frequency
 VORs:YJN:name
 VORs:YJN:symbol
-VORs:YKL-SCHEFFERVILLE:frequency
-VORs:YKL-SCHEFFERVILLE:name
-VORs:YKL-SCHEFFERVILLE:symbol
-VORs:YMO-MOOSONEE:frequency
-VORs:YMO-MOOSONEE:name
-VORs:YMO-MOOSONEE:symbol
 VORs:YMX:frequency
 VORs:YMX:name
 VORs:YMX:symbol
-VORs:YNA-NATASH:frequency
-VORs:YNA-NATASH:name
-VORs:YNA-NATASH:symbol
 VORs:YOW:frequency
 VORs:YOW:name
 VORs:YOW:symbol
@@ -717,42 +660,15 @@ VORs:YQB:symbol
 VORs:YRI:frequency
 VORs:YRI:name
 VORs:YRI:symbol
-VORs:YSB-SUDBURY:frequency
-VORs:YSB-SUDBURY:name
-VORs:YSB-SUDBURY:symbol
 VORs:YSC:frequency
 VORs:YSC:name
 VORs:YSC:symbol
-VORs:YSO-SIMCOE:frequency
-VORs:YSO-SIMCOE:name
-VORs:YSO-SIMCOE:symbol
-VORs:YSP-MARATHON:frequency
-VORs:YSP-MARATHON:name
-VORs:YSP-MARATHON:symbol
-VORs:YTS-TIMMINS:frequency
-VORs:YTS-TIMMINS:name
-VORs:YTS-TIMMINS:symbol
 VORs:YUL:frequency
 VORs:YUL:name
 VORs:YUL:symbol
 VORs:YVO:frequency
 VORs:YVO:name
 VORs:YVO:symbol
-VORs:YVP-KUJACK:frequency
-VORs:YVP-KUJACK:name
-VORs:YVP-KUJACK:symbol
-VORs:YWK-WABUSH:frequency
-VORs:YWK-WABUSH:name
-VORs:YWK-WABUSH:symbol
-VORs:YXI-KILLALOE:frequency
-VORs:YXI-KILLALOE:name
-VORs:YXI-KILLALOE:symbol
-VORs:YXZ-WAWA:frequency
-VORs:YXZ-WAWA:name
-VORs:YXZ-WAWA:symbol
-VORs:YYR-GOOSE:frequency
-VORs:YYR-GOOSE:name
-VORs:YYR-GOOSE:symbol
 VORs:YYY:frequency
 VORs:YYY:name
 VORs:YYY:symbol
@@ -770,7 +686,6 @@ HISTORY_DOTS:6
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:15.50000
 TAGFAMILY:CSiT
 WINDOWAREA:44.903029:-75.587882:46.142672:-72.256356
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
