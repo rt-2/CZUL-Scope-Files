@@ -4,16 +4,16 @@
 .taxifreq Runway $deprwy, altimeter $altim(cyul), Taxi via $1, $2, $3, $4, Call $radioname($5) on $freq($5) holding short of  $deprwy(CYUL)
 ..taxifreq Piste $deprwy, altimetre $altim(cyul), Circulez via $1, $2, $3, $4,  Contactez $radioname($5) sur $freq($5) à l’écart $deprwy(CYUL)
 
-.twrfreq Contact $radioname(UL) on $freq(UL) ; See ya!
-..twrfreq Contactez $radioname(UL) sur $freq(UL) Bon vol!
+.twrfreq Contact $radioname(UL) on $freq(UL), Have a good flight!
+..twrfreq Contactez $radioname(UL) sur $freq(UL), Bon vol!
 
 .welcome Welcome to Montréal–Pierre Elliott Trudeau International Airport, taxi via $1, cross runway 28, $2, hold short of apron, contact $radioname(UA) on $freq(UA), good day
 ..welcome Bienvenue à l’aéroport international Montréal Pierre-Elliott Trudeau, circulez $1, traversez piste 28, $2, restez à l’écart du tablier, contactez $radioname(UA) sur $freq(UA), bonne journée!
 
 .to Call me when airborne, wind $wind , Cleared for take-off runway $deprwy(CYUL)
 ..to Appelez-moi à l’envol, vent $wind, autorisé à décoller piste $deprwy(CYUL)
-.tofreq Contact $radioname($1) on $freq($1) when airborne, wind $wind , Cleared for take-off runway $deprwy(CYUL), have a nice flight
-..tofreq Contactez $radioname($1) sur $freq($1) à l’envol, vent $wind, autorisé à décoller piste $deprwy(CYUL), bon vol!
+.tofreq Contact $radioname($1) on $freq($1) when airborne, wind $wind , Cleared for take-off runway $deprwy(CYUL), Have a nice flight
+..tofreq Contactez $radioname($1) sur $freq($1) à l’envol, vent $wind, autorisé à décoller piste $deprwy(CYUL), Bon vol!
 
 .lu Line-up & Wait runway $deprwy(CYUL)
 ..lu Alignez-vous et Attendez piste $deprwy(CYUL)
