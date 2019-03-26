@@ -39,8 +39,8 @@
 .freq Contact $radioname($1) on $freq($1) ; See ya!
 ..freq Contactez $radioname($1) sur $freq($1) Bon vol!
 
-.leaving You are leaving my airspace, $1 is not online, Monitor unicom on 122.800, Radar services will be terminated, Have a good flight!
-..leaving Vous quittez mon espace aérien, $1 n'est pas en ligne, Écoutez l'unicom sur 122.800, Les services radars vont être terminés, Bon vol!
+.leaving You are leaving my airspace, $1 is not online, Radar services terminated, Monitor unicom on 122.800, Have a good flight!
+..leaving Vous quittez mon espace aérien, $1 n'est pas en ligne, Services radars terminés, Écoutez l'unicom sur 122.800, Bon vol!
 
 .clsd Closed, all aircraft monitor UNICOM on 122,800. / Fermé, toutes les stations changez fréquence UNICOM 122,800.
 
