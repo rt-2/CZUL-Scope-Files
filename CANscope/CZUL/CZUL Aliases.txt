@@ -7,8 +7,8 @@
 .twrfreq Contact $radioname($1) on $freq($1), Have a good flight!
 ..twrfreq Contactez $radioname($1) sur $freq($1), Bon vol!
 
-.welcome Welcome to Montréal, taxi via $1, $2, $3, $4, See ya!
-..welcome Bienvenue à Montréal, circulez $1, $2, $3, $4, À la prochaine!
+.welcome Welcome to $arr, taxi via $1, $2, $3, $4, See ya!
+..welcome Bienvenue à $arr, circulez $1, $2, $3, $4, À la prochaine!
 
 .welcomefreq Welcome to Montréal, Contact $radioname(UA) on $freq(UA), See ya!
 ..welcomefreq Bienvenue à Montréal, Contactez $radioname(UA) sur $freq(UA), À la prochaine!
