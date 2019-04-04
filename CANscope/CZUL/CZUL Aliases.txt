@@ -30,8 +30,10 @@
 .land Exit $1, wind $wind($arr), Cleared to land rwy $arrrwy($arr)
 ..land Sortez $1, vents $wind($arr), Autorisé a atterrir piste $arrrwy($arr)
 
-.desi Arrivals good day, Information $atiscode($arr), expect $1 approach runway $arrrwy($arr) , descend to $alt , altimeter $altim($arr)
-..desi Arrivées bonjour, Information $atiscode($arr), anticipez approche $1 piste $arrrwy($arr) , descendez à $alt, altimetre $altim($arr) 
+.des Information $atiscode($arr), altimeter $altim($arr), when ready descend to $temp, expect $1 approach runway $arrrwy($arr)
+..des Information $atiscode($arr), altimèter $altim($arr), lorsque près descendez à $temp, anticipez approche $1 piste $arrrwy($arr)
+.desi Arrivals good day, Information $atiscode($arr), altimèter $altim($arr), descend to $temp, expect $1 approach runway $arrrwy($arr) 
+..desi Arrivées bonjour, Information $atiscode($arr), altimètre $altim($arr), descendez à $temp, anticipez approche $1 piste $arrrwy($arr) 
 
 .clbi Good day, Radar identified $calt Ft, Climb $cruise & turn direct $1 on course
 ..clbi Bonjour, Identifié radar $calt, Montez $cruise & virez direct $1 en route
