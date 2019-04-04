@@ -18,8 +18,8 @@
 .tofreq Contact $radioname($1) on $freq($1) when airborne, wind $wind($dep) , Cleared for take-off runway $deprwy(($dep)), Have a good flight!
 ..tofreq Contactez $radioname($1) sur $freq($1) à l’envol, vent $wind($dep), autorisé à décoller piste $deprwy(($dep)), Bon vol!
 
-.lu Line-up & Wait runway $deprwy(CYUL)
-..lu Alignez-vous et Attendez piste $deprwy(CYUL)
+.lu Line-up & Wait runway $deprwy($dep)
+..lu Alignez-vous et Attendez piste $deprwy($dep)
 
 .hs Hold short runway $deprwy(CYUL)
 ..hs Restez a l'écart piste $deprwy(CYUL)
