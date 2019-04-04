@@ -4,8 +4,8 @@
 .taxifreq Runway $deprwy, altimeter $altim($dep), Taxi via $1, $2, $3, $4, Call $radioname($5) on $freq($5) holding short of  $deprwy($dep)
 ..taxifreq Piste $deprwy, altimetre $altim($dep), Circulez via $1, $2, $3, $4,  Contactez $radioname($5) sur $freq($5) à l’écart $deprwy($dep)
 
-.twrfreq Contact $radioname(UL) on $freq(UL), Have a good flight!
-..twrfreq Contactez $radioname(UL) sur $freq(UL), Bon vol!
+.twrfreq Contact $radioname($1) on $freq($1), Have a good flight!
+..twrfreq Contactez $radioname($1) sur $freq($1), Bon vol!
 
 .welcome Welcome to Montréal, taxi via $1, $2, $3, $4, See ya!
 ..welcome Bienvenue à Montréal, circulez $1, $2, $3, $4, À la prochaine!
