@@ -10,8 +10,8 @@
 .welcome Welcome to $arr, taxi via $1, $2, $3, $4, See ya!
 ..welcome Bienvenue à $arr, circulez $1, $2, $3, $4, À la prochaine!
 
-.welcomefreq Welcome to Montréal, Contact $radioname(UA) on $freq(UA), See ya!
-..welcomefreq Bienvenue à Montréal, Contactez $radioname(UA) sur $freq(UA), À la prochaine!
+.welcomefreq Welcome to $arr, Contact $radioname($1) on $freq($1), See ya!
+..welcomefreq Bienvenue à $arr, Contactez $radioname($1) sur $freq($1), À la prochaine!
 
 .to Call me when airborne, wind $wind , Cleared for take-off runway $deprwy(CYUL)
 ..to Appelez-moi à l’envol, vent $wind, autorisé à décoller piste $deprwy(CYUL)
