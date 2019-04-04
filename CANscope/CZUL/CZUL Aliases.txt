@@ -24,8 +24,8 @@
 .hs Hold short runway $deprwy($dep)
 ..hs Restez a l'écart piste $deprwy($dep)
 
-.idep Are you ready for an immediate departure?
-..idep Etes-vous pret pour un départ immédiat?
+.imdep Are you ready for an immediate departure?
+..imdep Etes-vous prêt pour un départ immédiat?
 
 .land Exit $1, wind $wind, Cleared to land rwy $arrrwy(CYUL)
 ..land Quittez $1, vents $wind, Autorisé a atterrir piste $arrrwy(CYUL)
