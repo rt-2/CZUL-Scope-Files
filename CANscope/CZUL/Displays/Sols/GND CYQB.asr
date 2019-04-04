@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:E:\EuroScope\CANscope\CZUL\CZUL 2014.sct2
-SECTORTITLE:CZUL 2014.sct2
 Free Text:CYQB Taxiway\A:freetext
 Free Text:CYQB Taxiway\B:freetext
 Free Text:CYQB Taxiway\B1:freetext
