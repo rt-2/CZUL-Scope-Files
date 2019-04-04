@@ -47,7 +47,7 @@
 
 .clsd Closed, all aircraft monitor UNICOM on 122,800. / Fermé, toutes les stations changez fréquence UNICOM 122,800.
 
-.clsdfreq Closed, all stations change to $radioname($1) on $freq($1) for further services. / Fermé, toutes les stations changez pour $radioname($1) sur $freq($1).
+.clsdfreq Closed, all stations change to $radioname($1) on $freq($1). / Fermé, toutes les stations changez pour $radioname($1) sur $freq($1).
 
 .dis Disregard
 ..dis Ignorez la dernière transmission
