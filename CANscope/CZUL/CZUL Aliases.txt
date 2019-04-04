@@ -40,7 +40,7 @@
 ..tfc Traffic a vos $1 Heures, $2 Nm, Direction $3, type $4, a $5 Pieds. Avez vous le traffic en vue?
 
 .freq Contact $radioname($1) on $freq($1) ; See ya!
-..freq Contactez $radioname($1) sur $freq($1) Bon vol!
+..freq Contactez $radioname($1) sur $freq($1) À la prochaine!
 
 .leaving You are leaving my airspace, $1 is not online, Radar services terminated, Monitor unicom on 122.800, Have a good flight!
 ..leaving Vous quittez mon espace aérien, $1 n'est pas en ligne, Services radars terminés, Écoutez l'unicom sur 122.800, Bon vol!
