@@ -21,8 +21,8 @@
 .lu Line-up & Wait runway $deprwy($dep)
 ..lu Alignez-vous et Attendez piste $deprwy($dep)
 
-.hs Hold short runway $deprwy(CYUL)
-..hs Restez a l'écart piste $deprwy(CYUL)
+.hs Hold short runway $deprwy($dep)
+..hs Restez a l'écart piste $deprwy($dep)
 
 .idep Are you ready for an immediate departure?
 ..idep Etes-vous pret pour un départ immédiat?
