@@ -13,10 +13,10 @@
 .welcomefreq Welcome to $arr, Contact $radioname($1) on $freq($1), See ya!
 ..welcomefreq Bienvenue à $arr, Contactez $radioname($1) sur $freq($1), À la prochaine!
 
-.to Call me when airborne, wind $wind , Cleared for take-off runway $deprwy(CYUL)
-..to Appelez-moi à l’envol, vent $wind, autorisé à décoller piste $deprwy(CYUL)
-.tofreq Contact $radioname($1) on $freq($1) when airborne, wind $wind , Cleared for take-off runway $deprwy(CYUL), Have a nice flight
-..tofreq Contactez $radioname($1) sur $freq($1) à l’envol, vent $wind, autorisé à décoller piste $deprwy(CYUL), Bon vol!
+.to Call me when airborne, wind $wind($dep) , Cleared for take-off runway $deprwy($dep)
+..to Appelez-moi à l’envol, vent $wind($dep), autorisé à décoller piste $deprwy($dep)
+.tofreq Contact $radioname($1) on $freq($1) when airborne, wind $wind($dep) , Cleared for take-off runway $deprwy(($dep)), Have a good flight!
+..tofreq Contactez $radioname($1) sur $freq($1) à l’envol, vent $wind($dep), autorisé à décoller piste $deprwy(($dep)), Bon vol!
 
 .lu Line-up & Wait runway $deprwy(CYUL)
 ..lu Alignez-vous et Attendez piste $deprwy(CYUL)
