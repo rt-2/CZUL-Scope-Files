@@ -27,8 +27,8 @@
 .imdep Are you ready for an immediate departure?
 ..imdep Etes-vous prêt pour un départ immédiat?
 
-.land Exit $1, wind $wind, Cleared to land rwy $arrrwy(CYUL)
-..land Quittez $1, vents $wind, Autorisé a atterrir piste $arrrwy(CYUL)
+.land Exit $1, wind $wind($arr), Cleared to land rwy $arrrwy($arr)
+..land Sortez $1, vents $wind($arr), Autorisé a atterrir piste $arrrwy($arr)
 
 .desi Arrivals good day, expect $1 approach runway $2 , descend to $alt , altimeter $altim(CYUL)
 ..desi Arrivées bonjour, anticipez approche $1 piste $2 , descendez à $alt, altimetre $altim(CYUL) 
