@@ -36,6 +36,9 @@
 .clbi Good day, Radar identified $calt Ft, Climb $alt & turn direct $1 on course
 ..clbi Bonjour, Identifié radar $calt, Montez $alt & virez direct $1 en route
 
+.sight $arr is at your $oclock($arr) $dist($arr) nautical miles, advise when you have the airport in sight
+..sight $arr est à votre $oclock($arr) $dist($arr) miles nautiques, avisez lorsque vous avez l'aéroport en vue
+
 .tfc Traffic at your $1 O’Clock, $2 Nm, $3 bound, type $4, $5 Ft. Do you have traffic in sight?
 ..tfc Traffic a vos $1 Heures, $2 Nm, Direction $3, type $4, a $5 Pieds. Avez vous le traffic en vue?
 
