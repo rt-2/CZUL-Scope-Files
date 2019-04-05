@@ -20,50 +20,8 @@ Free Text:CYHU Taxiway\R                     :freetext
 Free Text:CYHU Taxiway\T   :freetext
 Free Text:CYHU Taxiway\T   :freetext
 Geo:AIRPORT LAYOUTS:
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 left base
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 left ticks
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 left vectoring
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 right base
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 right ticks
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 right vectoring
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 left base
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 left ticks
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 left vectoring
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 right base
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 right ticks
-Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 2 right vectoring
 Runways:CYHU Montreal St-Hubert 06L-24R:name
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 left base
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 left ticks
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 left vectoring
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 right base
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 right ticks
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 1 right vectoring
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 left base
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 left ticks
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 left vectoring
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 right base
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 right ticks
-Runways:CYHU Montreal St-Hubert 06R-24L:extended centerline 2 right vectoring
 Runways:CYHU Montreal St-Hubert 06R-24L:name
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 left base
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 left ticks
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 left vectoring
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 right base
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 right ticks
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 1 right vectoring
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 left base
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 left ticks
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 left vectoring
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right base
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right ticks
-Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right vectoring
 Runways:CYHU Montreal St-Hubert 10-28:name
 SHOWC:1
 SHOWSB:0
