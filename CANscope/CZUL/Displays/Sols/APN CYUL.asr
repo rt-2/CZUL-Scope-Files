@@ -1,8 +1,6 @@
 DisplayTypeName:SMR radar display
 DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
-SECTORFILE:E:\EuroScope\CANscope\CZUL\CZUL 2014.sct2
-SECTORTITLE:CZUL 2014.sct2
 Free Text:CYUL FBO\ACA:freetext
 Free Text:CYUL FBO\AIE:freetext
 Free Text:CYUL FBO\BBA:freetext
