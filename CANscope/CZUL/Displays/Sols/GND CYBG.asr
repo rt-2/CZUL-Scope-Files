@@ -13,6 +13,9 @@ Free Text:CYBG Taxiway\H                     :freetext
 Free Text:CYBG Taxiway\K                     :freetext
 Free Text:CYBG Taxiway\L                     :freetext
 Geo:AIRPORT LAYOUTS:
+Runways:CYBC Baie-Comeau 10-28:name
+Runways:CYBG Bagotville 11-29:name
+Runways:CYBG Bagotville 18-36:name
 SHOWC:1
 SHOWSB:0
 BELOW:0
