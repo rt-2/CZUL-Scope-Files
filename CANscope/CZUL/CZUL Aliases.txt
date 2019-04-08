@@ -32,14 +32,14 @@
 
 .des Information $atiscode($arr), altimeter $altim($arr), when ready descend to $temp, expect $1 approach runway $arrrwy($arr)
 ..des Information $atiscode($arr), altimèter $altim($arr), lorsque près descendez à $temp, anticipez approche $1 piste $arrrwy($arr)
-.desi Arrivals good day, Information $atiscode($arr), altimèter $altim($arr), descend to $temp, expect $1 approach runway $arrrwy($arr) 
-..desi Arrivées bonjour, Information $atiscode($arr), altimètre $altim($arr), descendez à $temp, anticipez approche $1 piste $arrrwy($arr) 
+.desid Arrivals good day, Information $atiscode($arr), altimèter $altim($arr), descend to $temp, expect $1 approach runway $arrrwy($arr) 
+..desid Arrivées bonjour, Information $atiscode($arr), altimètre $altim($arr), descendez à $temp, anticipez approche $1 piste $arrrwy($arr) 
 
-.rdrident Radar identified at $calt
-..rdrident Identifié radar à $calt
+.rdrid Radar identified at $calt
+..rdrid Identifié radar à $calt
 
-.clbi Good day, Radar identified $calt Ft, Climb $cruise & turn direct $1 on course
-..clbi Bonjour, Identifié radar $calt, Montez $cruise & virez direct $1 en route
+.clbid Good day, Radar identified $calt Ft, Climb $cruise & turn direct $1 on course
+..clbid Bonjour, Identifié radar $calt, Montez $cruise & virez direct $1 en route
 
 .sight $arr is at your $oclock($arr) $dist($arr) nautical miles, advise when you have the airport in sight
 ..sight $arr est à votre $oclock($arr) $dist($arr) miles nautiques, avisez lorsque vous avez l'aéroport en vue
