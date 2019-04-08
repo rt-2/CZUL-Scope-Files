@@ -67,13 +67,22 @@
 .voice Are you able to receive voice?
 ..voice Êtes-vous capable de recevoir la voix?
 
+.clrdvfr Squawk $squawk, Departure runway $deprwy($dep)
+..clrdvfr Transpondeur $squawk, Piste $deprwy($dep) pour le départ
+
+.clrdifr Cleared to $arr, Via $sid departure then flight plan route, runway $deprwy($dep), Squawk $squawk
+.clrdifr Autorisé à $arr, Via  le $sid départ ensuite la route de plan de vol, Piste $deprwy($dep), Transpondeur $squawk
+
+.readback Read back is correct, Departure frequency $freq($1), push and start is at your discretion, call $freq($2) when ready for taxi
+..readback La relecture est correct, Fréquence de départ $freq($1), refoullement et démarrage à votre discretion, apellez $freq($2) lorsque près à circuler.
+
 .pdcyul MONTREAL PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $cruise | FILED ROUTE $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
 .pdcyulam MONTREAL PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $cruise | ***CAUTION*** ***AMENDED ROUTE*** $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1, ATIS AND ACKNOWLEDGE ROUTE MODIFICATION TO CONFIRM CLEARANCE
 
 .pdcyqb QUEBEC CITY PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $cruise | FILED ROUTE $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
 .yqbpdcam QUEBEC CITY PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $cruise | ***CAUTION*** ***AMENDED ROUTE*** $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1, ATIS AND ACKNOWLEDGE ROUTE MODIFICATION TO CONFIRM CLEARANCE
 
-.pdcyow OTTAWA PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $cruise | FILED ROUTE $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
+.pdcyow OTTAWA PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $cruise | FILED ROUTE $route | USE, departure runway $( SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
 .yowpdcam OTTAWA PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $cruise | ***CAUTION*** ***AMENDED ROUTE*** $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1, ATIS AND ACKNOWLEDGE ROUTE MODIFICATION TO CONFIRM CLEARANCE
 
 .pdcreject PRE-DEPARTURE CLEARANCE | $AIRCRAFT | REJECTED – REVERT TO VOICE PROCEDURES
