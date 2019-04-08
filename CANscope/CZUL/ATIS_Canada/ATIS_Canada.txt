@@ -101,6 +101,7 @@ RECORD:ice pellets:icepellets.wav
 RECORD:ILS:ILS.wav
 RECORD:in vicinity:invicinity.wav
 RECORD:INFORM CYUL ATC ATIS:INFORM CYUL ATC ATIS.wav
+RECORD:INFORM ATC ATIS:INFORM CYUL ATC ATIS.wav
 RECORD:information:information.wav
 RECORD:J:J.wav
 RECORD:K:K.wav
