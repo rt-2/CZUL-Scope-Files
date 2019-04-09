@@ -1,80 +1,80 @@
 
 .taxi Runway $deprwy, altimeter $altim($dep), Taxi via $1, $2, $3, $4, Call me holding short $deprwy($dep)
-..taxi Piste $deprwy, altimetre $altim($dep), Circulez via $1, $2, $3, $4, Rapellez-moi lâ€™Ã©cart $deprwy($dep)
+..taxi Piste $deprwy, altimetre $altim($dep), Circulez via $1, $2, $3, $4, Rapellez-moi l’écart $deprwy($dep)
 .taxifreq Runway $deprwy, altimeter $altim($dep), Taxi via $1, $2, $3, $4, Call $radioname($5) on $freq($5) holding short of  $deprwy($dep)
-..taxifreq Piste $deprwy, altimetre $altim($dep), Circulez via $1, $2, $3, $4,  Contactez $radioname($5) sur $freq($5) Ã  lâ€™Ã©cart $deprwy($dep)
+..taxifreq Piste $deprwy, altimetre $altim($dep), Circulez via $1, $2, $3, $4,  Contactez $radioname($5) sur $freq($5) à l’écart $deprwy($dep)
 
 .twrfreq Contact $radioname($1) on $freq($1), Have a good flight!
 ..twrfreq Contactez $radioname($1) sur $freq($1), Bon vol!
 
 .welcome Welcome to $arr, taxi via $1, $2, $3, $4, See ya!
-..welcome Bienvenue Ã  $arr, circulez $1, $2, $3, $4, Ã€ la prochaine!
+..welcome Bienvenue à $arr, circulez $1, $2, $3, $4, À la prochaine!
 
 .welcomefreq Welcome to $arr, Contact $radioname($1) on $freq($1), See ya!
-..welcomefreq Bienvenue Ã  $arr, Contactez $radioname($1) sur $freq($1), Ã€ la prochaine!
+..welcomefreq Bienvenue à $arr, Contactez $radioname($1) sur $freq($1), À la prochaine!
 
 .to Call me when airborne, wind $wind($dep) , Cleared for take-off runway $deprwy($dep)
-..to Appelez-moi Ã  lâ€™envol, vent $wind($dep), autorisÃ© Ã  dÃ©coller piste $deprwy($dep)
+..to Appelez-moi à l’envol, vent $wind($dep), autorisé à décoller piste $deprwy($dep)
 .tofreq Contact $radioname($1) on $freq($1) when airborne, wind $wind($dep) , Cleared for take-off runway $deprwy(($dep)), Have a good flight!
-..tofreq Contactez $radioname($1) sur $freq($1) Ã  lâ€™envol, vent $wind($dep), autorisÃ© Ã  dÃ©coller piste $deprwy(($dep)), Bon vol!
+..tofreq Contactez $radioname($1) sur $freq($1) à l’envol, vent $wind($dep), autorisé à décoller piste $deprwy(($dep)), Bon vol!
 
 .lu Line-up & Wait runway $deprwy($dep)
 ..lu Alignez-vous et Attendez piste $deprwy($dep)
 
 .hs Hold short runway $deprwy($dep)
-..hs Restez a l'Ã©cart piste $deprwy($dep)
+..hs Restez a l'écart piste $deprwy($dep)
 
 .imdep Are you ready for an immediate departure?
-..imdep Etes-vous prÃªt pour un dÃ©part immÃ©diat?
+..imdep Etes-vous prêt pour un départ immédiat?
 
 .land Exit $1, wind $wind($arr), Cleared to land rwy $arrrwy($arr)
-..land Sortez $1, vents $wind($arr), AutorisÃ© a atterrir piste $arrrwy($arr)
+..land Sortez $1, vents $wind($arr), Autorisé a atterrir piste $arrrwy($arr)
 
 .des Information $atiscode($arr), altimeter $altim($arr), when ready descend to $temp, expect $1 approach runway $arrrwy($arr)
-..des Information $atiscode($arr), altimÃ¨ter $altim($arr), lorsque prÃ¨s descendez Ã  $temp, anticipez approche $1 piste $arrrwy($arr)
-.desid Arrivals good day, Information $atiscode($arr), altimÃ¨ter $altim($arr), descend to $temp, expect $1 approach runway $arrrwy($arr) 
-..desid ArrivÃ©es bonjour, Information $atiscode($arr), altimÃ¨tre $altim($arr), descendez Ã  $temp, anticipez approche $1 piste $arrrwy($arr) 
+..des Information $atiscode($arr), altimèter $altim($arr), lorsque près descendez à $temp, anticipez approche $1 piste $arrrwy($arr)
+.desid Arrivals good day, Information $atiscode($arr), altimèter $altim($arr), descend to $temp, expect $1 approach runway $arrrwy($arr) 
+..desid Arrivées bonjour, Information $atiscode($arr), altimètre $altim($arr), descendez à $temp, anticipez approche $1 piste $arrrwy($arr) 
 
 .rdrid Radar identified at $calt
-..rdrid IdentifiÃ© radar Ã  $calt
+..rdrid Identifié radar à $calt
 
 .clbid Good day, Radar identified $calt Ft, Climb $cruise & turn direct $1 on course
-..clbid Bonjour, IdentifiÃ© radar $calt, Montez $cruise & virez direct $1 en route
+..clbid Bonjour, Identifié radar $calt, Montez $cruise & virez direct $1 en route
 
 .sight $arr is at your $oclock($arr) $dist($arr) nautical miles, advise when you have the airport in sight
-..sight $arr est Ã  votre $oclock($arr) $dist($arr) miles nautiques, avisez lorsque vous avez l'aÃ©roport en vue
+..sight $arr est à votre $oclock($arr) $dist($arr) miles nautiques, avisez lorsque vous avez l'aéroport en vue
 
-.tfc Traffic at your $1 Oâ€™Clock, $2 Nm, $3 bound, type $4, $5 Ft. Do you have traffic in sight?
+.tfc Traffic at your $1 O’Clock, $2 Nm, $3 bound, type $4, $5 Ft. Do you have traffic in sight?
 ..tfc Traffic a vos $1 Heures, $2 Nm, Direction $3, type $4, a $5 Pieds. Avez vous le traffic en vue?
 
 .freq Contact $radioname($1) on $freq($1) ; See ya!
-..freq Contactez $radioname($1) sur $freq($1) Ã€ la prochaine!
+..freq Contactez $radioname($1) sur $freq($1) À la prochaine!
 
 .leaving You are leaving my airspace, $1 is not online, Radar services terminated, Monitor unicom on 122.800, Have a good flight!
-..leaving Vous quittez mon espace aÃ©rien, $1 n'est pas en ligne, Services radars terminÃ©s, Ã‰coutez l'unicom sur 122.800, Bon vol!
+..leaving Vous quittez mon espace aérien, $1 n'est pas en ligne, Services radars terminés, Écoutez l'unicom sur 122.800, Bon vol!
 
-.clsd Closed, all aircraft monitor UNICOM on 122,800. / FermÃ©, toutes les stations changez frÃ©quence UNICOM 122,800.
+.clsd Closed, all aircraft monitor UNICOM on 122,800. / Fermé, toutes les stations changez fréquence UNICOM 122,800.
 
-.clsdfreq Closed, all stations change to $radioname($1) on $freq($1). / FermÃ©, toutes les stations changez pour $radioname($1) sur $freq($1).
+.clsdfreq Closed, all stations change to $radioname($1) on $freq($1). / Fermé, toutes les stations changez pour $radioname($1) sur $freq($1).
 
 .dis Disregard
-..dis Ignorez la derniÃ¨re transmission
+..dis Ignorez la dernière transmission
 
-.brb **ATTENTION TO ALL AIRCRAFT** $callsign will be back in $1 minutes. **ATTENTION Ã€ TOUTES LES STATIONS** $callsign sera de retour dans $1 minutes.
+.brb **ATTENTION TO ALL AIRCRAFT** $callsign will be back in $1 minutes. **ATTENTION À TOUTES LES STATIONS** $callsign sera de retour dans $1 minutes.
 
-.back **ATTENTION TO ALL AIRCRAFT** $callsign is now back on frequency. **ATTENTION Ã€ TOUTES LES STATIONS** $callsign est de retour.
+.back **ATTENTION TO ALL AIRCRAFT** $callsign is now back on frequency. **ATTENTION À TOUTES LES STATIONS** $callsign est de retour.
 
 .voice Are you able to receive voice?
-..voice ÃŠtes-vous capable de recevoir la voix?
+..voice Êtes-vous capable de recevoir la voix?
 
 .clrdvfr Squawk $squawk, Departure runway $deprwy($dep)
-..clrdvfr Transpondeur $squawk, Piste $deprwy($dep) pour le dÃ©part
+..clrdvfr Transpondeur $squawk, Piste $deprwy($dep) pour le départ
 
 .clrdifr Cleared to $arr, Via $sid departure then flight plan route, runway $deprwy($dep), Squawk $squawk
-.clrdifr AutorisÃ© Ã  $arr, Via  le $sid dÃ©part ensuite la route de plan de vol, Piste $deprwy($dep), Transpondeur $squawk
+.clrdifr Autorisé à $arr, Via  le $sid départ ensuite la route de plan de vol, Piste $deprwy($dep), Transpondeur $squawk
 
 .readback Read back is correct, Departure frequency $freq($1), push and start is at your discretion, call $freq($2) when ready for taxi
-..readback La relecture est correct, FrÃ©quence de dÃ©part $freq($1), refoullement et dÃ©marrage Ã  votre discretion, apellez $freq($2) lorsque prÃ¨s Ã  circuler.
+..readback La relecture est correct, Fréquence de départ $freq($1), refoullement et démarrage à votre discretion, apellez $freq($2) lorsque près à circuler.
 
 .pdcyul MONTREAL PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $cruise | FILED ROUTE $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
 .pdcyulam MONTREAL PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $cruise | ***CAUTION*** ***AMENDED ROUTE*** $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1, ATIS AND ACKNOWLEDGE ROUTE MODIFICATION TO CONFIRM CLEARANCE
@@ -85,6 +85,6 @@
 .pdcyow OTTAWA PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $cruise | FILED ROUTE $route | USE, departure runway $( SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1 AND ATIS TO CONFIRM CLEARANCE
 .yowpdcam OTTAWA PRE-DEPARTURE CLEARANCE | $dep $aircraft | TIME ISSUED $time | CREW MESSAGE $aircraft | TRANSPONDER $squawk | AIRCRAFT $type | CRUISE ALTITUDE $cruise | ***CAUTION*** ***AMENDED ROUTE*** $route | USE SID $sid | RUNWAY $deprwy | DESTINATION $arr | CONTACT ATC UPON RECEIVE WITH PDC NUMBER $1, ATIS AND ACKNOWLEDGE ROUTE MODIFICATION TO CONFIRM CLEARANCE
 
-.pdcreject PRE-DEPARTURE CLEARANCE | $AIRCRAFT | REJECTED â€“ REVERT TO VOICE PROCEDURES
+.pdcreject PRE-DEPARTURE CLEARANCE | $AIRCRAFT | REJECTED – REVERT TO VOICE PROCEDURES
 
-.pdcerror PRE-DEPARTURE CLEARANCE | $AIRCRAFT | ERROR IN MESSAGE â€“ REVERT TO VOICE PROCEDURES
+.pdcerror PRE-DEPARTURE CLEARANCE | $AIRCRAFT | ERROR IN MESSAGE – REVERT TO VOICE PROCEDURES
