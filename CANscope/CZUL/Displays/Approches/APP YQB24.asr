@@ -24,8 +24,12 @@ Fixes:AGLUK:name
 Fixes:AGLUK:symbol
 Fixes:APGEV:name
 Fixes:APGEV:symbol
+Fixes:APLAK:name
+Fixes:APLAK:symbol
 Fixes:BADEW:name
 Fixes:BADEW:symbol
+Fixes:BERUT:name
+Fixes:BERUT:symbol
 Fixes:BIVTI:name
 Fixes:BIVTI:symbol
 Fixes:BODPO:name
@@ -38,8 +42,6 @@ Fixes:DUTIL:name
 Fixes:DUTIL:symbol
 Fixes:FLEUR:name
 Fixes:FLEUR:symbol
-Fixes:GADAL:name
-Fixes:GADAL:symbol
 Fixes:GONUM:name
 Fixes:GONUM:symbol
 Fixes:GOXEV:name
@@ -68,12 +70,8 @@ Fixes:LOKBU:name
 Fixes:LOKBU:symbol
 Fixes:LOMSO:name
 Fixes:LOMSO:symbol
-Fixes:MIILS:name
-Fixes:MIILS:symbol
 Fixes:MIVAG:name
 Fixes:MIVAG:symbol
-Fixes:MIVAX:name
-Fixes:MIVAX:symbol
 Fixes:MURUX:name
 Fixes:MURUX:symbol
 Fixes:MUTIB:name
@@ -86,16 +84,22 @@ Fixes:OLAVO:name
 Fixes:OLAVO:symbol
 Fixes:OMVAR:name
 Fixes:OMVAR:symbol
+Fixes:PENTU:name
+Fixes:PENTU:symbol
 Fixes:PESAC:name
 Fixes:PESAC:symbol
 Fixes:PIKVO:name
 Fixes:PIKVO:symbol
+Fixes:PINTE:name
+Fixes:PINTE:symbol
 Fixes:PUPOV:name
 Fixes:PUPOV:symbol
 Fixes:PUSOD:name
 Fixes:PUSOD:symbol
 Fixes:RETIP:name
 Fixes:RETIP:symbol
+Fixes:ROGSA:name
+Fixes:ROGSA:symbol
 Fixes:SAVIN:name
 Fixes:SAVIN:symbol
 Fixes:SIMTO:name
@@ -116,10 +120,10 @@ Fixes:ULBOM:name
 Fixes:ULBOM:symbol
 Fixes:URVAK:name
 Fixes:URVAK:symbol
+Fixes:URVAS:name
+Fixes:URVAS:symbol
 Fixes:VIXUV:name
 Fixes:VIXUV:symbol
-Fixes:VODIX:name
-Fixes:VODIX:symbol
 Free Text:YQB MVA\24<22   :freetext
 Free Text:YQB MVA\24<22   :freetext
 Free Text:YQB MVA\33<30   :freetext
@@ -177,10 +181,18 @@ Sids:YQB arr KAROT:
 Sids:YQB arr OLAVO:
 Sids:YQB arr OMVAR:
 Sids:YQB arr PESAC:
+Sids:YQB dep EAST:
 Sids:YQB dep GOXEV:
+Sids:YQB dep NORTH:
+Sids:YQB dep NW:
+Sids:YQB dep SE:
+Sids:YQB dep SOUTH JET:
+Sids:YQB dep SOUTH PROP:
 Stars:CYR603 SFC-170:
 Stars:CYR612 SFC-27:
 Stars:YQB - CONFIG 24:
+VORs:HUL:name
+VORs:HUL:symbol
 VORs:VBS:frequency
 VORs:VBS:name
 VORs:VBS:symbol
@@ -190,6 +202,8 @@ VORs:YQB:symbol
 VORs:YRI:frequency
 VORs:YRI:name
 VORs:YRI:symbol
+VORs:YSC:name
+VORs:YSC:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:300
@@ -201,6 +215,7 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:15.50000
 TAGFAMILY:CSiT
 WINDOWAREA:45.923147:-73.020085:47.468772:-69.871713
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
