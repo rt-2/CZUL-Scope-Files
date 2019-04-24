@@ -7,7 +7,7 @@ Low airways:name:6579300:3.3:0:0:8
 High airways:line:1124399:3.5:0:0:7
 High airways:name:2512998:3.0:0:0:8
 Fixes:symbol:6391851:1.0:0:0:7
-Fixes:name:6579300:3.2:0:0:1
+Fixes:name:6579300:3.5:0:0:1
 Sids:line:6579300:3.0:0:0:7
 Stars:line:8443433:3.0:2:0:7
 ARTCC high boundary:line:3030530:3.0:2:0:7
