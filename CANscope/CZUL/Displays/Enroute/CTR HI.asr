@@ -2,8 +2,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:E:\EuroScope\CANscope\CZUL\CZUL 2014.sct2
-SECTORTITLE:CZUL 2014.sct2
 Airports:CYHU:name
 Airports:CYHU:symbol
 Airports:CYJN:name
@@ -28,7 +26,6 @@ ARTCC high boundary:MC-LE:
 ARTCC high boundary:NORD:
 ARTCC high boundary:Northern Control Area:
 ARTCC high boundary:WK-ZV:
-ARTCC high boundary:zv_180-:
 ARTCC low boundary:CZUL South Gate:
 ARTCC low boundary:czul-czyz_SE_(X)CN:
 ARTCC low boundary:frontiere_sud:
