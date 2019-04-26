@@ -8,64 +8,62 @@ Fixes:ADVEM:name
 Fixes:ADVEM:symbol
 Fixes:AGLUK:name
 Fixes:AGLUK:symbol
-Fixes:APGEV:name
-Fixes:APGEV:symbol
-Fixes:AXANU:name
-Fixes:AXANU:symbol
-Fixes:DAXAB:name
-Fixes:DAXAB:symbol
+Fixes:ALVUD:name
+Fixes:ALVUD:symbol
+Fixes:APLAK:name
+Fixes:APLAK:symbol
+Fixes:AVISO:name
+Fixes:AVISO:symbol
+Fixes:BERUT:name
+Fixes:BERUT:symbol
 Fixes:DAXUG:name
 Fixes:DAXUG:symbol
-Fixes:DEDGO:name
-Fixes:DEDGO:symbol
 Fixes:DICEN:name
 Fixes:DICEN:symbol
+Fixes:DUKBA:name
+Fixes:DUKBA:symbol
+Fixes:DUNUD:name
+Fixes:DUNUD:symbol
 Fixes:DUTIL:name
 Fixes:DUTIL:symbol
-Fixes:EBLAP:name
-Fixes:EBLAP:symbol
-Fixes:ELSUK:name
-Fixes:ELSUK:symbol
-Fixes:ERBIT:name
-Fixes:ERBIT:symbol
+Fixes:ELINI:name
+Fixes:ELINI:symbol
 Fixes:FLEUR:name
 Fixes:FLEUR:symbol
 Fixes:GONUM:name
 Fixes:GONUM:symbol
 Fixes:GUBID:name
 Fixes:GUBID:symbol
-Fixes:IKBUS:name
-Fixes:IKBUS:symbol
-Fixes:IKDEB:name
-Fixes:IKDEB:symbol
+Fixes:IKLIV:name
+Fixes:IKLIV:symbol
 Fixes:IKMIK:name
 Fixes:IKMIK:symbol
 Fixes:ILERO:name
 Fixes:ILERO:symbol
+Fixes:IMOVA:name
+Fixes:IMOVA:symbol
+Fixes:IPVAR:name
+Fixes:IPVAR:symbol
+Fixes:ITRIB:name
+Fixes:ITRIB:symbol
 Fixes:KAROT:name
 Fixes:KAROT:symbol
-Fixes:KAVAT:name
-Fixes:KAVAT:symbol
-Fixes:KEDIV:name
-Fixes:KEDIV:symbol
+Fixes:KASOT:name
+Fixes:KASOT:symbol
 Fixes:KETRU:name
 Fixes:KETRU:symbol
-Fixes:LERET:name
-Fixes:LERET:symbol
-Fixes:LOGDU:name
-Fixes:LOGDU:symbol
 Fixes:LOKBU:name
 Fixes:LOKBU:symbol
-Fixes:MIILS:name
-Fixes:MIILS:symbol
+Fixes:LOPGU:name
+Fixes:LOPGU:symbol
+Fixes:MAXOG:name
+Fixes:MAXOG:symbol
+Fixes:MUPKO:name
+Fixes:MUPKO:symbol
 Fixes:MUTIB:name
 Fixes:MUTIB:symbol
-Fixes:NOREK:name
-Fixes:NOREK:symbol
-Fixes:NOSIL:name
-Fixes:NOSIL:symbol
-Fixes:NOTAT:name
-Fixes:NOTAT:symbol
+Fixes:MUTOS:name
+Fixes:MUTOS:symbol
 Fixes:NOVID:name
 Fixes:NOVID:symbol
 Fixes:NUBUN:name
@@ -74,20 +72,28 @@ Fixes:OBRIR:name
 Fixes:OBRIR:symbol
 Fixes:OLAVO:name
 Fixes:OLAVO:symbol
+Fixes:OMADU:name
+Fixes:OMADU:symbol
 Fixes:OMVAR:name
 Fixes:OMVAR:symbol
+Fixes:PENTU:name
+Fixes:PENTU:symbol
 Fixes:PESAC:name
 Fixes:PESAC:symbol
+Fixes:PIBNI:name
+Fixes:PIBNI:symbol
+Fixes:PINTE:name
+Fixes:PINTE:symbol
 Fixes:PUPOV:name
 Fixes:PUPOV:symbol
 Fixes:PUSOD:name
 Fixes:PUSOD:symbol
-Fixes:RAGUP:name
-Fixes:RAGUP:symbol
 Fixes:RETIP:name
 Fixes:RETIP:symbol
-Fixes:SEBIP:name
-Fixes:SEBIP:symbol
+Fixes:RIDUT:name
+Fixes:RIDUT:symbol
+Fixes:ROGSA:name
+Fixes:ROGSA:symbol
 Fixes:SIMTO:name
 Fixes:SIMTO:symbol
 Fixes:SINRO:name
@@ -96,24 +102,12 @@ Fixes:SOKYE:name
 Fixes:SOKYE:symbol
 Fixes:TADES:name
 Fixes:TADES:symbol
-Fixes:TOTUX:name
-Fixes:TOTUX:symbol
-Fixes:URTAT:name
-Fixes:URTAT:symbol
-Fixes:USBUR:name
-Fixes:USBUR:symbol
-Fixes:VITEN:name
-Fixes:VITEN:symbol
-Fixes:VIVOD:name
-Fixes:VIVOD:symbol
-Fixes:VIXIS:name
-Fixes:VIXIS:symbol
-Fixes:VOBIM:name
-Fixes:VOBIM:symbol
-Fixes:VODIX:name
-Fixes:VODIX:symbol
-Fixes:XUDLU:name
-Fixes:XUDLU:symbol
+Fixes:UDBAM:name
+Fixes:UDBAM:symbol
+Fixes:URVAS:name
+Fixes:URVAS:symbol
+Fixes:XOSPO:name
+Fixes:XOSPO:symbol
 Free Text:YQB MVA\24<22   :freetext
 Free Text:YQB MVA\24<22   :freetext
 Free Text:YQB MVA\33<30   :freetext
@@ -173,9 +167,17 @@ Sids:YQB arr KAROT:
 Sids:YQB arr OLAVO:
 Sids:YQB arr OMVAR:
 Sids:YQB arr PESAC:
+Sids:YQB dep EAST:
+Sids:YQB dep NORTH:
+Sids:YQB dep NW:
+Sids:YQB dep SE:
+Sids:YQB dep SOUTH JET:
+Sids:YQB dep SOUTH PROP:
 Stars:CYR603 SFC-170:
 Stars:CYR612 SFC-27:
 Stars:YQB - CONFIG 11:
+VORs:HUL:name
+VORs:HUL:symbol
 VORs:VBS:frequency
 VORs:VBS:name
 VORs:VBS:symbol
@@ -188,6 +190,8 @@ VORs:YQB:symbol
 VORs:YRI:frequency
 VORs:YRI:name
 VORs:YRI:symbol
+VORs:YSC:name
+VORs:YSC:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:400
@@ -199,6 +203,7 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:15.50000
 TAGFAMILY:CSiT
 WINDOWAREA:46.149960:-73.209041:47.380171:-69.902863
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1

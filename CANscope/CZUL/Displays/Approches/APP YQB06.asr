@@ -10,12 +10,14 @@ Fixes:ADVEM:name
 Fixes:ADVEM:symbol
 Fixes:AGLUK:name
 Fixes:AGLUK:symbol
-Fixes:ALNIB:name
-Fixes:ALNIB:symbol
 Fixes:APGEV:name
 Fixes:APGEV:symbol
+Fixes:APLAK:name
+Fixes:APLAK:symbol
 Fixes:AXANU:name
 Fixes:AXANU:symbol
+Fixes:BERUT:name
+Fixes:BERUT:symbol
 Fixes:DAXAB:name
 Fixes:DAXAB:symbol
 Fixes:DAXUG:name
@@ -80,8 +82,12 @@ Fixes:OLAVO:name
 Fixes:OLAVO:symbol
 Fixes:OMVAR:name
 Fixes:OMVAR:symbol
+Fixes:PENTU:name
+Fixes:PENTU:symbol
 Fixes:PESAC:name
 Fixes:PESAC:symbol
+Fixes:PINTE:name
+Fixes:PINTE:symbol
 Fixes:PUPOV:name
 Fixes:PUPOV:symbol
 Fixes:PUSOD:name
@@ -90,6 +96,8 @@ Fixes:RAGUP:name
 Fixes:RAGUP:symbol
 Fixes:RETIP:name
 Fixes:RETIP:symbol
+Fixes:ROGSA:name
+Fixes:ROGSA:symbol
 Fixes:SEBIP:name
 Fixes:SEBIP:symbol
 Fixes:SIMTO:name
@@ -102,8 +110,12 @@ Fixes:TADES:name
 Fixes:TADES:symbol
 Fixes:TOTUX:name
 Fixes:TOTUX:symbol
+Fixes:UDBAM:name
+Fixes:UDBAM:symbol
 Fixes:URTAT:name
 Fixes:URTAT:symbol
+Fixes:URVAS:name
+Fixes:URVAS:symbol
 Fixes:USBUR:name
 Fixes:USBUR:symbol
 Fixes:VITEN:name
@@ -144,10 +156,18 @@ Sids:YQB arr KAROT:
 Sids:YQB arr OLAVO:
 Sids:YQB arr OMVAR:
 Sids:YQB arr PESAC:
+Sids:YQB dep EAST:
+Sids:YQB dep NORTH:
+Sids:YQB dep NW:
+Sids:YQB dep SE:
 Sids:YQB dep SEBIP:
+Sids:YQB dep SOUTH JET:
+Sids:YQB dep SOUTH PROP:
 Stars:CYR603 SFC-170:
 Stars:CYR612 SFC-27:
 Stars:YQB - CONFIG 06:
+VORs:HUL:name
+VORs:HUL:symbol
 VORs:VBS:frequency
 VORs:VBS:name
 VORs:VBS:symbol
@@ -160,6 +180,8 @@ VORs:YQB:symbol
 VORs:YRI:frequency
 VORs:YRI:name
 VORs:YRI:symbol
+VORs:YSC:name
+VORs:YSC:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:400

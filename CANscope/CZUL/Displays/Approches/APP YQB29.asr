@@ -22,10 +22,14 @@ Fixes:AGLUK:name
 Fixes:AGLUK:symbol
 Fixes:AMARA:name
 Fixes:AMARA:symbol
+Fixes:APLAK:name
+Fixes:APLAK:symbol
 Fixes:AVEGO:name
 Fixes:AVEGO:symbol
 Fixes:AXOTO:name
 Fixes:AXOTO:symbol
+Fixes:BERUT:name
+Fixes:BERUT:symbol
 Fixes:BIPDA:name
 Fixes:BIPDA:symbol
 Fixes:BOSES:name
@@ -82,14 +86,20 @@ Fixes:OLAVO:name
 Fixes:OLAVO:symbol
 Fixes:OMVAR:name
 Fixes:OMVAR:symbol
+Fixes:PENTU:name
+Fixes:PENTU:symbol
 Fixes:PESAC:name
 Fixes:PESAC:symbol
+Fixes:PINTE:name
+Fixes:PINTE:symbol
 Fixes:PUPOV:name
 Fixes:PUPOV:symbol
 Fixes:PUSOD:name
 Fixes:PUSOD:symbol
 Fixes:RETIP:name
 Fixes:RETIP:symbol
+Fixes:ROGSA:name
+Fixes:ROGSA:symbol
 Fixes:ROLPO:name
 Fixes:ROLPO:symbol
 Fixes:SIMTO:name
@@ -102,14 +112,16 @@ Fixes:TADES:name
 Fixes:TADES:symbol
 Fixes:TILAC:name
 Fixes:TILAC:symbol
+Fixes:UDBAM:name
+Fixes:UDBAM:symbol
 Fixes:UKPOB:name
 Fixes:UKPOB:symbol
+Fixes:URVAS:name
+Fixes:URVAS:symbol
 Fixes:VEVGI:name
 Fixes:VEVGI:symbol
 Fixes:VIXUV:name
 Fixes:VIXUV:symbol
-Fixes:VODIX:name
-Fixes:VODIX:symbol
 Fixes:XUBUN:name
 Fixes:XUBUN:symbol
 Free Text:YQB MVA\24<22   :freetext
@@ -171,10 +183,18 @@ Sids:YQB arr KAROT:
 Sids:YQB arr OLAVO:
 Sids:YQB arr OMVAR:
 Sids:YQB arr PESAC:
+Sids:YQB dep EAST:
+Sids:YQB dep NORTH:
+Sids:YQB dep NW:
+Sids:YQB dep SE:
+Sids:YQB dep SOUTH JET:
+Sids:YQB dep SOUTH PROP:
 Sids:YQB dep TILAC:
 Stars:CYR603 SFC-170:
 Stars:CYR612 SFC-27:
 Stars:YQB - CONFIG 29:
+VORs:HUL:name
+VORs:HUL:symbol
 VORs:VBS:frequency
 VORs:VBS:name
 VORs:VBS:symbol
@@ -187,6 +207,8 @@ VORs:YQB:symbol
 VORs:YRI:frequency
 VORs:YRI:name
 VORs:YRI:symbol
+VORs:YSC:name
+VORs:YSC:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:300
@@ -198,6 +220,7 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:15.50000
 TAGFAMILY:CSiT
 WINDOWAREA:45.831683:-73.509699:47.576450:-69.955681
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
