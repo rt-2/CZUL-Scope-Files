@@ -22,12 +22,20 @@ Fixes:ALIDO:name
 Fixes:ALIDO:symbol
 Fixes:ALSET:name
 Fixes:ALSET:symbol
+Fixes:ANCER:name
+Fixes:ANCER:symbol
+Fixes:ANTOV:name
+Fixes:ANTOV:symbol
 Fixes:APLOV:name
 Fixes:APLOV:symbol
 Fixes:APMUP:name
 Fixes:APMUP:symbol
+Fixes:ARVIE:name
+Fixes:ARVIE:symbol
 Fixes:AVVON:name
 Fixes:AVVON:symbol
+Fixes:BAREE:name
+Fixes:BAREE:symbol
 Fixes:BEMOG:name
 Fixes:BEMOG:symbol
 Fixes:BOKLU:name
@@ -40,6 +48,8 @@ Fixes:CATOG:name
 Fixes:CATOG:symbol
 Fixes:CAVUR:name
 Fixes:CAVUR:symbol
+Fixes:CEFOU:name
+Fixes:CEFOU:symbol
 Fixes:CYRIL:name
 Fixes:CYRIL:symbol
 Fixes:DUNUM:name
@@ -48,10 +58,10 @@ Fixes:ELSUB:name
 Fixes:ELSUB:symbol
 Fixes:EMPEK:name
 Fixes:EMPEK:symbol
+Fixes:EPMOK:name
+Fixes:EPMOK:symbol
 Fixes:ESTEL:name
 Fixes:ESTEL:symbol
-Fixes:HABBS:name
-Fixes:HABBS:symbol
 Fixes:IKLAX:name
 Fixes:IKLAX:symbol
 Fixes:ILEMU:name
@@ -64,8 +74,6 @@ Fixes:IPSAK:name
 Fixes:IPSAK:symbol
 Fixes:KANIK:name
 Fixes:KANIK:symbol
-Fixes:KAVSU:name
-Fixes:KAVSU:symbol
 Fixes:KODEX:name
 Fixes:KODEX:symbol
 Fixes:LAFIT:name
@@ -82,6 +90,8 @@ Fixes:MEGNO:name
 Fixes:MEGNO:symbol
 Fixes:MERKO:name
 Fixes:MERKO:symbol
+Fixes:MIILS:name
+Fixes:MIILS:symbol
 Fixes:MIVOK:name
 Fixes:MIVOK:symbol
 Fixes:OBTAX:name
@@ -96,6 +106,8 @@ Fixes:ONDOB:name
 Fixes:ONDOB:symbol
 Fixes:PETLU:name
 Fixes:PETLU:symbol
+Fixes:RABIK:name
+Fixes:RABIK:symbol
 Fixes:RADEN:name
 Fixes:RADEN:symbol
 Fixes:RAFNO:name
@@ -112,8 +124,6 @@ Fixes:TADMO:name
 Fixes:TADMO:symbol
 Fixes:TAKOL:name
 Fixes:TAKOL:symbol
-Fixes:TAMKO:name
-Fixes:TAMKO:symbol
 Fixes:TAPVO:name
 Fixes:TAPVO:symbol
 Fixes:THURO:name
@@ -263,9 +273,6 @@ VORs:VLV:symbol
 VORs:YBC:frequency
 VORs:YBC:name
 VORs:YBC:symbol
-VORs:YCF:frequency
-VORs:YCF:name
-VORs:YCF:symbol
 VORs:YEE:frequency
 VORs:YEE:name
 VORs:YEE:symbol
@@ -355,8 +362,9 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-TAGFAMILY:Matias (built in)
-WINDOWAREA:44.711929:-76.999748:45.882508:-74.615328
+DisplayRotation:0.00000
+TAGFAMILY:CSiT
+WINDOWAREA:44.501391:-78.030445:46.330420:-73.114950
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
 PLUGIN:Virtual Controller Assistant:CDSHOW:1
 PLUGIN:Virtual Controller Assistant:CDXPOS:100

@@ -25,10 +25,18 @@ Fixes:ALIDO:name
 Fixes:ALIDO:symbol
 Fixes:ALSET:name
 Fixes:ALSET:symbol
+Fixes:ANCER:name
+Fixes:ANCER:symbol
+Fixes:ANTOV:name
+Fixes:ANTOV:symbol
 Fixes:APLOV:name
 Fixes:APLOV:symbol
+Fixes:ARVIE:name
+Fixes:ARVIE:symbol
 Fixes:AVVON:name
 Fixes:AVVON:symbol
+Fixes:BAREE:name
+Fixes:BAREE:symbol
 Fixes:BEMOG:name
 Fixes:BEMOG:symbol
 Fixes:BOKLU:name
@@ -39,6 +47,8 @@ Fixes:BUGSY:name
 Fixes:BUGSY:symbol
 Fixes:CATOG:name
 Fixes:CATOG:symbol
+Fixes:CEFOU:name
+Fixes:CEFOU:symbol
 Fixes:CYRIL:name
 Fixes:CYRIL:symbol
 Fixes:DEMKO:name
@@ -51,12 +61,12 @@ Fixes:ELSUB:name
 Fixes:ELSUB:symbol
 Fixes:EMPEK:name
 Fixes:EMPEK:symbol
+Fixes:EPMOK:name
+Fixes:EPMOK:symbol
 Fixes:ESTEL:name
 Fixes:ESTEL:symbol
 Fixes:GABEV:name
 Fixes:GABEV:symbol
-Fixes:HABBS:name
-Fixes:HABBS:symbol
 Fixes:IKLAX:name
 Fixes:IKLAX:symbol
 Fixes:ILEMU:name
@@ -69,8 +79,6 @@ Fixes:IPSAK:name
 Fixes:IPSAK:symbol
 Fixes:KANIK:name
 Fixes:KANIK:symbol
-Fixes:KAVSU:name
-Fixes:KAVSU:symbol
 Fixes:KODEX:name
 Fixes:KODEX:symbol
 Fixes:LAFIT:name
@@ -83,6 +91,8 @@ Fixes:LORKA:name
 Fixes:LORKA:symbol
 Fixes:MERKO:name
 Fixes:MERKO:symbol
+Fixes:MIILS:name
+Fixes:MIILS:symbol
 Fixes:MIVOK:name
 Fixes:MIVOK:symbol
 Fixes:OBTAX:name
@@ -91,6 +101,8 @@ Fixes:OLIGO:name
 Fixes:OLIGO:symbol
 Fixes:ONDOB:name
 Fixes:ONDOB:symbol
+Fixes:RABIK:name
+Fixes:RABIK:symbol
 Fixes:RADEN:name
 Fixes:RADEN:symbol
 Fixes:REEDO:name
@@ -103,8 +115,6 @@ Fixes:TADMO:name
 Fixes:TADMO:symbol
 Fixes:TAKOL:name
 Fixes:TAKOL:symbol
-Fixes:TAMKO:name
-Fixes:TAMKO:symbol
 Fixes:TAPVO:name
 Fixes:TAPVO:symbol
 Fixes:TEXEN:name
@@ -233,6 +243,8 @@ Sids:YOW dep WEST PROP:
 Stars:YOW - CONFIG 32:
 VORs:ART:name
 VORs:ART:symbol
+VORs:SYR:name
+VORs:SYR:symbol
 VORs:VBS:frequency
 VORs:VBS:name
 VORs:VBS:symbol
@@ -272,6 +284,8 @@ VORs:YUL:symbol
 VORs:YVO:frequency
 VORs:YVO:name
 VORs:YVO:symbol
+VORs:YXI:name
+VORs:YXI:symbol
 VORs:YYY:frequency
 VORs:YYY:name
 VORs:YYY:symbol
@@ -289,5 +303,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:CSiT
-WINDOWAREA:44.046444:-78.226965:46.582537:-73.061052
+WINDOWAREA:44.536381:-77.876799:46.159481:-73.514739

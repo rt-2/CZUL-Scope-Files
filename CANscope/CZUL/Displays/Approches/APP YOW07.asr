@@ -30,10 +30,18 @@ Fixes:ALSET:name
 Fixes:ALSET:symbol
 Fixes:AMAGI:name
 Fixes:AMAGI:symbol
+Fixes:ANCER:name
+Fixes:ANCER:symbol
+Fixes:ANTOV:name
+Fixes:ANTOV:symbol
 Fixes:APLOV:name
 Fixes:APLOV:symbol
+Fixes:ARVIE:name
+Fixes:ARVIE:symbol
 Fixes:AVVON:name
 Fixes:AVVON:symbol
+Fixes:BAREE:name
+Fixes:BAREE:symbol
 Fixes:BEMOG:name
 Fixes:BEMOG:symbol
 Fixes:BOKLU:name
@@ -46,6 +54,8 @@ Fixes:CATOG:name
 Fixes:CATOG:symbol
 Fixes:CAVUR:name
 Fixes:CAVUR:symbol
+Fixes:CEFOU:name
+Fixes:CEFOU:symbol
 Fixes:CYRIL:name
 Fixes:CYRIL:symbol
 Fixes:DUNUM:name
@@ -56,12 +66,12 @@ Fixes:ELSUB:name
 Fixes:ELSUB:symbol
 Fixes:EMPEK:name
 Fixes:EMPEK:symbol
+Fixes:EPMOK:name
+Fixes:EPMOK:symbol
 Fixes:ESTEL:name
 Fixes:ESTEL:symbol
 Fixes:GABEV:name
 Fixes:GABEV:symbol
-Fixes:HABBS:name
-Fixes:HABBS:symbol
 Fixes:IKLAX:name
 Fixes:IKLAX:symbol
 Fixes:ILEMU:name
@@ -72,8 +82,6 @@ Fixes:IPSAK:name
 Fixes:IPSAK:symbol
 Fixes:KANIK:name
 Fixes:KANIK:symbol
-Fixes:KAVSU:name
-Fixes:KAVSU:symbol
 Fixes:KEMLU:name
 Fixes:KEMLU:symbol
 Fixes:KODEX:name
@@ -86,6 +94,8 @@ Fixes:LETAK:name
 Fixes:LETAK:symbol
 Fixes:LORKA:name
 Fixes:LORKA:symbol
+Fixes:MIILS:name
+Fixes:MIILS:symbol
 Fixes:MIVOK:name
 Fixes:MIVOK:symbol
 Fixes:MODON:name
@@ -98,6 +108,8 @@ Fixes:OLIGO:name
 Fixes:OLIGO:symbol
 Fixes:ONDOB:name
 Fixes:ONDOB:symbol
+Fixes:RABIK:name
+Fixes:RABIK:symbol
 Fixes:RADEN:name
 Fixes:RADEN:symbol
 Fixes:REEDO:name
@@ -112,8 +124,6 @@ Fixes:TADMO:name
 Fixes:TADMO:symbol
 Fixes:TAKOL:name
 Fixes:TAKOL:symbol
-Fixes:TAMKO:name
-Fixes:TAMKO:symbol
 Fixes:TAPVO:name
 Fixes:TAPVO:symbol
 Fixes:THURO:name
@@ -226,6 +236,7 @@ VORs:BTV:symbol
 VORs:MLT:symbol
 VORs:MSS:symbol
 VORs:PQI:symbol
+VORs:SYR:name
 VORs:SYR:symbol
 VORs:VBS:symbol
 VORs:VIE:symbol
@@ -275,5 +286,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:CSiT
-WINDOWAREA:44.148297:-77.662508:46.049199:-73.790452
+WINDOWAREA:44.448997:-78.233223:46.349899:-73.124572
