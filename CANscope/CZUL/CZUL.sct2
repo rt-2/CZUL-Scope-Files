@@ -22748,14 +22748,21 @@ YUL dep SW                BUGSY BUGSY SYR SYR YULdep
 YHU dep CYQB              ADVEM ADVEM PUPOV PUPOV YULdep
 ;
 YOW dep NORTH             RADEN RADEN N046.05.48.000 W076.03.03.400 YOWdep
-YOW dep NE                TAKOL TAKOL ESTEL ESTEL YOWdep
-YOW dep NE                ESTEL ESTEL TAMKO TAMKO YOWdep
-YOW dep CYUL              AVVON AVVON HABBS HABBS YOWdep
+YOW dep NE                TAKOL TAKOL IPSAK IPSAK YOWdep
+YOW dep NE                IPSAK IPSAK BOKLU BOKLU YOWdep
+YOW dep NE                BOKLU BOKLU EMPEK EMPEK YOWdep
+YOW dep NE                EMPEK EMPEK ESTEL ESTEL YOWdep
+YOW dep NE                ESTEL ESTEL BAREE BAREE YOWdep
+YOW dep NE                ESTEL ESTEL CEFOU CEFOU YOWdep
+YOW dep NE                ESTEL ESTEL MIILS MIILS YOWdep
+YOW dep NE                ESTEL ESTEL ANCER ANCER YOWdep
+YOW dep CYUL              AVVON AVVON ARVIE ARVIE YOWdep
 YOW dep EAST              AVVON AVVON VIKNO VIKNO YOWdep
 YOW dep EAST              VIKNO VIKNO LAFIT LAFIT YOWdep
-YOW dep EAST              LAFIT LAFIT N045.18.24.096 W074.12.04.958 YOWdep
-YOW dep SE                KODEX KODEX KAVSU KAVSU YOWdep
-YOW dep SE                KAVSU KAVSU SAVAL SAVAL YOWdep
+YOW dep EAST              LAFIT LAFIT RABIK RABIK YOWdep
+YOW dep EAST              RABIK RABIK ANTOV ANTOV YOWdep
+YOW dep SE                KODEX KODEX EPMOK EPMOK YOWdep
+YOW dep SE                EPMOK EPMOK SAVAL SAVAL YOWdep
 YOW dep SE                SAVAL SAVAL BUGSY BUGSY YOWdep
 YOW dep SW                IKLAX IKLAX REEDO REEDO YOWdep
 YOW dep SW                REEDO REEDO VIBRU VIBRU YOWdep
@@ -22765,6 +22772,7 @@ YOW dep WEST              YOW   YOW   LETAF LETAF YOWdep
 YOW dep WEST              LETAK LETAK DESKI DESKI YOWdep
 YOW dep WEST              DESKI DESKI ILEMU ILEMU YOWdep
 YOW dep CYYZ              TUKIR TUKIR TADMO TADMO YOWdep
+YOW dep NW                YOW	YOW	  OLIGO OLIGO YOWdep
 YOW dep NW                OLIGO OLIGO YXI   YXI   YOWdep
 ;
 YQB dep GOXEV             GOXEV GOXEV OLAVO OLAVO YQBsid
