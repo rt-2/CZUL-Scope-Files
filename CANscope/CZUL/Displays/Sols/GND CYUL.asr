@@ -3,7 +3,6 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 Airports:CYUL:name
 Airports:CYUL:symbol
-DisplayRotation:15.50000:
 Free Text:CYUL Ramp\ACA:freetext
 Free Text:CYUL Ramp\CAN:freetext
 Free Text:CYUL Ramp\Cargo:freetext
@@ -29,8 +28,6 @@ Free Text:CYUL Taxiway\B2:freetext
 Free Text:CYUL Taxiway\B3:freetext
 Free Text:CYUL Taxiway\D :freetext
 Free Text:CYUL Taxiway\E:freetext
-Free Text:CYUL Taxiway\E:freetext
-Free Text:CYUL Taxiway\E:freetext
 Free Text:CYUL Taxiway\F:freetext
 Free Text:CYUL Taxiway\G:freetext
 Free Text:CYUL Taxiway\H:freetext
@@ -47,11 +44,8 @@ Free Text:CYUL Taxiway\W:freetext
 Geo:AIRPORT LAYOUTS:
 Geo:GEO:
 Regions:CYUL:polygon
-Runways:CYUL Montreal Trudeau 06L-24R:centerline
 Runways:CYUL Montreal Trudeau 06L-24R:name
-Runways:CYUL Montreal Trudeau 06R-24L:centerline
 Runways:CYUL Montreal Trudeau 06R-24L:name
-Runways:CYUL Montreal Trudeau 10-28:centerline
 Runways:CYUL Montreal Trudeau 10-28:name
 SHOWC:1
 SHOWSB:0
@@ -64,6 +58,7 @@ HISTORY_DOTS:8
 SIMULATION_MODE:2
 DISABLEPANNING:1
 DISABLEZOOMING:1
+DisplayRotation:15.50000
 TAGFAMILY:NARDS
 WINDOWAREA:45.448381:-73.787186:45.493942:-73.694379
 PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
