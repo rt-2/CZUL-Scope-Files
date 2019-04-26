@@ -1,5 +1,5 @@
-DisplayTypeName:SMR radar display
-DisplayTypeNeedRadarContent:0
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 Free Text:CYUL FBO\ACA:freetext
 Free Text:CYUL FBO\AIE:freetext
