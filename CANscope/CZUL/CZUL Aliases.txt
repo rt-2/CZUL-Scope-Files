@@ -88,3 +88,7 @@
 .pdcreject PRE-DEPARTURE CLEARANCE | $AIRCRAFT | REJECTED – REVERT TO VOICE PROCEDURES
 
 .pdcerror PRE-DEPARTURE CLEARANCE | $AIRCRAFT | ERROR IN MESSAGE – REVERT TO VOICE PROCEDURES
+
+.autoclimbaltitude Climb $1 ft $dep altimeter $altim($dep)
+.autodescendaltitude Descend $1 ft $arr altimeter $altim($arr)
+.autocontact Contact $1 on frequency $2.
