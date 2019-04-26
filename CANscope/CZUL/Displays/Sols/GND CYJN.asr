@@ -1,6 +1,10 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+Free Text:CYJN Taxiway\A:freetext
+Free Text:CYJN Taxiway\B:freetext
+Free Text:CYJN Taxiway\C:freetext
+Free Text:CYJN Taxiway\D:freetext
 Geo:AIRPORT LAYOUTS:
 Runways:CYJN St-Jean 02-20:extended centerline 1
 Runways:CYJN St-Jean 02-20:extended centerline 1 left base
