@@ -71,7 +71,7 @@
 ..clrdvfr Transpondeur $squawk, Piste $deprwy($dep) pour le départ
 
 .clrdifr Cleared to $arr, Via the $sid departure, flight plan route, runway $deprwy($dep), Squawk $squawk
-.clrdifr Autorisé à $arr, Via le $sid départ, route du plan de vol, Piste $deprwy($dep), Transpondeur $squawk
+..clrdifr Autorisé à $arr, Via le $sid départ, route du plan de vol, Piste $deprwy($dep), Transpondeur $squawk
 
 .readback Read back is correct, Departure frequency $freq($1), push and start is at your discretion, contact $freq($2) when ready for taxi
 ..readback La relecture est correcte, Fréquence de départ $freq($1), refoulement et démarrage à votre discrétion, contactez $freq($2) lorsque prêt à circuler.
