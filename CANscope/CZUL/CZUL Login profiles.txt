@@ -135,7 +135,7 @@ ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage ena
 ATIS4:
 
 PROFILE:CYOW_GND:20:3
-ATIS2:Ottawa Clearance Delivery - Bilingual (EN/FR)
+ATIS2:Ottawa Ground - Bilingual (EN/FR)
 ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
 ATIS4:
 
@@ -150,12 +150,12 @@ ATIS3:Online until at least XXXXz
 ATIS4:
 
 PROFILE:CYRC_TWR:50:4
-ATIS2:St-Honoré Tower - Bilingual (EN/FR)
+ATIS2:St-HonorÃ© Tower - Bilingual (EN/FR)
 ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYRC_GND:20:3
-ATIS2:St-Honoré Ground - Bilingual (EN/FR)
+ATIS2:St-HonorÃ© Ground - Bilingual (EN/FR)
 ATIS3:Online until at least XXXXz
 ATIS4:
 
