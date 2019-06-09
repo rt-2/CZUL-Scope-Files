@@ -216,16 +216,3 @@ DISABLEZOOMING:0
 DisplayRotation:15.50000
 TAGFAMILY:CSiT
 WINDOWAREA:45.923147:-73.020085:47.468772:-69.871713
-PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
-PLUGIN:Virtual Controller Assistant:CDSHOW:1
-PLUGIN:Virtual Controller Assistant:CDXPOS:100
-PLUGIN:Virtual Controller Assistant:CDYPOS:100
-PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
-PLUGIN:Virtual Controller Assistant:FADETRAIL:0
-PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
-PLUGIN:Virtual Controller Assistant:MSLSHOW:0
-PLUGIN:Virtual Controller Assistant:MSLXPOS:200
-PLUGIN:Virtual Controller Assistant:MSLYPOS:200
-PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
-PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
-PLUGIN:Virtual Controller Assistant:TRAILTYPE:2
