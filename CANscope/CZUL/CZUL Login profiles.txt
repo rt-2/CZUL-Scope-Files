@@ -1,107 +1,107 @@
 PROFILE
 PROFILE:CYBG_APP:150:5
-ATIS2:Bagotville Terminal/Departures/Arrivals - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Bagotville Terminal/Departures/Arrivals
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYOW_APP:150:5
-ATIS2:Ottawa Arrivals - Bilingual (EN/FR) - PDC clearances in use
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Ottawa Arrivals - PDC clearances in use
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYOW_DEP:150:5
-ATIS2:Ottawa Terminal/Departures - Bilingual (EN/FR) - PDC clearances in use
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Ottawa Terminal/Departures - PDC clearances in use
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYQB_APP:150:5
-ATIS2:Quebec Terminal/Departures/Arrivals - Bilingual (EN/FR) - PDC clearances in use
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Quebec Terminal/Departures/Arrivals - PDC clearances in use
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CPTL_APP:150:5
-ATIS2:Quebec and Ottawa Terminal/Departures/Arrivals - Bilingual (EN/FR) - PDC clearances in use
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Quebec and Ottawa Terminal/Departures/Arrivals - PDC clearances in use
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:MTL_CTR:600:6
-ATIS2:Montreal Centre - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Montreal Centre
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:MTL_RW_CTR:600:6
-ATIS2:Montreal Centre - SECTEUR RAWDON SECTOR - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Covering CYUL, CYOW, CYQB, and satellites / Couvre CYUL, CYOW, CYQB et satellites
+ATIS2:Montreal Centre - SECTEUR RAWDON SECTOR
+ATIS3:Bilingual services (EN/FR) - Covering CYUL, CYOW, CYQB, and satellites / Couvre CYUL, CYOW, CYQB et satellites
 ATIS4:
 
 PROFILE:MTL_HV_CTR:600:6
-ATIS2:Montreal Centre - SECTEUR HAUTERIVE SECTOR - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Montreal Centre - SECTEUR HAUTERIVE SECTOR
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:MTL_NK_CTR:600:6
-ATIS2:Montreal Centre - SECTEUR NUVILIK SECTOR - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Montreal Centre - SECTEUR NUVILIK SECTOR
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:MTL_GL_CTR:600:6
-ATIS2:Montreal Centre - SECTEUR LA GRANDE SECTOR - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Montreal Centre - SECTEUR LA GRANDE SECTOR
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:MTL_LE_CTR:600:6
-ATIS2:Montreal Centre - SECTEUR LEVIS SECTOR - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Montreal Centre - SECTEUR LEVIS SECTOR
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:MTL_MC_CTR:600:6
-ATIS2:Montreal Centre - SECTEUR MANIC SECTOR - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Montreal Centre - SECTEUR MANIC SECTOR
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:MTL_FG_CTR:600:6
-ATIS2:Montreal Centre - SECTEUR FONTANGE SECTOR - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Montreal Centre - SECTEUR FONTANGE SECTOR
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:MTL_BZ_CTR:600:6
-ATIS2:Montreal Centre - SECTEUR BREVOORT SECTOR - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Montreal Centre - SECTEUR BREVOORT SECTOR
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYUL_APP:150:5
-ATIS2:Montreal Arrivals North - Bilingual (EN/FR)
+ATIS2:Montreal Arrivals North
 ATIS3:Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYUL_N_APP:150:5
-ATIS2:Montreal Arrivals North - Bilingual (EN/FR)
+ATIS2:Montreal Arrivals North
 ATIS3:
 ATIS4:
 
 PROFILE:CYUL_L_APP:150:5
-ATIS2:Montreal Approach - Bilingual (EN/FR)
+ATIS2:Montreal Approach
 ATIS3:Covering CYUL only 6000ft
 ATIS4:
 
 PROFILE:CYUL_S_APP:150:5
 ATIS2:Montreal Arrivals South- Bilingual (EN/FR) - PDC clearances in use
-ATIS3:Covering CYUL only - Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS3:Covering CYUL only - Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYUL_N_DEP:150:5
-ATIS2:Montreal Departures North - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Covering CYUL only
+ATIS2:Montreal Departures North
+ATIS3:Bilingual services (EN/FR) - Covering CYUL only
 ATIS4:
 
 PROFILE:CYUL_S_DEP:150:5
-ATIS2:Montreal Departures South - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Covering CYUL only
+ATIS2:Montreal Departures South
+ATIS3:Bilingual services (EN/FR) - Covering CYUL only
 ATIS4:
 
 PROFILE:CYUL_H_APP:150:5
-ATIS2:Montreal Departures St Hubert - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Covering CYHU IFR and VFR/Couvre CYHU IFR et VFR
+ATIS2:Montreal Departures St Hubert
+ATIS3:Bilingual services (EN/FR) - Covering CYHU IFR and VFR/Couvre CYHU IFR et VFR
 ATIS4:
 
 PROFILE:CZUL_OBS:300:0
@@ -110,72 +110,72 @@ ATIS3:
 ATIS4:
 
 PROFILE:CYBG_TWR:50:4
-ATIS2:Bagotville Tower - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Bagotville Tower
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYBG_GND:20:3
-ATIS2:Bagotville Ground - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz
+ATIS2:Bagotville Ground
+ATIS3:Bilingual services (EN/FR)
 ATIS4:
 
 PROFILE:CYHU_TWR:50:4
-ATIS2:St-Hubert Tower - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:St-Hubert Tower
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYHU_GND:20:3
-ATIS2:St-Hubert Ground - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz
+ATIS2:St-Hubert Ground
+ATIS3:Bilingual services (EN/FR)
 ATIS4:
 
 PROFILE:CYOW_TWR:50:4
-ATIS2:Ottawa Tower - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Ottawa Tower
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYOW_GND:20:3
-ATIS2:Ottawa Ground - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Ottawa Ground
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYQB_TWR:50:4
-ATIS2:Quebec Tower - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:Quebec Tower
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYQB_GND:20:3
-ATIS2:Quebec Ground - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz
+ATIS2:Quebec Ground
+ATIS3:Bilingual services (EN/FR)
 ATIS4:
 
 PROFILE:CYRC_TWR:50:4
-ATIS2:St-Honoré Tower - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS2:St-Honoré Tower
+ATIS3:Bilingual services (EN/FR) - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYRC_GND:20:3
-ATIS2:St-Honoré Ground - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz
+ATIS2:St-Honoré Ground
+ATIS3:Bilingual services (EN/FR)
 ATIS4:
 
 PROFILE:CYUL_TWR:50:4
-ATIS2:Montreal Tower - Bilingual (EN/FR) - PDC clearances in use
+ATIS2:Montreal Tower - PDC clearances in use
 ATIS3:Online until at least 2200z - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYUL_GND:20:3
-ATIS2:Montreal Ground - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz
+ATIS2:Montreal Ground
+ATIS3:Bilingual services (EN/FR)
 ATIS4:
 
 PROFILE:CYUL_A_GND:20:3
-ATIS2:Montreal Apron - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz
+ATIS2:Montreal Apron
+ATIS3:Bilingual services (EN/FR)
 ATIS4:
 
 PROFILE:CYUL_DEL:20:2
-ATIS2:Montreal Clearance Delivery - Bilingual (EN/FR)
-ATIS3:Online until at least XXXXz
+ATIS2:Montreal Clearance Delivery
+ATIS3:Bilingual services (EN/FR)
 ATIS4:
 END
