@@ -160,8 +160,8 @@ ATIS3:Bilingual services (EN/FR)
 ATIS4:
 
 PROFILE:CYUL_TWR:50:4
-ATIS2:Montreal Tower - PDC clearances in use
-ATIS3:Online until at least 2200z - Realistic correlation and radar coverage enabled
+ATIS2:Montreal Tower - Bilingual services (EN/FR) - PDC clearances in use
+ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
 ATIS4:
 
 PROFILE:CYUL_GND:20:3
