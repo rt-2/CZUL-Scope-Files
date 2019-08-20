@@ -161,7 +161,7 @@ ATIS4:Charts and info: www.CZUL.ca
 
 PROFILE:CYUL_TWR:50:4
 ATIS2:Tour de MONTRÉAL Tower - Bilingual (EN/FR) - PDC clearances in use
-ATIS3:Online until at least XXXXz - Realistic correlation and radar coverage enabled
+ATIS3:Realistic correlation and radar coverage enabled
 ATIS4:Charts and info: www.CZUL.ca
 
 PROFILE:CYUL_GND:20:3
