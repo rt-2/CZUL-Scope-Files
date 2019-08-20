@@ -100,7 +100,7 @@ ATIS3:Online until at least XXXXz - Covering CYUL only
 ATIS4:
 
 PROFILE:CYUL_H_APP:150:5
-ATIS2:MONTRÉAL Departures St Hubert - Bilingual (EN/FR)
+ATIS2:Départs de MONTRÉAL Departures St Hubert - Bilingual (EN/FR)
 ATIS3:Online until at least XXXXz - Covering CYHU IFR and VFR/Couvre CYHU IFR et VFR
 ATIS4:
 
