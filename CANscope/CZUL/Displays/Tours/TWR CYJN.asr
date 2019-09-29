@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\rt-2\Documents\EuroScope\CANscope\CZUL\CZUL.sct2
-SECTORTITLE:CZUL.sct2
 Geo:AIRPORT LAYOUTS:
 Geo:GEO:
 Runways:CYJN St-Jean 02-20:extended centerline 1
