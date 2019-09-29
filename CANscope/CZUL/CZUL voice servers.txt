@@ -7,6 +7,8 @@ AG:CYBG_TWR:126.200:canada.voice.vatsim.net:cybg_twr
 AG:CYHU_ATIS:124.900:canada.voice.vatsim.net:cyhu_atis
 AG:CYHU_GND:126.400:canada.voice.vatsim.net:cyhu_gnd
 AG:CYHU_TWR:118.400:canada.voice.vatsim.net:cyhu_twr
+AG:CYJN_GND:121.700:canada.voice.vatsim.net:cyjn_gnd
+AG:CYJN_TWR:118.200:canada.voice.vatsim.net:cyjn_twr
 AG:CYOW_APP:135.150:canada.voice.vatsim.net:cyow_app
 AG:CYOW_ATIS:121.150:canada.voice.vatsim.net:cyow_atis
 AG:CYOW_DEL:119.400:canada.voice.vatsim.net:cyow_del
