@@ -1,13 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Free Text:YBG MVA\32<29:freetext
-Free Text:YBG MVA\41<37:freetext
-Free Text:YBG MVA\43<38:freetext
-Free Text:YBG MVA\44<39:freetext
-Free Text:YBG MVA\44<40:freetext
-Free Text:YBG MVA\52<46:freetext
-Free Text:YBG MVA\59<53:freetext
 Geo:AIRPORT LAYOUTS:
 Geo:GEO:
 Runways:CYBG Bagotville 11-29:centerline
@@ -42,7 +35,6 @@ Runways:CYBG Bagotville 18-36:extended centerline 2 right base
 Runways:CYBG Bagotville 18-36:extended centerline 2 right ticks
 Runways:CYBG Bagotville 18-36:extended centerline 2 right vectoring
 Runways:CYBG Bagotville 18-36:name
-Stars:YBG - Min Vectoring Alt:
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -56,4 +48,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:15.50000
 TAGFAMILY:NARDS
-WINDOWAREA:47.912843:-71.531354:48.822279:-70.317602
+WINDOWAREA:47.843171:-71.850477:48.752608:-70.078103
