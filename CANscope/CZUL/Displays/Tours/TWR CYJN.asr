@@ -1,0 +1,66 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\rt-2\Documents\EuroScope\CANscope\CZUL\CZUL.sct2
+SECTORTITLE:CZUL.sct2
+Geo:AIRPORT LAYOUTS:
+Geo:GEO:
+Runways:CYJN St-Jean 02-20:extended centerline 1
+Runways:CYJN St-Jean 02-20:extended centerline 1 left base
+Runways:CYJN St-Jean 02-20:extended centerline 1 left ticks
+Runways:CYJN St-Jean 02-20:extended centerline 1 left vectoring
+Runways:CYJN St-Jean 02-20:extended centerline 1 right base
+Runways:CYJN St-Jean 02-20:extended centerline 1 right ticks
+Runways:CYJN St-Jean 02-20:extended centerline 1 right vectoring
+Runways:CYJN St-Jean 02-20:extended centerline 2
+Runways:CYJN St-Jean 02-20:extended centerline 2 left base
+Runways:CYJN St-Jean 02-20:extended centerline 2 left ticks
+Runways:CYJN St-Jean 02-20:extended centerline 2 left vectoring
+Runways:CYJN St-Jean 02-20:extended centerline 2 right base
+Runways:CYJN St-Jean 02-20:extended centerline 2 right ticks
+Runways:CYJN St-Jean 02-20:extended centerline 2 right vectoring
+Runways:CYJN St-Jean 02-20:name
+Runways:CYJN St-Jean 06-24:extended centerline 1
+Runways:CYJN St-Jean 06-24:extended centerline 1 left base
+Runways:CYJN St-Jean 06-24:extended centerline 1 left ticks
+Runways:CYJN St-Jean 06-24:extended centerline 1 left vectoring
+Runways:CYJN St-Jean 06-24:extended centerline 1 right base
+Runways:CYJN St-Jean 06-24:extended centerline 1 right ticks
+Runways:CYJN St-Jean 06-24:extended centerline 1 right vectoring
+Runways:CYJN St-Jean 06-24:extended centerline 2
+Runways:CYJN St-Jean 06-24:extended centerline 2 left base
+Runways:CYJN St-Jean 06-24:extended centerline 2 left ticks
+Runways:CYJN St-Jean 06-24:extended centerline 2 left vectoring
+Runways:CYJN St-Jean 06-24:extended centerline 2 right base
+Runways:CYJN St-Jean 06-24:extended centerline 2 right ticks
+Runways:CYJN St-Jean 06-24:extended centerline 2 right vectoring
+Runways:CYJN St-Jean 06-24:name
+Runways:CYJN St-Jean 11-29:extended centerline 1
+Runways:CYJN St-Jean 11-29:extended centerline 1 left base
+Runways:CYJN St-Jean 11-29:extended centerline 1 left ticks
+Runways:CYJN St-Jean 11-29:extended centerline 1 left vectoring
+Runways:CYJN St-Jean 11-29:extended centerline 1 right base
+Runways:CYJN St-Jean 11-29:extended centerline 1 right ticks
+Runways:CYJN St-Jean 11-29:extended centerline 1 right vectoring
+Runways:CYJN St-Jean 11-29:extended centerline 2
+Runways:CYJN St-Jean 11-29:extended centerline 2 left base
+Runways:CYJN St-Jean 11-29:extended centerline 2 left ticks
+Runways:CYJN St-Jean 11-29:extended centerline 2 left vectoring
+Runways:CYJN St-Jean 11-29:extended centerline 2 right base
+Runways:CYJN St-Jean 11-29:extended centerline 2 right ticks
+Runways:CYJN St-Jean 11-29:extended centerline 2 right vectoring
+Runways:CYJN St-Jean 11-29:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:15.50000
+TAGFAMILY:NARDS
+WINDOWAREA:45.192723:-73.469920:45.392067:-73.081425
