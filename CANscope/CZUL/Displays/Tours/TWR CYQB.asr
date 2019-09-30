@@ -1,64 +1,9 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-ARTCC low boundary:YQB_TCU:
-Fixes:BIVTI:name
-Fixes:BIVTI:symbol
-Fixes:BODPO:name
-Fixes:BODPO:symbol
-Fixes:IKDEB:name
-Fixes:IKDEB:symbol
-Fixes:KAVAT:name
-Fixes:KAVAT:symbol
-Fixes:KISIK:name
-Fixes:KISIK:symbol
-Fixes:LAC-ST-CHARLES:name
-Fixes:LAC-ST-CHARLES:symbol
-Fixes:LAC-ST-JOSEPH:name
-Fixes:LAC-ST-JOSEPH:symbol
-Fixes:LAURIER-STATION:name
-Fixes:LAURIER-STATION:symbol
-Fixes:PESAC:name
-Fixes:PESAC:symbol
-Fixes:PONT-ROUGE:name
-Fixes:PONT-ROUGE:symbol
-Fixes:RAGUP:name
-Fixes:RAGUP:symbol
-Fixes:ST-GILLES:name
-Fixes:ST-GILLES:symbol
-Fixes:ST-LAMBERT:name
-Fixes:ST-LAMBERT:symbol
-Fixes:TOTUX:name
-Fixes:TOTUX:symbol
-Fixes:ULBOM:name
-Fixes:ULBOM:symbol
-Fixes:URTAT:name
-Fixes:URTAT:symbol
-Fixes:USBUR:name
-Fixes:USBUR:symbol
-Free Text:YQB MVA\24<22   :freetext
-Free Text:YQB MVA\24<22   :freetext
-Free Text:YQB MVA\33<30   :freetext
-Free Text:YQB MVA\39<35   :freetext
-Free Text:YQB MVA\40<36   :freetext
-Free Text:YQB MVA\40<36   :freetext
-Free Text:YQB MVA\43<39   :freetext
-Free Text:YQB MVA\43<39   :freetext
-Free Text:YQB MVA\50<45   :freetext
-Free Text:YQB MVA\50<45   :freetext
-Free Text:YQB MVA\50<45   :freetext
-Free Text:YQB MVA\50<45   :freetext
-Free Text:YQB MVA\57<51   :freetext
-Free Text:YQB MVA\57<51   :freetext
 Geo:AIRPORT LAYOUTS:
 Geo:GEO:
-NDBs:BV:name
-NDBs:BV:symbol
-NDBs:QB:name
-NDBs:QB:symbol
-Regions:CYQB:polygon
 Regions:CYR603 SFC-170:polygon
-Regions:CYR606 SFC-170:polygon
 Regions:CYR612 SFC-27:polygon
 Runways:CYQB Quebec Jean Lesage 06-24:centerline
 Runways:CYQB Quebec Jean Lesage 06-24:extended centerline 1
@@ -92,9 +37,6 @@ Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 right base
 Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 right ticks
 Runways:CYQB Quebec Jean Lesage 11-29:extended centerline 2 right vectoring
 Runways:CYQB Quebec Jean Lesage 11-29:name
-Stars:YQB - Min Vectoring Alt:
-VORs:YQB:name
-VORs:YQB:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:250
@@ -108,4 +50,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:15.50000
 TAGFAMILY:NARDS
-WINDOWAREA:46.620881:-71.732360:46.982377:-70.996009
+WINDOWAREA:46.319941:-72.260404:47.242390:-70.462672

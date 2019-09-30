@@ -2,24 +2,8 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 ARTCC low boundary:MTL_TCU:
-Free Text:YUL MVA\17<15:freetext
-Free Text:YUL MVA\22<20:freetext
-Free Text:YUL MVA\22<20:freetext
-Free Text:YUL MVA\22<20:freetext
-Free Text:YUL MVA\23<21:freetext
-Free Text:YUL MVA\25<22:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\33<29:freetext
-Free Text:YUL MVA\33<30:freetext
-Free Text:YUL MVA\38<34:freetext
-Free Text:YUL MVA\38<34:freetext
 Geo:AIRPORT LAYOUTS:
 Geo:GEO:
-Regions:CYR603 SFC-170:polygon
-Regions:CYR612 SFC-27:polygon
 Runways:CYHU Montreal St-Hubert 06L-24R:centerline
 Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1
 Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 left base
@@ -68,7 +52,6 @@ Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right base
 Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right ticks
 Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right vectoring
 Runways:CYHU Montreal St-Hubert 10-28:name
-Stars:YUL - Min Vectoring Alt:
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -82,4 +65,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:15.50000
 TAGFAMILY:NARDS
-WINDOWAREA:45.271570:-73.826986:45.737202:-72.878514
+WINDOWAREA:45.261047:-73.826986:45.747725:-72.878514
