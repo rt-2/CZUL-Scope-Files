@@ -124,6 +124,146 @@ Fixes:VIBRU:symbol
 Fixes:VIRSO:name
 Fixes:VIRSO:symbol
 Geo:GEO:
+Low airways:B7:line
+Low airways:B7:name
+Low airways:M201:line
+Low airways:M201:name
+Low airways:M202:line
+Low airways:M202:name
+Low airways:RR2:line
+Low airways:RR2:name
+Low airways:T614:line
+Low airways:T614:name
+Low airways:T616:line
+Low airways:T616:name
+Low airways:T630:line
+Low airways:T630:name
+Low airways:T634:line
+Low airways:T634:name
+Low airways:T636:line
+Low airways:T636:name
+Low airways:T680:line
+Low airways:T680:name
+Low airways:T723:line
+Low airways:T723:name
+Low airways:T731:line
+Low airways:T731:name
+Low airways:T733:line
+Low airways:T733:name
+Low airways:T737:line
+Low airways:T737:name
+Low airways:T739:line
+Low airways:T739:name
+Low airways:T781:line
+Low airways:T781:name
+Low airways:T791:line
+Low airways:T791:name
+Low airways:V104:line
+Low airways:V104:name
+Low airways:V14:line
+Low airways:V14:name
+Low airways:V141:line
+Low airways:V141:name
+Low airways:V145:line
+Low airways:V145:name
+Low airways:V151:line
+Low airways:V151:name
+Low airways:V164:line
+Low airways:V164:name
+Low airways:V196:line
+Low airways:V196:name
+Low airways:V2:line
+Low airways:V2:name
+Low airways:V252:line
+Low airways:V252:name
+Low airways:V282:line
+Low airways:V282:name
+Low airways:V29:line
+Low airways:V29:name
+Low airways:V3:line
+Low airways:V3:name
+Low airways:V300:line
+Low airways:V300:name
+Low airways:V302:line
+Low airways:V302:name
+Low airways:V31:line
+Low airways:V31:name
+Low airways:V310:line
+Low airways:V310:name
+Low airways:V312:line
+Low airways:V312:name
+Low airways:V314:line
+Low airways:V314:name
+Low airways:V316:line
+Low airways:V316:name
+Low airways:V318:line
+Low airways:V318:name
+Low airways:V322:line
+Low airways:V322:name
+Low airways:V34:line
+Low airways:V34:name
+Low airways:V346:line
+Low airways:V346:name
+Low airways:V35:line
+Low airways:V35:name
+Low airways:V352:line
+Low airways:V352:name
+Low airways:V36:line
+Low airways:V36:name
+Low airways:V370:line
+Low airways:V370:name
+Low airways:V372:line
+Low airways:V372:name
+Low airways:V382:line
+Low airways:V382:name
+Low airways:V39:line
+Low airways:V39:name
+Low airways:V400:line
+Low airways:V400:name
+Low airways:V423:line
+Low airways:V423:name
+Low airways:V43:line
+Low airways:V43:name
+Low airways:V433:line
+Low airways:V433:name
+Low airways:V447:line
+Low airways:V447:name
+Low airways:V483:line
+Low airways:V483:name
+Low airways:V487:line
+Low airways:V487:name
+Low airways:V489:line
+Low airways:V489:name
+Low airways:V501:line
+Low airways:V501:name
+Low airways:V84:line
+Low airways:V84:name
+Low airways:V91:line
+Low airways:V91:name
+Low airways:V93:line
+Low airways:V93:name
+Low airways:V98:line
+Low airways:V98:name
+Low airways:W20:line
+Low airways:W20:name
+Low airways:W21:line
+Low airways:W21:name
+Low airways:W23:line
+Low airways:W23:name
+Low airways:W24:line
+Low airways:W24:name
+Low airways:W25:line
+Low airways:W25:name
+Low airways:W28:line
+Low airways:W28:name
+Low airways:W29:line
+Low airways:W29:name
+Low airways:W36:line
+Low airways:W36:name
+Low airways:W47:line
+Low airways:W47:name
+Low airways:W51:line
+Low airways:W51:name
 NDBs:CL:name
 NDBs:CL:symbol
 NDBs:YUY:name
@@ -681,7 +821,7 @@ SHOWSB:0
 BELOW:0
 ABOVE:0
 LEADER:-5
-SHOWLEADER:1
+SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:6
 SIMULATION_MODE:1

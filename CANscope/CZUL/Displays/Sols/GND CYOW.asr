@@ -1,33 +1,33 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Free Text:CYOW Ramp\G                     :freetext
-Free Text:CYOW Ramp\G                     :freetext
-Free Text:CYOW Ramp\G/A                      :freetext
-Free Text:CYOW Ramp\G/A                      :freetext
-Free Text:CYOW Ramp\ICE                      :freetext
-Free Text:CYOW Taxiway\A  :freetext
-Free Text:CYOW Taxiway\A  :freetext
-Free Text:CYOW Taxiway\A  :freetext
-Free Text:CYOW Taxiway\AA :freetext
-Free Text:CYOW Taxiway\B  :freetext
-Free Text:CYOW Taxiway\B  :freetext
-Free Text:CYOW Taxiway\BB :freetext
-Free Text:CYOW Taxiway\C  :freetext
-Free Text:CYOW Taxiway\C  :freetext
-Free Text:CYOW Taxiway\CC :freetext
-Free Text:CYOW Taxiway\D  :freetext
-Free Text:CYOW Taxiway\E  :freetext
-Free Text:CYOW Taxiway\E  :freetext
-Free Text:CYOW Taxiway\F                     :freetext
-Free Text:CYOW Taxiway\J                     :freetext
-Free Text:CYOW Taxiway\K                     :freetext
-Free Text:CYOW Taxiway\L                     :freetext
-Free Text:CYOW Taxiway\M                     :freetext
-Free Text:CYOW Taxiway\P :freetext
-Free Text:CYOW Taxiway\P :freetext
-Free Text:CYOW Taxiway\Q                     :freetext
-Free Text:CYOW Taxiway\T                     :freetext
+Free Text:CYOW Ramp\G:freetext
+Free Text:CYOW Ramp\G:freetext
+Free Text:CYOW Ramp\G/A:freetext
+Free Text:CYOW Ramp\G/A:freetext
+Free Text:CYOW Ramp\ICE:freetext
+Free Text:CYOW Taxiway\A:freetext
+Free Text:CYOW Taxiway\A:freetext
+Free Text:CYOW Taxiway\A:freetext
+Free Text:CYOW Taxiway\AA:freetext
+Free Text:CYOW Taxiway\B:freetext
+Free Text:CYOW Taxiway\B:freetext
+Free Text:CYOW Taxiway\BB:freetext
+Free Text:CYOW Taxiway\C:freetext
+Free Text:CYOW Taxiway\C:freetext
+Free Text:CYOW Taxiway\CC:freetext
+Free Text:CYOW Taxiway\D:freetext
+Free Text:CYOW Taxiway\E:freetext
+Free Text:CYOW Taxiway\E:freetext
+Free Text:CYOW Taxiway\F:freetext
+Free Text:CYOW Taxiway\J:freetext
+Free Text:CYOW Taxiway\K:freetext
+Free Text:CYOW Taxiway\L:freetext
+Free Text:CYOW Taxiway\M:freetext
+Free Text:CYOW Taxiway\P:freetext
+Free Text:CYOW Taxiway\P:freetext
+Free Text:CYOW Taxiway\Q:freetext
+Free Text:CYOW Taxiway\T:freetext
 Geo:AIRPORT LAYOUTS:
 Runways:CYOW Ottawa MacDonald Cartier 04-22:name
 Runways:CYOW Ottawa MacDonald Cartier 07-25:name
@@ -37,7 +37,7 @@ SHOWSB:0
 BELOW:0
 ABOVE:400
 LEADER:5
-SHOWLEADER:1
+SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:5
 SIMULATION_MODE:2
