@@ -40,3 +40,7 @@ Settings	sector	\CZUL\CZUL.sct2
 Settings	SettingsfilePROFILE	\CZUL\CZUL Login profiles.txt
 Settings	SettingsfileVOICE	\CZUL\CZUL voice servers.txt
 RecentFiles	Recent1	\CZUL\Displays\Enroute\CTR LO.asr
+RecentFiles	Recent2	\CZUL\Displays\Enroute\CTR HI.asr
+RecentFiles	Recent3	\CZUL\Displays\Sols\GND CYUL.asr
+RecentFiles	Recent4	\CZUL\Displays\Sols\GND CYOW.asr
+RecentFiles	Recent5	\CZUL\Displays\Sols\GND CYQB.asr
