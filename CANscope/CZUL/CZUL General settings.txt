@@ -102,7 +102,7 @@ m_ShowUncorrelatedInFpList:1
 m_ShowVFRInFpList:1
 m_ShowIFRInFpList:1
 m_ShowConcernedInFpList:1
-m_ShowUnconcernedInFpList:1
+m_ShowUnconcernedInFpList:0
 m_ZoomCenterUnderMouse:0
 m_AseURL:http://www.craig-phillips.co.uk/ase/repository/
 m_STCA_LowPreWarnTime:120
