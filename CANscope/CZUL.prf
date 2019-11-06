@@ -5,8 +5,8 @@ Settings	aircraft	\CZUL\Data\ICAO_Aircraft.txt
 Settings	airports	\CZUL\Data\ICAO_Airports.txt
 Settings	airways	\CZUL\Data\AIRWAY.txt
 Settings	AtisFolder	\CZUL\ATIS\Atis_Canada.txt
-Settings	Settingsfile	\Settings\CZUL General settings.txt
-Settings	SettingsfileSCREEN	\Settings\CZUL Screen layout.txt
+Settings	Settingsfile	\CZUL\CZUL General settings.txt
+Settings	SettingsfileSCREEN	\CZUL\CZUL Screen layout.txt
 Settings	SettingsfileSYMBOLOGY	\CZUL\CZUL Symbology.txt
 Settings	SettingsfileTAGS	\Settings\CAATS TAG definations.txt
 Settings	SettingsfileSIL	\Settings\CAATS Sector inbound list configuration.txt
