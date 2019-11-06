@@ -7,9 +7,12 @@ AG:CYBG_TWR:126.200:no-server.afv.example.org:cybg_twr
 AG:CYHU_ATIS:124.900:no-server.afv.example.org:cyhu_atis
 AG:CYHU_GND:126.400:no-server.afv.example.org:cyhu_gnd
 AG:CYHU_TWR:118.400:no-server.afv.example.org:cyhu_twr
+AG:CYJN_GND:121.700:no-server.afv.example.org:cyjn_gnd
+AG:CYJN_TWR:118.200:no-server.afv.example.org:cyjn_twr
 AG:CYOW_APP:135.150:no-server.afv.example.org:cyow_app
 AG:CYOW_ATIS:121.150:no-server.afv.example.org:cyow_atis
 AG:CYOW_DEL:119.400:no-server.afv.example.org:cyow_del
+AG:CYOW_DEP:128.170:no-server.afv.example.org:cyow_dep
 AG:CYOW_GND:121.900:no-server.afv.example.org:cyow_gnd
 AG:CYOW_TWR:118.800:no-server.afv.example.org:cyow_twr
 AG:CYQB_APP:127.850:no-server.afv.example.org:cyqb_app

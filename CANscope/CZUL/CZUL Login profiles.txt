@@ -129,6 +129,16 @@ ATIS2:Sol de ST-HUBERT Ground - Bilingual services (EN/FR)
 ATIS3:
 ATIS4:Charts and info -> www.czulfir.com
 
+PROFILE:CYJN_TWR:50:4
+ATIS2:Tour de ST-JEAN Tower - Bilingual services (EN/FR)
+ATIS3:
+ATIS4:Charts and info: www.CZUL.ca
+
+PROFILE:CYJN_GND:20:3
+ATIS2:Sol de ST-JEAN Ground - Bilingual services (EN/FR)
+ATIS3:
+ATIS4:Charts and info: www.CZUL.ca
+
 PROFILE:CYOW_TWR:50:4
 ATIS2:Tour d' OTTAWA Tower - Bilingual services (EN/FR)
 ATIS3:Realistic correlation and radar coverage enabled

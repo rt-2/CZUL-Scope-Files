@@ -108,20 +108,20 @@ Fixes:URVAS:name
 Fixes:URVAS:symbol
 Fixes:XOSPO:name
 Fixes:XOSPO:symbol
-Free Text:YQB MVA\24<22   :freetext
-Free Text:YQB MVA\24<22   :freetext
-Free Text:YQB MVA\33<30   :freetext
-Free Text:YQB MVA\39<35   :freetext
-Free Text:YQB MVA\40<36   :freetext
-Free Text:YQB MVA\40<36   :freetext
-Free Text:YQB MVA\43<39   :freetext
-Free Text:YQB MVA\43<39   :freetext
-Free Text:YQB MVA\50<45   :freetext
-Free Text:YQB MVA\50<45   :freetext
-Free Text:YQB MVA\50<45   :freetext
-Free Text:YQB MVA\50<45   :freetext
-Free Text:YQB MVA\57<51   :freetext
-Free Text:YQB MVA\57<51   :freetext
+Free Text:YQB MVA\24<22:freetext
+Free Text:YQB MVA\24<22:freetext
+Free Text:YQB MVA\33<30:freetext
+Free Text:YQB MVA\39<35:freetext
+Free Text:YQB MVA\40<36:freetext
+Free Text:YQB MVA\40<36:freetext
+Free Text:YQB MVA\43<39:freetext
+Free Text:YQB MVA\43<39:freetext
+Free Text:YQB MVA\50<45:freetext
+Free Text:YQB MVA\50<45:freetext
+Free Text:YQB MVA\50<45:freetext
+Free Text:YQB MVA\50<45:freetext
+Free Text:YQB MVA\57<51:freetext
+Free Text:YQB MVA\57<51:freetext
 Geo:GEO:
 NDBs:BV:name
 NDBs:BV:symbol
@@ -196,13 +196,13 @@ SHOWC:1
 SHOWSB:0
 BELOW:400
 ABOVE:0
-LEADER:5
+LEADER:3
 SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:5
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:15.50000
+DisplayRotation:16.50000
 TAGFAMILY:CSiT
 WINDOWAREA:46.149960:-73.209041:47.380171:-69.902863
