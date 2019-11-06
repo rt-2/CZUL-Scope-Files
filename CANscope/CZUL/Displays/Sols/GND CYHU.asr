@@ -1,22 +1,22 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Free Text:CYHU Taxiway\B                     :freetext
-Free Text:CYHU Taxiway\C   :freetext
-Free Text:CYHU Taxiway\C   :freetext
-Free Text:CYHU Taxiway\C   :freetext
-Free Text:CYHU Taxiway\E                     :freetext
-Free Text:CYHU Taxiway\F                     :freetext
-Free Text:CYHU Taxiway\G                     :freetext
-Free Text:CYHU Taxiway\H                     :freetext
-Free Text:CYHU Taxiway\J                     :freetext
-Free Text:CYHU Taxiway\K                     :freetext
-Free Text:CYHU Taxiway\L                     :freetext
-Free Text:CYHU Taxiway\M                     :freetext
-Free Text:CYHU Taxiway\P                     :freetext
-Free Text:CYHU Taxiway\R                     :freetext
-Free Text:CYHU Taxiway\T   :freetext
-Free Text:CYHU Taxiway\T   :freetext
+Free Text:CYHU Taxiway\B:freetext
+Free Text:CYHU Taxiway\C:freetext
+Free Text:CYHU Taxiway\C:freetext
+Free Text:CYHU Taxiway\C:freetext
+Free Text:CYHU Taxiway\E:freetext
+Free Text:CYHU Taxiway\F:freetext
+Free Text:CYHU Taxiway\G:freetext
+Free Text:CYHU Taxiway\H:freetext
+Free Text:CYHU Taxiway\J:freetext
+Free Text:CYHU Taxiway\K:freetext
+Free Text:CYHU Taxiway\L:freetext
+Free Text:CYHU Taxiway\M:freetext
+Free Text:CYHU Taxiway\P:freetext
+Free Text:CYHU Taxiway\R:freetext
+Free Text:CYHU Taxiway\T:freetext
+Free Text:CYHU Taxiway\T:freetext
 Geo:AIRPORT LAYOUTS:
 Runways:CYHU Montreal St-Hubert 06L-24R:name
 Runways:CYHU Montreal St-Hubert 06R-24L:name

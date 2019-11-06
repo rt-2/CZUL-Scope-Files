@@ -1,15 +1,15 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Free Text:CYBG Taxiway\A                     :freetext
-Free Text:CYBG Taxiway\B                     :freetext
-Free Text:CYBG Taxiway\C                     :freetext
-Free Text:CYBG Taxiway\D  :freetext
-Free Text:CYBG Taxiway\D  :freetext
-Free Text:CYBG Taxiway\E                     :freetext
-Free Text:CYBG Taxiway\H                     :freetext
-Free Text:CYBG Taxiway\K                     :freetext
-Free Text:CYBG Taxiway\L                     :freetext
+Free Text:CYBG Taxiway\A:freetext
+Free Text:CYBG Taxiway\B:freetext
+Free Text:CYBG Taxiway\C:freetext
+Free Text:CYBG Taxiway\D:freetext
+Free Text:CYBG Taxiway\D:freetext
+Free Text:CYBG Taxiway\E:freetext
+Free Text:CYBG Taxiway\H:freetext
+Free Text:CYBG Taxiway\K:freetext
+Free Text:CYBG Taxiway\L:freetext
 Geo:AIRPORT LAYOUTS:
 Runways:CYBC Baie-Comeau 10-28:name
 Runways:CYBG Bagotville 11-29:name
