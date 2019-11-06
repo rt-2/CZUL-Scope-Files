@@ -10,7 +10,7 @@ m_ShowTitleClock:1
 m_ShowTitleLeader:1
 m_ShowTitleFilter:1
 m_ShowTitleTrans:0
-m_ShowVoiceRoomUsers:1
+m_ShowVoiceRoomUsers:0
 m_ShowFSSControllers:1
 m_ShowCTRControllers:1
 m_ShowAPPControllers:1
