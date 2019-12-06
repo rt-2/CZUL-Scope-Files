@@ -1,6 +1,6 @@
 ; Montreal FIR all in one for Euroscope
 ; ALEXANDRE DUFRESNE (ALEXANDRE.DUFRESNE@OUTLOOK.COM)
-; WWW.CZUL.CA
+; WWW.CZULFIR.COM
 
 [RADAR]
 ;RADAR2:<name>:<latitude>:<longitude>:<P range>:<P altitude>:<P cone slope>:<S range>:<S altitude>:<S cone slope>:<C range>:<C altitude>:<C cone slope>
