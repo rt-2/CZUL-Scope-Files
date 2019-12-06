@@ -32,8 +32,8 @@
 
 .des Information $atiscode($arr), altimeter $altim($arr), when ready descend $temp, expect $1 approach runway $arrrwy($arr)
 ..des Information $atiscode($arr), altimèter $altim($arr), lorsque prêt descendez $temp, anticipez approche $1 piste $arrrwy($arr)
-.desid Arrivals good day, Information $atiscode($arr), altimèter $altim($arr), descend $temp, expect $1 approach runway $arrrwy($arr) 
-..desid Arrivées bonjour, Information $atiscode($arr), altimètre $altim($arr), descendez $temp, anticipez approche $1 piste $arrrwy($arr) 
+.desid Arrivals good day, Information $atiscode($arr), altimèter $altim($arr), descend $temp, expect $1 approach runway $arrrwy($arr)
+..desid Arrivées bonjour, Information $atiscode($arr), altimètre $altim($arr), descendez $temp, anticipez approche $1 piste $arrrwy($arr)
 
 .rdrid Radar identified $calt
 ..rdrid Identifié radar $calt
