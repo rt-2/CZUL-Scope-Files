@@ -89,6 +89,6 @@
 
 .pdcerror PRE-DEPARTURE CLEARANCE | $AIRCRAFT | ERROR IN MESSAGE – REVERT TO VOICE PROCEDURES
 
-.autoclimbaltitude Climb $1 ft $dep altimeter $altim($dep)
-.autodescendaltitude Descend $1 ft $arr altimeter $altim($arr)
-.autocontact Contact $1 on frequency $2.
+.autoclimbaltitude Climb to $1
+.autodescendaltitude Descend to $1
+.autocontact Contact $1 on $2.
