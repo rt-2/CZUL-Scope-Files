@@ -45,4 +45,6 @@ AG:MTL_MC_CTR:132.620:no-server.afv.example.org:mtl_mc_ctr
 AG:MTL_NK_CTR:134.550:no-server.afv.example.org:mtl_nk_ctr
 AG:MTL_RW_CTR:128.770:no-server.afv.example.org:mtl_rw_ctr
 AG:UNICOM:122.800:no-server.afv.example.org:unicom
+AG:CYMX_TWR:119.100:no-server.afv.example.org:cymx_twr
+AG:CYMX_GND:121.800:no-server.afv.example.org:cymx_gnd
 END
