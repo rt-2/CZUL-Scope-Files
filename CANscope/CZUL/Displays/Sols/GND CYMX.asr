@@ -1,0 +1,74 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:E:\EuroScope\CANscope\CZUL\CZUL.sct2
+SECTORTITLE:CZUL.sct2
+Airports:CYMX:name
+Airports:CYMX:symbol
+Free Text:CYMX FBO\BBA:freetext
+Free Text:CYMX FBO\Helibellule:freetext
+Free Text:CYMX FBO\L3:freetext
+Free Text:CYMX FBO\Mirajet:freetext
+Free Text:CYMX FBO\PWC/NRL/AVIANOR:freetext
+Free Text:CYMX Gates\111:freetext
+Free Text:CYMX Gates\112:freetext
+Free Text:CYMX Gates\113:freetext
+Free Text:CYMX Gates\114:freetext
+Free Text:CYMX Gates\116:freetext
+Free Text:CYMX Ramp\Cargo:freetext
+Free Text:CYMX Ramp\ICE:freetext
+Free Text:CYMX Ramp\Main Apron:freetext
+Free Text:CYMX Taxiway\<-- J:freetext
+Free Text:CYMX Taxiway\A                                               :freetext
+Free Text:CYMX Taxiway\A5:freetext
+Free Text:CYMX Taxiway\A6:freetext
+Free Text:CYMX Taxiway\AL:freetext
+Free Text:CYMX Taxiway\B:freetext
+Free Text:CYMX Taxiway\B:freetext
+Free Text:CYMX Taxiway\B4:freetext
+Free Text:CYMX Taxiway\B5:freetext
+Free Text:CYMX Taxiway\B6:freetext
+Free Text:CYMX Taxiway\D:freetext
+Free Text:CYMX Taxiway\E:freetext
+Free Text:CYMX Taxiway\F:freetext
+Free Text:CYMX Taxiway\G:freetext
+Free Text:CYMX Taxiway\H:freetext
+Free Text:CYMX Taxiway\I -->:freetext
+Free Text:CYMX Taxiway\K:freetext
+Free Text:CYMX Taxiway\P:freetext
+Free Text:CYMX Taxiway\T:freetext
+Geo:AIRPORT LAYOUTS:
+Geo:GROUND CYMX (Gate Lines):
+Geo:GROUND CYMX (Taxiway Lines):
+Regions:CYMX:polygon
+Runways:CYMX Montreal Mirabel 06-24:centerline
+Runways:CYMX Montreal Mirabel 06-24:name
+Runways:CYMX Montreal Mirabel 11-29:centerline
+Runways:CYMX Montreal Mirabel 11-29:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:8
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:15.00000
+TAGFAMILY:NARDS
+WINDOWAREA:45.652018:-74.119992:45.708970:-73.966936
+PLUGIN:Virtual Controller Assistant:ANTIALIAS:1
+PLUGIN:Virtual Controller Assistant:CDSHOW:1
+PLUGIN:Virtual Controller Assistant:CDXPOS:100
+PLUGIN:Virtual Controller Assistant:CDYPOS:100
+PLUGIN:Virtual Controller Assistant:DEGRADINGTRAIL:0
+PLUGIN:Virtual Controller Assistant:FADETRAIL:0
+PLUGIN:Virtual Controller Assistant:MAXTRAIL:6
+PLUGIN:Virtual Controller Assistant:MSLSHOW:0
+PLUGIN:Virtual Controller Assistant:MSLXPOS:200
+PLUGIN:Virtual Controller Assistant:MSLYPOS:200
+PLUGIN:Virtual Controller Assistant:TRAILCOLOUR:1344255
+PLUGIN:Virtual Controller Assistant:TRAILSHOW:1
+PLUGIN:Virtual Controller Assistant:TRAILTYPE:2
