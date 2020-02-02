@@ -188,4 +188,12 @@ PROFILE:CYUL_DEL:20:2
 ATIS2:Autorisations de MONTRÉAL Clearance Delivery - Bilingual services (EN/FR)
 ATIS3:
 ATIS4:Charts and info -> www.czulfir.com
+PROFILE:CYMX_TWR:50:4
+ATIS2:Mirabel Tower - Bilingual services (EN/FR)
+ATIS3:
+ATIS4:Charts and info -> www.czulfir.com
+PROFILE:CYMX_GND:20:3
+ATIS2:Mirabel Ground - Bilingual services (EN/FR)
+ATIS3:
+ATIS4:Charts and info -> www.czulfir.com
 END
