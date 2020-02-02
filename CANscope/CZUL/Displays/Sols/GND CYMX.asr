@@ -1,8 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:E:\EuroScope\CANscope\CZUL\CZUL.sct2
-SECTORTITLE:CZUL.sct2
 Airports:CYMX:name
 Airports:CYMX:symbol
 Free Text:CYMX FBO\BBA:freetext
