@@ -1,6 +1,8 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+Airports:CYFB:name
+Airports:CYFB:symbol
 Airports:CYHU:name
 Airports:CYHU:symbol
 Airports:CYJN:name
