@@ -38,7 +38,7 @@
 .rdrid Radar identified $calt
 ..rdrid Identifié radar $calt
 
-.clbid Good day, Radar identified $calt Ft, Climb $cruise & turn direct $1 on course
+.clbid Good day, Radar identified $calt, Climb $cruise & turn direct $1 on course
 ..clbid Bonjour, Identifié radar $calt, Montez $cruise & virez direct $1 en route
 
 .sight $arr is at your $oclock($arr) $dist($arr) nautical miles, advise when you have the airport in sight
