@@ -1,10 +1,18 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+Airports:CYFB:name
+Airports:CYFB:symbol
 Airports:CYHU:name
 Airports:CYHU:symbol
 Airports:CYJN:name
 Airports:CYJN:symbol
+Airports:CYND:name
+Airports:CYND:symbol
+Airports:CYRJ:name
+Airports:CYRJ:symbol
+Airports:CYWK:name
+Airports:CYWK:symbol
 ARTCC boundary:KZBW_CTR:
 ARTCC boundary:KZBW_CZYZ:
 ARTCC boundary:QM-QX:
