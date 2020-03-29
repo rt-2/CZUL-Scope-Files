@@ -9,6 +9,9 @@ AG:CYHU_GND:126.400:no-server.afv.example.org:cyhu_gnd
 AG:CYHU_TWR:118.400:no-server.afv.example.org:cyhu_twr
 AG:CYJN_GND:121.700:no-server.afv.example.org:cyjn_gnd
 AG:CYJN_TWR:118.200:no-server.afv.example.org:cyjn_twr
+AG:CYMX_ATIS:125.700:no-server.afv.example.org:cymx_atis
+AG:CYMX_GND:121.800:no-server.afv.example.org:cymx_gnd
+AG:CYMX_TWR:119.100:no-server.afv.example.org:cymx_twr
 AG:CYOW_APP:135.150:no-server.afv.example.org:cyow_app
 AG:CYOW_ATIS:121.150:no-server.afv.example.org:cyow_atis
 AG:CYOW_DEL:119.400:no-server.afv.example.org:cyow_del
@@ -22,8 +25,6 @@ AG:CYQB_TWR:118.650:no-server.afv.example.org:cyqb_twr
 AG:CYRC_ATIS:134.800:no-server.afv.example.org:cyrc_atis
 AG:CYRC_GND:121.900:no-server.afv.example.org:cyrc_gnd
 AG:CYRC_TWR:118.400:no-server.afv.example.org:cyrc_twr
-AG:CYMX_GND:121.800:no-server.afv.example.org:cymx_gnd
-AG:CYMX_TWR:119.100:no-server.afv.example.org:cymx_twr
 AG:CYUL_APP:132.850:no-server.afv.example.org:cyul_app
 AG:CYUL_ATIS:133.700:no-server.afv.example.org:cyul_atis
 AG:CYUL_A_GND:122.070:no-server.afv.example.org:cyul_a_gnd
