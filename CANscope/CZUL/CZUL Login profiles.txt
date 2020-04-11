@@ -74,6 +74,11 @@ ATIS2:Terminal de MONTRÉAL Terminal - Bilingual services (EN/FR)
 ATIS3:Realistic correlation and radar coverage enabled
 ATIS4:Charts and info -> www.czulfir.com
 
+PROFILE:CYUL_DEP:150:5
+ATIS2:Départs de MONTRÉAL Departures - Bilingual services (EN/FR)
+ATIS3:Realistic correlation and radar coverage enabled
+ATIS4:Charts and info -> www.czulfir.com
+
 PROFILE:CYUL_N_APP:150:5
 ATIS2:Arrivées Nord de MONTRÉAL North Arrivals - Bilingual services (EN/FR)
 ATIS3:
