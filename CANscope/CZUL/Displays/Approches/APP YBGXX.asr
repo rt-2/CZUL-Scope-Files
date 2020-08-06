@@ -677,15 +677,10 @@ Airports:VT52:name
 Airports:VT53:name
 Airports:VT55:name
 Airports:VT56:name
-<<<<<<< Updated upstream
-=======
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
 Fixes:BAJON:name
 Fixes:BAJON:symbol
 Fixes:GAGMO:name
 Fixes:GAGMO:symbol
->>>>>>> Stashed changes
 Free Text:YBG MVA\32<29:freetext
 Free Text:YBG MVA\41<37:freetext
 Free Text:YBG MVA\43<38:freetext
