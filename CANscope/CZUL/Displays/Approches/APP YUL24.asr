@@ -11,18 +11,13 @@ Airports:CYOW:name
 Airports:CYOW:symbol
 Airports:CYUL:name
 Airports:CYUL:symbol
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
 ARTCC low boundary:BOSTON-MSS:
-ARTCC low boundary:CYYR_APP:
-ARTCC low boundary:frontiere_sud:
 ARTCC low boundary:KBTV_TCU:
 ARTCC low boundary:MTL_SPLIT:
 ARTCC low boundary:MTL_TCU:
 ARTCC low boundary:YOW_TCU:
 ARTCC low boundary:YQB_TCU:
 ARTCC low boundary:YTR_MTCU:
-ARTCC low boundary:zv:
 Fixes:ADVEM:name
 Fixes:ADVEM:symbol
 Fixes:AGLUK:name
@@ -43,8 +38,6 @@ Fixes:BEMOG:name
 Fixes:BEMOG:symbol
 Fixes:BERUT:name
 Fixes:BERUT:symbol
-Fixes:BIBER:name
-Fixes:BIBER:symbol
 Fixes:BIPKO:name
 Fixes:BIPKO:symbol
 Fixes:BOBKI:name
@@ -61,8 +54,6 @@ Fixes:DATAB:name
 Fixes:DATAB:symbol
 Fixes:DAVDA:name
 Fixes:DAVDA:symbol
-Fixes:DEBAX:name
-Fixes:DEBAX:symbol
 Fixes:DEBUS:name
 Fixes:DEBUS:symbol
 Fixes:DUNUP:name
@@ -153,8 +144,6 @@ Fixes:OMEGI:name
 Fixes:OMEGI:symbol
 Fixes:OMEKI:name
 Fixes:OMEKI:symbol
-Fixes:OMIXI:name
-Fixes:OMIXI:symbol
 Fixes:OMVAL:name
 Fixes:OMVAL:symbol
 Fixes:OVUVI:name
@@ -475,9 +464,6 @@ VORs:YQB:symbol
 VORs:YRI:frequency
 VORs:YRI:name
 VORs:YRI:symbol
-VORs:YSC:frequency
-VORs:YSC:name
-VORs:YSC:symbol
 VORs:YUL:frequency
 VORs:YUL:name
 VORs:YUL:symbol
