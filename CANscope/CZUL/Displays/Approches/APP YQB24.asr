@@ -200,8 +200,6 @@ VORs:YQB:symbol
 VORs:YRI:frequency
 VORs:YRI:name
 VORs:YRI:symbol
-VORs:YSC:name
-VORs:YSC:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:300

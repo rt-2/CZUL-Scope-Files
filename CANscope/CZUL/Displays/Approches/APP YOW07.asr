@@ -13,11 +13,9 @@ Airports:CYQB:name
 Airports:CYQB:symbol
 Airports:CYUL:name
 Airports:CYUL:symbol
-ARTCC boundary:KZBW_CZYZ:
 ARTCC low boundary:BOSTON-MSS:
 ARTCC low boundary:CZUL South Gate:
 ARTCC low boundary:czul-czyz_SE_(X)CN:
-ARTCC low boundary:frontiere_sud:
 ARTCC low boundary:GL-RW:
 ARTCC low boundary:MTL_SPLIT:
 ARTCC low boundary:MTL_TCU:
@@ -275,7 +273,6 @@ VORs:YOW:symbol
 VORs:YQB:symbol
 VORs:YRI:symbol
 VORs:YSB:symbol
-VORs:YSC:symbol
 VORs:YSO:symbol
 VORs:YTS:symbol
 VORs:YUL:frequency

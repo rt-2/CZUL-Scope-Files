@@ -3,8 +3,6 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 Airports:CYQB:name
 Airports:CYQB:symbol
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
 ARTCC low boundary:YQB_TCU:
 Fixes:ADVEM:name
 Fixes:ADVEM:symbol
@@ -180,8 +178,6 @@ VORs:YQB:symbol
 VORs:YRI:frequency
 VORs:YRI:name
 VORs:YRI:symbol
-VORs:YSC:name
-VORs:YSC:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:400

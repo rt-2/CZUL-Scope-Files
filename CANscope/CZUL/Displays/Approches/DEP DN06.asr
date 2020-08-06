@@ -1353,15 +1353,10 @@ Airports:VT55:name
 Airports:VT55:symbol
 Airports:VT56:name
 Airports:VT56:symbol
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
 ARTCC low boundary:BOSTON-MSS:
-ARTCC low boundary:CYYR_APP:
-ARTCC low boundary:frontiere_sud:
 ARTCC low boundary:KBTV_TCU:
 ARTCC low boundary:MTL_SPLIT:
 ARTCC low boundary:MTL_TCU:
-ARTCC low boundary:zv:
 Fixes:ALSET:name
 Fixes:ALSET:symbol
 Fixes:ANTOV:name
@@ -1442,8 +1437,6 @@ Fixes:OMBRE:name
 Fixes:OMBRE:symbol
 Fixes:OMEGI:name
 Fixes:OMEGI:symbol
-Fixes:OMIXI:name
-Fixes:OMIXI:symbol
 Fixes:OMSUT:name
 Fixes:OMSUT:symbol
 Fixes:PEKLO:name
@@ -1706,9 +1699,6 @@ Stars:YUL - LO 06:
 VORs:YMX:frequency
 VORs:YMX:name
 VORs:YMX:symbol
-VORs:YSC:frequency
-VORs:YSC:name
-VORs:YSC:symbol
 VORs:YUL:frequency
 VORs:YUL:name
 VORs:YUL:symbol
