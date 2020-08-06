@@ -1,7 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-Airports:CYBC:name
 Airports:CYBG:name
 Airports:CYBG:symbol
 Airports:CYDO:name
