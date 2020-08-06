@@ -17,7 +17,6 @@ ARTCC boundary:CZUL_FIR:
 ARTCC low boundary:BOSTON-MSS:
 ARTCC low boundary:CZUL South Gate:
 ARTCC low boundary:GL-RW:
-ARTCC low boundary:MTL_SPLIT:
 ARTCC low boundary:MTL_TCU:
 ARTCC low boundary:YOW_TCU:
 Fixes:ADVOS:name
@@ -136,8 +135,6 @@ Fixes:TADMO:name
 Fixes:TADMO:symbol
 Fixes:TAKOL:name
 Fixes:TAKOL:symbol
-Fixes:TAMKO:name
-Fixes:TAMKO:symbol
 Fixes:TAPVO:name
 Fixes:TAPVO:symbol
 Fixes:TEFLY:name
