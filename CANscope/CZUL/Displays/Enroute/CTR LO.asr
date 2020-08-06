@@ -123,6 +123,8 @@ Fixes:VIBRU:symbol
 Fixes:VIRSO:name
 Fixes:VIRSO:symbol
 Geo:CZUL Coastline:
+Geo:Class G Airspace:
+Geo:Cz classe E (hors TCA):
 Geo:GEO:
 NDBs:CL:name
 NDBs:CL:symbol
