@@ -5,36 +5,20 @@ Airports:CYHU:name
 Airports:CYHU:symbol
 Airports:CYJN:name
 Airports:CYJN:symbol
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
-ARTCC boundary:QM-QX:
-ARTCC boundary:W080:
-ARTCC boundary:west:
 ARTCC boundary:YBG_MTCA:
-ARTCC boundary:ZEGZUL:
-ARTCC boundary:ZWGZUL:
 ARTCC boundary:ZWGZYZ:
 ARTCC high boundary:FG-BZ:
-ARTCC high boundary:LE-ZV+EAST:
 ARTCC high boundary:MC-FG:
 ARTCC high boundary:MC-LE:
-ARTCC high boundary:NORD:
 ARTCC high boundary:Northern Control Area:
-ARTCC high boundary:WK-ZV:
 ARTCC low boundary:CZUL North Gate:
 ARTCC low boundary:CZUL South Gate:
-ARTCC low boundary:czul-czyz_SE_(X)CN:
-ARTCC low boundary:frontiere_sud:
 Fixes:ALKOB:name
 Fixes:ALKOB:symbol
 Fixes:ANTUR:name
 Fixes:ANTUR:symbol
 Fixes:ARAME:name
 Fixes:ARAME:symbol
-Fixes:AVPUT:name
-Fixes:AVPUT:symbol
-Fixes:AYROU:name
-Fixes:AYROU:symbol
 Fixes:BERUS:name
 Fixes:BERUS:symbol
 Fixes:BODRA:name
@@ -412,12 +396,6 @@ VORs:VLV:symbol
 VORs:YBC:frequency
 VORs:YBC:name
 VORs:YBC:symbol
-VORs:YCF:frequency
-VORs:YCF:name
-VORs:YCF:symbol
-VORs:YEE:frequency
-VORs:YEE:name
-VORs:YEE:symbol
 VORs:YFB:frequency
 VORs:YFB:name
 VORs:YFB:symbol
@@ -457,12 +435,6 @@ VORs:YRI:symbol
 VORs:YSB:frequency
 VORs:YSB:name
 VORs:YSB:symbol
-VORs:YSC:frequency
-VORs:YSC:name
-VORs:YSC:symbol
-VORs:YSO:frequency
-VORs:YSO:name
-VORs:YSO:symbol
 VORs:YTS:frequency
 VORs:YTS:name
 VORs:YTS:symbol
