@@ -13,21 +13,33 @@ Airports:CYRJ:name
 Airports:CYRJ:symbol
 Airports:CYWK:name
 Airports:CYWK:symbol
+ARTCC boundary:CZUL_FIR:
 ARTCC boundary:YBG_MTCA:
+ARTCC boundary:ZBWZQM:
+ARTCC boundary:ZBWZYZ:
+ARTCC boundary:ZEGBGLL:
+ARTCC boundary:ZEGZQO:
+ARTCC boundary:ZQMZQX:
+ARTCC boundary:ZQOZQX:
+ARTCC boundary:ZWGZEG:
 ARTCC boundary:ZWGZYZ:
+ARTCC low boundary:BOSTON SPLIT E/W:
 ARTCC low boundary:BOSTON-MSS:
+ARTCC low boundary:CYYR_MTCA:
 ARTCC low boundary:CZUL North Gate:
 ARTCC low boundary:CZUL South Gate:
 ARTCC low boundary:GL-NK:
 ARTCC low boundary:GL-RW:
 ARTCC low boundary:HV-GL:
 ARTCC low boundary:KBTV_TCU:
+ARTCC low boundary:MTL_ENR_SPLIT:
 ARTCC low boundary:MTL_SPLIT:
 ARTCC low boundary:MTL_TCU:
 ARTCC low boundary:RW-HV:
 ARTCC low boundary:YOW_TCU:
 ARTCC low boundary:YQB_TCU:
 ARTCC low boundary:YTR_MTCU:
+ARTCC low boundary:ZUL-ZQX:
 Fixes:ALKOB:name
 Fixes:ALKOB:symbol
 Fixes:ANTUR:name

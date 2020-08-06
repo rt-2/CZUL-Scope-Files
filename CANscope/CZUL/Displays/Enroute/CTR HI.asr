@@ -5,12 +5,27 @@ Airports:CYHU:name
 Airports:CYHU:symbol
 Airports:CYJN:name
 Airports:CYJN:symbol
+ARTCC boundary:CZUL_FIR:
 ARTCC boundary:YBG_MTCA:
+ARTCC boundary:ZBWZQM:
+ARTCC boundary:ZBWZYZ:
+ARTCC boundary:ZEGBGLL:
+ARTCC boundary:ZEGZQO:
+ARTCC boundary:ZQMZQX:
+ARTCC boundary:ZQOZQX:
+ARTCC boundary:ZWGZEG:
 ARTCC boundary:ZWGZYZ:
 ARTCC high boundary:FG-BZ:
+ARTCC high boundary:FG-ZQX:
+ARTCC high boundary:HU-CY:
+ARTCC high boundary:LE-ZQM:
 ARTCC high boundary:MC-FG:
 ARTCC high boundary:MC-LE:
+ARTCC high boundary:MC-ZQM:
+ARTCC high boundary:MC-ZQX:
 ARTCC high boundary:Northern Control Area:
+ARTCC high boundary:ZQMZQX:
+ARTCC high boundary:ZQOZUL:
 ARTCC low boundary:CZUL North Gate:
 ARTCC low boundary:CZUL South Gate:
 Fixes:ALKOB:name
