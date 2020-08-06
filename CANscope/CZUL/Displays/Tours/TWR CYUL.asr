@@ -1,6 +1,7 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+Geo:CZUL Coastline:
 Geo:AIRPORT LAYOUTS:
 Geo:GEO:
 Runways:CYUL Montreal Trudeau 06L-24R:centerline

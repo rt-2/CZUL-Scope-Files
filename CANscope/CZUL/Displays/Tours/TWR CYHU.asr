@@ -2,6 +2,7 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 ARTCC low boundary:MTL_TCU:
+Geo:CZUL Coastline:
 Geo:AIRPORT LAYOUTS:
 Geo:GEO:
 Runways:CYHU Montreal St-Hubert 06L-24R:centerline
