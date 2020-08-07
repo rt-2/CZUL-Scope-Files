@@ -11,8 +11,9 @@ Free Text:CYBG Taxiway\H:freetext
 Free Text:CYBG Taxiway\K:freetext
 Free Text:CYBG Taxiway\L:freetext
 Geo:AIRPORT LAYOUTS:
-Runways:CYBC Baie-Comeau 10-28:name
+Runways:CYBG Bagotville 11-29:centerline
 Runways:CYBG Bagotville 11-29:name
+Runways:CYBG Bagotville 18-36:centerline
 Runways:CYBG Bagotville 18-36:name
 SHOWC:1
 SHOWSB:0
@@ -25,6 +26,6 @@ HISTORY_DOTS:5
 SIMULATION_MODE:2
 DISABLEPANNING:0
 DISABLEZOOMING:0
-DisplayRotation:15.50000
+DisplayRotation:18.00000
 TAGFAMILY:NARDS
-WINDOWAREA:48.311128:-71.032715:48.349559:-70.954431
+WINDOWAREA:48.315879:-71.026932:48.347663:-70.963117
