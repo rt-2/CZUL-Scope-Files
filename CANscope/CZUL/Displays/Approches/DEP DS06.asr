@@ -1,36 +1,23 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
+ARTCC boundary:CZUL_FIR:
 ARTCC low boundary:BOSTON-MSS:
-ARTCC low boundary:CYYR_APP:
-ARTCC low boundary:frontiere_sud:
 ARTCC low boundary:KBTV_TCU:
 ARTCC low boundary:MTL_SPLIT:
 ARTCC low boundary:MTL_TCU:
-Fixes:ALSET:name
-Fixes:ALSET:symbol
+Fixes:ADVEM:name
+Fixes:ADVEM:symbol
 Fixes:ANTOV:name
 Fixes:ANTOV:symbol
-Fixes:AVVON:name
-Fixes:AVVON:symbol
-Fixes:BEMOG:name
-Fixes:BEMOG:symbol
-Fixes:BIPKO:name
-Fixes:BIPKO:symbol
+Fixes:AXENI:name
+Fixes:AXENI:symbol
 Fixes:BIRPO:name
 Fixes:BIRPO:symbol
-Fixes:BOBKI:name
-Fixes:BOBKI:symbol
-Fixes:BOKLU:name
-Fixes:BOKLU:symbol
 Fixes:BUBAK:name
 Fixes:BUBAK:symbol
 Fixes:BUGSY:name
 Fixes:BUGSY:symbol
-Fixes:DATAB:name
-Fixes:DATAB:symbol
 Fixes:DEGVI:name
 Fixes:DEGVI:symbol
 Fixes:DELKI:name
@@ -39,115 +26,72 @@ Fixes:DUNUP:name
 Fixes:DUNUP:symbol
 Fixes:EBDOT:name
 Fixes:EBDOT:symbol
-Fixes:EMPEK:name
-Fixes:EMPEK:symbol
 Fixes:FAWNS:name
 Fixes:FAWNS:symbol
 Fixes:FULFO:name
 Fixes:FULFO:symbol
 Fixes:HABBS:name
 Fixes:HABBS:symbol
-Fixes:IKMOL:name
-Fixes:IKMOL:symbol
-Fixes:IKNAR:name
-Fixes:IKNAR:symbol
-Fixes:IPSAK:name
-Fixes:IPSAK:symbol
-Fixes:KANUR:name
-Fixes:KANUR:symbol
-Fixes:KAVSU:name
-Fixes:KAVSU:symbol
 Fixes:KEBGO:name
 Fixes:KEBGO:symbol
-Fixes:KESKA:name
-Fixes:KESKA:symbol
-Fixes:KISUK:name
-Fixes:KISUK:symbol
-Fixes:LETAK:name
-Fixes:LETAK:symbol
-Fixes:LOKBU:name
-Fixes:LOKBU:symbol
+Fixes:KETVU:name
+Fixes:KETVU:symbol
+Fixes:LATTS:name
+Fixes:LATTS:symbol
+Fixes:LEPOP:name
+Fixes:LEPOP:symbol
+Fixes:LOBDO:name
+Fixes:LOBDO:symbol
 Fixes:MAIRE:name
 Fixes:MAIRE:symbol
-Fixes:MELTI:name
-Fixes:MELTI:symbol
+Fixes:MEGTU:name
+Fixes:MEGTU:symbol
+Fixes:MOBAL:name
+Fixes:MOBAL:symbol
 Fixes:NASKK:name
 Fixes:NASKK:symbol
 Fixes:OBNUV:name
 Fixes:OBNUV:symbol
-Fixes:OBRET:name
-Fixes:OBRET:symbol
-Fixes:OKOPO:name
-Fixes:OKOPO:symbol
-Fixes:OLASI:name
-Fixes:OLASI:symbol
-Fixes:OMBRE:name
-Fixes:OMBRE:symbol
-Fixes:OMEGI:name
-Fixes:OMEGI:symbol
-Fixes:OMIXI:name
-Fixes:OMIXI:symbol
+Fixes:ODGUR:name
+Fixes:ODGUR:symbol
+Fixes:OMALI:name
+Fixes:OMALI:symbol
 Fixes:OMSUT:name
 Fixes:OMSUT:symbol
+Fixes:OTOLA:name
+Fixes:OTOLA:symbol
 Fixes:PEKLO:name
 Fixes:PEKLO:symbol
-Fixes:PESAC:name
-Fixes:PESAC:symbol
 Fixes:PIGNA:name
 Fixes:PIGNA:symbol
+Fixes:PUPOV:name
+Fixes:PUPOV:symbol
+Fixes:PUSOD:name
+Fixes:PUSOD:symbol
+Fixes:PUXER:name
+Fixes:PUXER:symbol
 Fixes:RABIK:name
 Fixes:RABIK:symbol
-Fixes:RADEN:name
-Fixes:RADEN:symbol
+Fixes:REVEN:name
+Fixes:REVEN:symbol
 Fixes:ROKTI:name
 Fixes:ROKTI:symbol
-Fixes:SASID:name
-Fixes:SASID:symbol
-Fixes:SATOT:name
-Fixes:SATOT:symbol
 Fixes:SAVAL:name
 Fixes:SAVAL:symbol
-Fixes:SAVEX:name
-Fixes:SAVEX:symbol
-Fixes:SOKYE:name
-Fixes:SOKYE:symbol
 Fixes:TALNO:name
 Fixes:TALNO:symbol
-Fixes:TAMKO:name
-Fixes:TAMKO:symbol
-Fixes:THURO:name
-Fixes:THURO:symbol
-Fixes:TORNI:name
-Fixes:TORNI:symbol
-Fixes:TUKIR:name
-Fixes:TUKIR:symbol
+Fixes:TAPKA:name
+Fixes:TAPKA:symbol
 Fixes:UBTEG:name
 Fixes:UBTEG:symbol
-Fixes:UDGAK:name
-Fixes:UDGAK:symbol
-Fixes:VIDGO:name
-Fixes:VIDGO:symbol
+Fixes:VEVSU:name
+Fixes:VEVSU:symbol
 Fixes:VOBOK:name
 Fixes:VOBOK:symbol
 Fixes:WARDS:name
 Fixes:WARDS:symbol
 Fixes:XULTA:name
 Fixes:XULTA:symbol
-Free Text:YUL MVA\17<15:freetext
-Free Text:YUL MVA\22<20:freetext
-Free Text:YUL MVA\22<20:freetext
-Free Text:YUL MVA\22<20:freetext
-Free Text:YUL MVA\23<21:freetext
-Free Text:YUL MVA\25<22:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\33<29:freetext
-Free Text:YUL MVA\33<30:freetext
-Free Text:YUL MVA\38<34:freetext
-Free Text:YUL MVA\38<34:freetext
-Geo:GEO:
 Regions:CYR603 SFC-170:polygon
 Regions:CYR606 SFC-170:polygon
 Regions:CYR612 SFC-27:polygon
@@ -232,52 +176,10 @@ Runways:CYJN St-Jean 06-24:extended centerline 2 right ticks
 Runways:CYJN St-Jean 06-24:extended centerline 2 right vectoring
 Runways:CYJN St-Jean 06-24:name
 Runways:CYJN St-Jean 11-29:centerline
-Runways:CYJN St-Jean 11-29:extended centerline 1
-Runways:CYJN St-Jean 11-29:extended centerline 1 left base
-Runways:CYJN St-Jean 11-29:extended centerline 1 left ticks
-Runways:CYJN St-Jean 11-29:extended centerline 1 left vectoring
-Runways:CYJN St-Jean 11-29:extended centerline 1 right base
-Runways:CYJN St-Jean 11-29:extended centerline 1 right ticks
-Runways:CYJN St-Jean 11-29:extended centerline 1 right vectoring
-Runways:CYJN St-Jean 11-29:extended centerline 2
-Runways:CYJN St-Jean 11-29:extended centerline 2 left base
-Runways:CYJN St-Jean 11-29:extended centerline 2 left ticks
-Runways:CYJN St-Jean 11-29:extended centerline 2 left vectoring
-Runways:CYJN St-Jean 11-29:extended centerline 2 right base
-Runways:CYJN St-Jean 11-29:extended centerline 2 right ticks
-Runways:CYJN St-Jean 11-29:extended centerline 2 right vectoring
 Runways:CYJN St-Jean 11-29:name
 Runways:CYMX Montreal Mirabel 06-24:centerline
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 1
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 left base
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 left ticks
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 left vectoring
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 right base
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 right ticks
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 right vectoring
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 2
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 left base
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 left ticks
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 left vectoring
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 right base
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 right ticks
-Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 right vectoring
 Runways:CYMX Montreal Mirabel 06-24:name
 Runways:CYMX Montreal Mirabel 11-29:centerline
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 1
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 left base
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 left ticks
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 left vectoring
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 right base
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 right ticks
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 right vectoring
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 2
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 left base
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 left ticks
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 left vectoring
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 right base
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 right ticks
-Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 right vectoring
 Runways:CYMX Montreal Mirabel 11-29:name
 Runways:CYUL Montreal Trudeau 06L-24R:centerline
 Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1
@@ -327,31 +229,21 @@ Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right base
 Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right ticks
 Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right vectoring
 Runways:CYUL Montreal Trudeau 10-28:name
-Sids:YUL arr CARTR:
-Sids:YUL arr HABBS:
-Sids:YUL arr OMBRE:
-Sids:YUL arr LFLER:
+Sids:YHU dep CYQB:
 Sids:YUL dep CYGK:
-Sids:YUL dep CYOW:
-Sids:YUL dep CYYZ JET:
-Sids:YUL dep CYYZ PROP:
 Sids:YUL dep EAST JET:
 Sids:YUL dep EAST PROP:
-Sids:YUL dep NORTH:
-Sids:YUL dep NW JET:
-Sids:YUL dep NW PROP:
 Sids:YUL dep SOUTH:
-Sids:YUL dep WEST:
+Sids:YUL dep SW:
 Stars:CYR603 SFC-170:
 Stars:CYR606 SFC-170:
 Stars:CYR612 SFC-27:
+Stars:YUL - CONFIG 06:
 Stars:YUL - LO 06:
-VORs:YMX:frequency
-VORs:YMX:name
-VORs:YMX:symbol
-VORs:YSC:frequency
-VORs:YSC:name
-VORs:YSC:symbol
+VORs:SYR:name
+VORs:SYR:symbol
+VORs:YJN:name
+VORs:YJN:symbol
 VORs:YUL:frequency
 VORs:YUL:name
 VORs:YUL:symbol
