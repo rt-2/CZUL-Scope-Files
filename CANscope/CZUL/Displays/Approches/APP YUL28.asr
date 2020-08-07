@@ -13,34 +13,37 @@ Airports:CYOW:name
 Airports:CYOW:symbol
 Airports:CYUL:name
 Airports:CYUL:symbol
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
+ARTCC boundary:CZUL_FIR:
 ARTCC low boundary:BOSTON-MSS:
-ARTCC low boundary:CYYR_APP:
-ARTCC low boundary:frontiere_sud:
 ARTCC low boundary:KBTV_TCU:
-ARTCC low boundary:MTL_SPLIT:
+ARTCC low boundary:MTL_ENR_SPLIT:
 ARTCC low boundary:MTL_TCU:
 ARTCC low boundary:YOW_TCU:
 ARTCC low boundary:YQB_TCU:
-ARTCC low boundary:YTR_MTCU:
-ARTCC low boundary:zv:
-Fixes:AGLUK:name
-Fixes:AGLUK:symbol
+Fixes:ADVEM:name
+Fixes:ADVEM:symbol
 Fixes:AGNAG:name
 Fixes:AGNAG:symbol
 Fixes:ALMIV:name
 Fixes:ALMIV:symbol
 Fixes:ALSET:name
 Fixes:ALSET:symbol
+Fixes:ANCER:name
+Fixes:ANCER:symbol
+Fixes:ANTEG:name
+Fixes:ANTEG:symbol
 Fixes:ANTOV:name
 Fixes:ANTOV:symbol
 Fixes:ARVIE:name
 Fixes:ARVIE:symbol
 Fixes:AVVON:name
 Fixes:AVVON:symbol
+Fixes:BAREE:name
+Fixes:BAREE:symbol
 Fixes:BEMOG:name
 Fixes:BEMOG:symbol
+Fixes:BERUT:name
+Fixes:BERUT:symbol
 Fixes:BIPKO:name
 Fixes:BIPKO:symbol
 Fixes:BOBKI:name
@@ -49,6 +52,8 @@ Fixes:BOKLU:name
 Fixes:BOKLU:symbol
 Fixes:BUGSY:name
 Fixes:BUGSY:symbol
+Fixes:CEFOU:name
+Fixes:CEFOU:symbol
 Fixes:COMAU:name
 Fixes:COMAU:symbol
 Fixes:CURDS:name
@@ -59,20 +64,24 @@ Fixes:DATAB:name
 Fixes:DATAB:symbol
 Fixes:DAVDA:name
 Fixes:DAVDA:symbol
-Fixes:DEBAX:name
-Fixes:DEBAX:symbol
 Fixes:DEBUS:name
 Fixes:DEBUS:symbol
 Fixes:DUNUP:name
 Fixes:DUNUP:symbol
+Fixes:DURED:name
+Fixes:DURED:symbol
 Fixes:EBDOT:name
 Fixes:EBDOT:symbol
+Fixes:EBMOS:name
+Fixes:EBMOS:symbol
 Fixes:EMPEK:name
 Fixes:EMPEK:symbol
 Fixes:EPMOK:name
 Fixes:EPMOK:symbol
 Fixes:FAWNS:name
 Fixes:FAWNS:symbol
+Fixes:FLEUR:name
+Fixes:FLEUR:symbol
 Fixes:GAUTI:name
 Fixes:GAUTI:symbol
 Fixes:GORUX:name
@@ -109,6 +118,8 @@ Fixes:LETAK:name
 Fixes:LETAK:symbol
 Fixes:LEVUG:name
 Fixes:LEVUG:symbol
+Fixes:LIVBA:name
+Fixes:LIVBA:symbol
 Fixes:LOKBU:name
 Fixes:LOKBU:symbol
 Fixes:MAIRE:name
@@ -117,34 +128,50 @@ Fixes:MELTI:name
 Fixes:MELTI:symbol
 Fixes:MIGLO:name
 Fixes:MIGLO:symbol
+Fixes:MOBAL:name
+Fixes:MOBAL:symbol
+Fixes:MOBUB:name
+Fixes:MOBUB:symbol
 Fixes:MUSDU:name
 Fixes:MUSDU:symbol
 Fixes:NIKOO:name
 Fixes:NIKOO:symbol
 Fixes:NOPOS:name
 Fixes:NOPOS:symbol
+Fixes:NOSUT:name
+Fixes:NOSUT:symbol
 Fixes:NOTOM:name
 Fixes:NOTOM:symbol
+Fixes:NOVID:name
+Fixes:NOVID:symbol
 Fixes:OBRET:name
 Fixes:OBRET:symbol
+Fixes:OBRON:name
+Fixes:OBRON:symbol
 Fixes:OBSAK:name
 Fixes:OBSAK:symbol
 Fixes:OKOPO:name
 Fixes:OKOPO:symbol
 Fixes:OLASI:name
 Fixes:OLASI:symbol
+Fixes:OMALI:name
+Fixes:OMALI:symbol
 Fixes:OMBRE:name
 Fixes:OMBRE:symbol
 Fixes:OMEGI:name
 Fixes:OMEGI:symbol
-Fixes:OMIXI:name
-Fixes:OMIXI:symbol
 Fixes:PBERG:name
 Fixes:PBERG:symbol
 Fixes:PESAC:name
 Fixes:PESAC:symbol
 Fixes:PIGNA:name
 Fixes:PIGNA:symbol
+Fixes:PUPOV:name
+Fixes:PUPOV:symbol
+Fixes:PUSOD:name
+Fixes:PUSOD:symbol
+Fixes:PUXER:name
+Fixes:PUXER:symbol
 Fixes:RABIK:name
 Fixes:RABIK:symbol
 Fixes:RADEN:name
@@ -169,8 +196,6 @@ Fixes:SINRO:name
 Fixes:SINRO:symbol
 Fixes:SOKYE:name
 Fixes:SOKYE:symbol
-Fixes:TAKEK:name
-Fixes:TAKEK:symbol
 Fixes:TALNO:name
 Fixes:TALNO:symbol
 Fixes:TAMKO:name
@@ -191,27 +216,14 @@ Fixes:VIDGO:name
 Fixes:VIDGO:symbol
 Fixes:VIKBU:name
 Fixes:VIKBU:symbol
+Fixes:VIVEV:name
+Fixes:VIVEV:symbol
 Fixes:VOBOK:name
 Fixes:VOBOK:symbol
 Fixes:WARDS:name
 Fixes:WARDS:symbol
-Fixes:XOTRA:name
-Fixes:XOTRA:symbol
-Free Text:YUL MVA\17<15:freetext
-Free Text:YUL MVA\22<20:freetext
-Free Text:YUL MVA\22<20:freetext
-Free Text:YUL MVA\22<20:freetext
-Free Text:YUL MVA\23<21:freetext
-Free Text:YUL MVA\25<22:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\33<29:freetext
-Free Text:YUL MVA\33<30:freetext
-Free Text:YUL MVA\38<34:freetext
-Free Text:YUL MVA\38<34:freetext
-Geo:GEO:
+NDBs:ML:name
+NDBs:ML:symbol
 NDBs:UL:name
 NDBs:UL:symbol
 Regions:CYR603 SFC-170:polygon
@@ -393,6 +405,7 @@ Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right base
 Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right ticks
 Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right vectoring
 Runways:CYUL Montreal Trudeau 10-28:name
+Sids:YHU dep CYQB:
 Sids:YUL arr ALOET:
 Sids:YUL arr CARTR:
 Sids:YUL arr HABBS:
@@ -401,14 +414,21 @@ Sids:YUL arr LFLER:
 Sids:YUL arr OMBRE:
 Sids:YUL dep CYGK:
 Sids:YUL dep CYOW:
+Sids:YUL dep CYQB JET:
+Sids:YUL dep CYQB PROP:
 Sids:YUL dep CYYZ JET:
 Sids:YUL dep CYYZ PROP:
+Sids:YUL dep EAST HIGH:
 Sids:YUL dep EAST JET:
 Sids:YUL dep EAST PROP:
+Sids:YUL dep NE:
+Sids:YUL dep NE JET:
+Sids:YUL dep NE PROP:
 Sids:YUL dep NORTH:
 Sids:YUL dep NW JET:
 Sids:YUL dep NW PROP:
 Sids:YUL dep SOUTH:
+Sids:YUL dep SW:
 Sids:YUL dep WEST:
 Stars:CYR603 SFC-170:
 Stars:CYR606 SFC-170:
@@ -422,45 +442,18 @@ VORs:VBS:symbol
 VORs:VLV:frequency
 VORs:VLV:name
 VORs:VLV:symbol
-VORs:YBC:frequency
-VORs:YBC:name
-VORs:YBC:symbol
-VORs:YGL:frequency
-VORs:YGL:name
-VORs:YGL:symbol
-VORs:YGP:frequency
-VORs:YGP:name
-VORs:YGP:symbol
 VORs:YJN:frequency
 VORs:YJN:name
 VORs:YJN:symbol
 VORs:YMX:frequency
 VORs:YMX:name
 VORs:YMX:symbol
-VORs:YOW:frequency
-VORs:YOW:name
-VORs:YOW:symbol
 VORs:YQB:frequency
 VORs:YQB:name
 VORs:YQB:symbol
-VORs:YRI:frequency
-VORs:YRI:name
-VORs:YRI:symbol
-VORs:YSC:frequency
-VORs:YSC:name
-VORs:YSC:symbol
 VORs:YUL:frequency
 VORs:YUL:name
 VORs:YUL:symbol
-VORs:YVO:frequency
-VORs:YVO:name
-VORs:YVO:symbol
-VORs:YYY:frequency
-VORs:YYY:name
-VORs:YYY:symbol
-VORs:YZV:frequency
-VORs:YZV:name
-VORs:YZV:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:300
