@@ -11,21 +11,21 @@ Airports:CYQB:name
 Airports:CYQB:symbol
 Airports:CYRQ:name
 Airports:CYRQ:symbol
-Airports:CYSJ:name
-Airports:CYSJ:symbol
 Airports:CYUL:name
 Airports:CYUL:symbol
+ARTCC boundary:CZUL_FIR:
+ARTCC boundary:YBG_MTCA:
+ARTCC low boundary:GL-NK:
+ARTCC low boundary:GL-RW:
+ARTCC low boundary:MTL_TCU:
+ARTCC low boundary:RW-HV:
 ARTCC low boundary:YQB_TCU:
 Fixes:ADVEM:name
 Fixes:ADVEM:symbol
 Fixes:AGLUK:name
 Fixes:AGLUK:symbol
-Fixes:APGEV:name
-Fixes:APGEV:symbol
 Fixes:APLAK:name
 Fixes:APLAK:symbol
-Fixes:BADEW:name
-Fixes:BADEW:symbol
 Fixes:BERUT:name
 Fixes:BERUT:symbol
 Fixes:BIVTI:name
@@ -40,6 +40,8 @@ Fixes:DUTIL:name
 Fixes:DUTIL:symbol
 Fixes:FLEUR:name
 Fixes:FLEUR:symbol
+Fixes:GADAL:name
+Fixes:GADAL:symbol
 Fixes:GONUM:name
 Fixes:GONUM:symbol
 Fixes:GOXEV:name
@@ -52,8 +54,6 @@ Fixes:IKMIK:name
 Fixes:IKMIK:symbol
 Fixes:ILERO:name
 Fixes:ILERO:symbol
-Fixes:IPTOT:name
-Fixes:IPTOT:symbol
 Fixes:KAROT:name
 Fixes:KAROT:symbol
 Fixes:KAVAT:name
@@ -68,10 +68,8 @@ Fixes:LOKBU:name
 Fixes:LOKBU:symbol
 Fixes:LOMSO:name
 Fixes:LOMSO:symbol
-Fixes:MIVAG:name
-Fixes:MIVAG:symbol
-Fixes:MURUX:name
-Fixes:MURUX:symbol
+Fixes:MOBAL:name
+Fixes:MOBAL:symbol
 Fixes:MUTIB:name
 Fixes:MUTIB:symbol
 Fixes:NOVID:name
@@ -110,8 +108,6 @@ Fixes:SOKYE:name
 Fixes:SOKYE:symbol
 Fixes:TADES:name
 Fixes:TADES:symbol
-Fixes:TEFBY:name
-Fixes:TEFBY:symbol
 Fixes:UDBAM:name
 Fixes:UDBAM:symbol
 Fixes:ULBOM:name
@@ -122,21 +118,6 @@ Fixes:URVAS:name
 Fixes:URVAS:symbol
 Fixes:VIXUV:name
 Fixes:VIXUV:symbol
-Free Text:YQB MVA\24<22:freetext
-Free Text:YQB MVA\24<22:freetext
-Free Text:YQB MVA\33<30:freetext
-Free Text:YQB MVA\39<35:freetext
-Free Text:YQB MVA\40<36:freetext
-Free Text:YQB MVA\40<36:freetext
-Free Text:YQB MVA\43<39:freetext
-Free Text:YQB MVA\43<39:freetext
-Free Text:YQB MVA\50<45:freetext
-Free Text:YQB MVA\50<45:freetext
-Free Text:YQB MVA\50<45:freetext
-Free Text:YQB MVA\50<45:freetext
-Free Text:YQB MVA\57<51:freetext
-Free Text:YQB MVA\57<51:freetext
-Geo:GEO:
 NDBs:BV:name
 NDBs:BV:symbol
 NDBs:ML:name
@@ -197,11 +178,6 @@ VORs:VBS:symbol
 VORs:YQB:frequency
 VORs:YQB:name
 VORs:YQB:symbol
-VORs:YRI:frequency
-VORs:YRI:name
-VORs:YRI:symbol
-VORs:YSC:name
-VORs:YSC:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:300
