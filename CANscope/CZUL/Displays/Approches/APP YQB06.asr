@@ -3,8 +3,12 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 Airports:CYQB:name
 Airports:CYQB:symbol
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
+ARTCC boundary:CZUL_FIR:
+ARTCC boundary:YBG_MTCA:
+ARTCC low boundary:GL-RW:
+ARTCC low boundary:HV-GL:
+ARTCC low boundary:MTL_TCU:
+ARTCC low boundary:RW-HV:
 ARTCC low boundary:YQB_TCU:
 Fixes:ADVEM:name
 Fixes:ADVEM:symbol
@@ -18,8 +22,6 @@ Fixes:AXANU:name
 Fixes:AXANU:symbol
 Fixes:BERUT:name
 Fixes:BERUT:symbol
-Fixes:DAXAB:name
-Fixes:DAXAB:symbol
 Fixes:DAXUG:name
 Fixes:DAXUG:symbol
 Fixes:DEDGO:name
@@ -28,14 +30,12 @@ Fixes:DICEN:name
 Fixes:DICEN:symbol
 Fixes:DUTIL:name
 Fixes:DUTIL:symbol
-Fixes:EBLAP:name
-Fixes:EBLAP:symbol
 Fixes:ELSUK:name
 Fixes:ELSUK:symbol
-Fixes:ERBIT:name
-Fixes:ERBIT:symbol
 Fixes:FLEUR:name
 Fixes:FLEUR:symbol
+Fixes:GADAL:name
+Fixes:GADAL:symbol
 Fixes:GONUM:name
 Fixes:GONUM:symbol
 Fixes:GUBID:name
@@ -52,26 +52,20 @@ Fixes:KAROT:name
 Fixes:KAROT:symbol
 Fixes:KAVAT:name
 Fixes:KAVAT:symbol
-Fixes:KEDIV:name
-Fixes:KEDIV:symbol
 Fixes:KETRU:name
 Fixes:KETRU:symbol
 Fixes:LERET:name
 Fixes:LERET:symbol
-Fixes:LOGDU:name
-Fixes:LOGDU:symbol
 Fixes:LOKBU:name
 Fixes:LOKBU:symbol
-Fixes:MIILS:name
-Fixes:MIILS:symbol
+Fixes:MOBAL:name
+Fixes:MOBAL:symbol
 Fixes:MUTIB:name
 Fixes:MUTIB:symbol
 Fixes:NOREK:name
 Fixes:NOREK:symbol
 Fixes:NOSIL:name
 Fixes:NOSIL:symbol
-Fixes:NOTAT:name
-Fixes:NOTAT:symbol
 Fixes:NOVID:name
 Fixes:NOVID:symbol
 Fixes:NUBUN:name
@@ -112,6 +106,8 @@ Fixes:TOTUX:name
 Fixes:TOTUX:symbol
 Fixes:UDBAM:name
 Fixes:UDBAM:symbol
+Fixes:UDMAB:name
+Fixes:UDMAB:symbol
 Fixes:URTAT:name
 Fixes:URTAT:symbol
 Fixes:URVAS:name
@@ -122,16 +118,8 @@ Fixes:VITEN:name
 Fixes:VITEN:symbol
 Fixes:VIVOD:name
 Fixes:VIVOD:symbol
-Fixes:VIXIS:name
-Fixes:VIXIS:symbol
-Fixes:VOBIM:name
-Fixes:VOBIM:symbol
-Fixes:VODIX:name
-Fixes:VODIX:symbol
 Fixes:XUDLU:name
 Fixes:XUDLU:symbol
-Geo:AIRPORT LAYOUTS:
-Geo:GEO:
 NDBs:BV:name
 NDBs:BV:symbol
 NDBs:ML:name
@@ -171,17 +159,9 @@ VORs:HUL:symbol
 VORs:VBS:frequency
 VORs:VBS:name
 VORs:VBS:symbol
-VORs:YMX:frequency
-VORs:YMX:name
-VORs:YMX:symbol
 VORs:YQB:frequency
 VORs:YQB:name
 VORs:YQB:symbol
-VORs:YRI:frequency
-VORs:YRI:name
-VORs:YRI:symbol
-VORs:YSC:name
-VORs:YSC:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:400
