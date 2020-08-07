@@ -11,48 +11,49 @@ Airports:CYOW:name
 Airports:CYOW:symbol
 Airports:CYUL:name
 Airports:CYUL:symbol
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
+ARTCC boundary:CZUL_FIR:
 ARTCC low boundary:BOSTON-MSS:
-ARTCC low boundary:CYYR_APP:
-ARTCC low boundary:frontiere_sud:
 ARTCC low boundary:KBTV_TCU:
-ARTCC low boundary:MTL_SPLIT:
+ARTCC low boundary:MTL_ENR_SPLIT:
 ARTCC low boundary:MTL_TCU:
 ARTCC low boundary:YOW_TCU:
 ARTCC low boundary:YQB_TCU:
-ARTCC low boundary:YTR_MTCU:
-ARTCC low boundary:zv:
 Fixes:ADVEM:name
 Fixes:ADVEM:symbol
-Fixes:AGLUK:name
-Fixes:AGLUK:symbol
 Fixes:AGNAG:name
 Fixes:AGNAG:symbol
 Fixes:ALNOV:name
 Fixes:ALNOV:symbol
 Fixes:ALSET:name
 Fixes:ALSET:symbol
+Fixes:ANCER:name
+Fixes:ANCER:symbol
+Fixes:ANTEG:name
+Fixes:ANTEG:symbol
 Fixes:ANTOV:name
 Fixes:ANTOV:symbol
 Fixes:ARVIE:name
 Fixes:ARVIE:symbol
 Fixes:AVVON:name
 Fixes:AVVON:symbol
+Fixes:BAREE:name
+Fixes:BAREE:symbol
 Fixes:BEMOG:name
 Fixes:BEMOG:symbol
 Fixes:BERUT:name
 Fixes:BERUT:symbol
-Fixes:BIBER:name
-Fixes:BIBER:symbol
 Fixes:BIPKO:name
 Fixes:BIPKO:symbol
 Fixes:BOBKI:name
 Fixes:BOBKI:symbol
 Fixes:BOKLU:name
 Fixes:BOKLU:symbol
+Fixes:BOSAM:name
+Fixes:BOSAM:symbol
 Fixes:BUGSY:name
 Fixes:BUGSY:symbol
+Fixes:CEFOU:name
+Fixes:CEFOU:symbol
 Fixes:COMAU:name
 Fixes:COMAU:symbol
 Fixes:CURDS:name
@@ -61,12 +62,12 @@ Fixes:DATAB:name
 Fixes:DATAB:symbol
 Fixes:DAVDA:name
 Fixes:DAVDA:symbol
-Fixes:DEBAX:name
-Fixes:DEBAX:symbol
 Fixes:DEBUS:name
 Fixes:DEBUS:symbol
 Fixes:DUNUP:name
 Fixes:DUNUP:symbol
+Fixes:DURED:name
+Fixes:DURED:symbol
 Fixes:EBDOT:name
 Fixes:EBDOT:symbol
 Fixes:EBMOS:name
@@ -79,18 +80,24 @@ Fixes:EPMOK:name
 Fixes:EPMOK:symbol
 Fixes:FAWNS:name
 Fixes:FAWNS:symbol
+Fixes:FLEUR:name
+Fixes:FLEUR:symbol
 Fixes:GORUX:name
 Fixes:GORUX:symbol
 Fixes:HABBS:name
 Fixes:HABBS:symbol
 Fixes:IGVUD:name
 Fixes:IGVUD:symbol
+Fixes:IKMIK:name
+Fixes:IKMIK:symbol
 Fixes:IKMOL:name
 Fixes:IKMOL:symbol
 Fixes:IKNAR:name
 Fixes:IKNAR:symbol
 Fixes:ILERO:name
 Fixes:ILERO:symbol
+Fixes:IMEPI:name
+Fixes:IMEPI:symbol
 Fixes:IPSAK:name
 Fixes:IPSAK:symbol
 Fixes:ITNIS:name
@@ -127,6 +134,8 @@ Fixes:MELTI:name
 Fixes:MELTI:symbol
 Fixes:MIGLO:name
 Fixes:MIGLO:symbol
+Fixes:MOBAL:name
+Fixes:MOBAL:symbol
 Fixes:MOBUB:name
 Fixes:MOBUB:symbol
 Fixes:MUSDU:name
@@ -145,16 +154,18 @@ Fixes:ODGUS:name
 Fixes:ODGUS:symbol
 Fixes:OKOPO:name
 Fixes:OKOPO:symbol
+Fixes:OLAKI:name
+Fixes:OLAKI:symbol
 Fixes:OLASI:name
 Fixes:OLASI:symbol
+Fixes:OMALI:name
+Fixes:OMALI:symbol
 Fixes:OMBRE:name
 Fixes:OMBRE:symbol
 Fixes:OMEGI:name
 Fixes:OMEGI:symbol
 Fixes:OMEKI:name
 Fixes:OMEKI:symbol
-Fixes:OMIXI:name
-Fixes:OMIXI:symbol
 Fixes:OMVAL:name
 Fixes:OMVAL:symbol
 Fixes:OVUVI:name
@@ -167,6 +178,10 @@ Fixes:PIGNA:name
 Fixes:PIGNA:symbol
 Fixes:PUPOV:name
 Fixes:PUPOV:symbol
+Fixes:PUSOD:name
+Fixes:PUSOD:symbol
+Fixes:PUXER:name
+Fixes:PUXER:symbol
 Fixes:RABIK:name
 Fixes:RABIK:symbol
 Fixes:RADEN:name
@@ -221,21 +236,12 @@ Fixes:VOLAX:name
 Fixes:VOLAX:symbol
 Fixes:WARDS:name
 Fixes:WARDS:symbol
-Free Text:YUL MVA\17<15:freetext
-Free Text:YUL MVA\22<20:freetext
-Free Text:YUL MVA\22<20:freetext
-Free Text:YUL MVA\22<20:freetext
-Free Text:YUL MVA\23<21:freetext
-Free Text:YUL MVA\25<22:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\28<25:freetext
-Free Text:YUL MVA\33<29:freetext
-Free Text:YUL MVA\33<30:freetext
-Free Text:YUL MVA\38<34:freetext
-Free Text:YUL MVA\38<34:freetext
-Geo:GEO:
+Fixes:XUKLU:name
+Fixes:XUKLU:symbol
+NDBs:ML:name
+NDBs:ML:symbol
+NDBs:ZHU:name
+NDBs:ZHU:symbol
 NDBs:ZMM:name
 NDBs:ZMM:symbol
 NDBs:ZMX:name
@@ -432,34 +438,34 @@ Sids:YUL dep CYQB JET:
 Sids:YUL dep CYQB PROP:
 Sids:YUL dep CYYZ JET:
 Sids:YUL dep CYYZ PROP:
+Sids:YUL dep EAST HIGH:
 Sids:YUL dep EAST JET:
 Sids:YUL dep EAST PROP:
+Sids:YUL dep NE:
+Sids:YUL dep NE JET:
+Sids:YUL dep NE PROP:
 Sids:YUL dep NORTH:
 Sids:YUL dep NW JET:
 Sids:YUL dep NW PROP:
 Sids:YUL dep SOUTH:
+Sids:YUL dep SW:
 Sids:YUL dep WEST:
 Stars:CYR603 SFC-170:
 Stars:CYR606 SFC-170:
 Stars:CYR612 SFC-27:
 Stars:YUL - CONFIG 24:
 Stars:YUL - LO 24:
+VORs:ALB:name
+VORs:ALB:symbol
 VORs:ART:name
 VORs:ART:symbol
+VORs:SYR:name
+VORs:SYR:symbol
 VORs:VBS:frequency
 VORs:VBS:name
 VORs:VBS:symbol
 VORs:VLV:name
 VORs:VLV:symbol
-VORs:YBC:frequency
-VORs:YBC:name
-VORs:YBC:symbol
-VORs:YGL:frequency
-VORs:YGL:name
-VORs:YGL:symbol
-VORs:YGP:frequency
-VORs:YGP:name
-VORs:YGP:symbol
 VORs:YJN:frequency
 VORs:YJN:name
 VORs:YJN:symbol
@@ -472,24 +478,9 @@ VORs:YOW:symbol
 VORs:YQB:frequency
 VORs:YQB:name
 VORs:YQB:symbol
-VORs:YRI:frequency
-VORs:YRI:name
-VORs:YRI:symbol
-VORs:YSC:frequency
-VORs:YSC:name
-VORs:YSC:symbol
 VORs:YUL:frequency
 VORs:YUL:name
 VORs:YUL:symbol
-VORs:YVO:frequency
-VORs:YVO:name
-VORs:YVO:symbol
-VORs:YYY:frequency
-VORs:YYY:name
-VORs:YYY:symbol
-VORs:YZV:frequency
-VORs:YZV:name
-VORs:YZV:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:300
