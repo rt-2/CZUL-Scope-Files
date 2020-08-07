@@ -11,11 +11,9 @@ Airports:CYOW:name
 Airports:CYOW:symbol
 Airports:CYUL:name
 Airports:CYUL:symbol
-ARTCC boundary:KZBW_CZYZ:
+ARTCC boundary:CZUL_FIR:
 ARTCC low boundary:BOSTON-MSS:
 ARTCC low boundary:CZUL South Gate:
-ARTCC low boundary:czul-czyz_SE_(X)CN:
-ARTCC low boundary:frontiere_sud:
 ARTCC low boundary:GL-RW:
 ARTCC low boundary:MTL_TCU:
 ARTCC low boundary:YOW_TCU:
@@ -41,8 +39,6 @@ Fixes:BEMOG:name
 Fixes:BEMOG:symbol
 Fixes:BOKLU:name
 Fixes:BOKLU:symbol
-Fixes:BOMET:name
-Fixes:BOMET:symbol
 Fixes:BOREG:name
 Fixes:BOREG:symbol
 Fixes:BUGSY:name
@@ -65,10 +61,14 @@ Fixes:ESTEL:name
 Fixes:ESTEL:symbol
 Fixes:GABEV:name
 Fixes:GABEV:symbol
+Fixes:HABBS:name
+Fixes:HABBS:symbol
 Fixes:IGTAD:name
 Fixes:IGTAD:symbol
 Fixes:IKLAX:name
 Fixes:IKLAX:symbol
+Fixes:ILEBU:name
+Fixes:ILEBU:symbol
 Fixes:ILEMU:name
 Fixes:ILEMU:symbol
 Fixes:ILIXU:name
@@ -95,12 +95,20 @@ Fixes:MIILS:name
 Fixes:MIILS:symbol
 Fixes:MIVOK:name
 Fixes:MIVOK:symbol
+Fixes:MOBAL:name
+Fixes:MOBAL:symbol
 Fixes:OBTAX:name
 Fixes:OBTAX:symbol
 Fixes:OLIGO:name
 Fixes:OLIGO:symbol
+Fixes:OMALI:name
+Fixes:OMALI:symbol
 Fixes:ONDOB:name
 Fixes:ONDOB:symbol
+Fixes:PUSOD:name
+Fixes:PUSOD:symbol
+Fixes:PUXER:name
+Fixes:PUXER:symbol
 Fixes:RABIK:name
 Fixes:RABIK:symbol
 Fixes:RADEN:name
@@ -109,6 +117,8 @@ Fixes:REEDO:name
 Fixes:REEDO:symbol
 Fixes:REVAL:name
 Fixes:REVAL:symbol
+Fixes:REVEN:name
+Fixes:REVEN:symbol
 Fixes:SAVAL:name
 Fixes:SAVAL:symbol
 Fixes:SMARE:name
@@ -139,23 +149,10 @@ Fixes:VILRO:name
 Fixes:VILRO:symbol
 Fixes:VISOL:name
 Fixes:VISOL:symbol
+Fixes:VIVAX:name
+Fixes:VIVAX:symbol
 Fixes:XOLTI:name
 Fixes:XOLTI:symbol
-Free Text:YOW MVA\20<18:freetext
-Free Text:YOW MVA\20<18:freetext
-Free Text:YOW MVA\20<18:freetext
-Free Text:YOW MVA\23<21:freetext
-Free Text:YOW MVA\29<26:freetext
-Free Text:YOW MVA\29<26:freetext
-Free Text:YOW MVA\29<26:freetext
-Free Text:YOW MVA\32<29:freetext
-Free Text:YOW MVA\32<29:freetext
-Free Text:YOW MVA\37<33:freetext
-Free Text:YOW MVA\37<33:freetext
-Free Text:YOW MVA\39<38:freetext
-Free Text:YOW MVA\39<38:freetext
-Free Text:YOW MVA\60<60:freetext
-Geo:GEO:
 NDBs:YGK:frequency
 NDBs:YGK:name
 NDBs:YGK:symbol
@@ -231,6 +228,8 @@ Sids:YOW arr RIVER:
 Sids:YOW dep CYUL:
 Sids:YOW dep CYYZ:
 Sids:YOW dep EAST:
+Sids:YOW dep EAST JET:
+Sids:YOW dep EAST PROP:
 Sids:YOW dep NE:
 Sids:YOW dep NORTH:
 Sids:YOW dep NW:
@@ -242,117 +241,15 @@ Stars:YOW - CONFIG 25:
 VORs:ART:frequency
 VORs:ART:name
 VORs:ART:symbol
-VORs:BGR:frequency
-VORs:BGR:name
-VORs:BGR:symbol
-VORs:BTV:frequency
-VORs:BTV:name
-VORs:BTV:symbol
-VORs:MLT:frequency
-VORs:MLT:name
-VORs:MLT:symbol
-VORs:MSS:frequency
-VORs:MSS:name
-VORs:MSS:symbol
-VORs:PQI:frequency
-VORs:PQI:name
-VORs:PQI:symbol
 VORs:SYR:frequency
 VORs:SYR:name
 VORs:SYR:symbol
-VORs:VBS:frequency
-VORs:VBS:name
-VORs:VBS:symbol
-VORs:VIE:frequency
-VORs:VIE:name
-VORs:VIE:symbol
-VORs:VLV:frequency
-VORs:VLV:name
-VORs:VLV:symbol
-VORs:YBC:frequency
-VORs:YBC:name
-VORs:YBC:symbol
-VORs:YCF:frequency
-VORs:YCF:name
-VORs:YCF:symbol
-VORs:YEE:frequency
-VORs:YEE:name
-VORs:YEE:symbol
-VORs:YFB:frequency
-VORs:YFB:name
-VORs:YFB:symbol
-VORs:YGL:frequency
-VORs:YGL:name
-VORs:YGL:symbol
-VORs:YGP:frequency
-VORs:YGP:name
-VORs:YGP:symbol
-VORs:YGR:frequency
-VORs:YGR:name
-VORs:YGR:symbol
-VORs:YJN:frequency
-VORs:YJN:name
-VORs:YJN:symbol
-VORs:YKL:frequency
-VORs:YKL:name
-VORs:YKL:symbol
-VORs:YMO:frequency
-VORs:YMO:name
-VORs:YMO:symbol
-VORs:YMX:frequency
-VORs:YMX:name
-VORs:YMX:symbol
-VORs:YNA:frequency
-VORs:YNA:name
-VORs:YNA:symbol
 VORs:YOW:frequency
 VORs:YOW:name
 VORs:YOW:symbol
-VORs:YQB:frequency
-VORs:YQB:name
-VORs:YQB:symbol
-VORs:YRI:frequency
-VORs:YRI:name
-VORs:YRI:symbol
-VORs:YSB:frequency
-VORs:YSB:name
-VORs:YSB:symbol
-VORs:YSC:frequency
-VORs:YSC:name
-VORs:YSC:symbol
-VORs:YSO:frequency
-VORs:YSO:name
-VORs:YSO:symbol
-VORs:YTS:frequency
-VORs:YTS:name
-VORs:YTS:symbol
-VORs:YUL:frequency
-VORs:YUL:name
-VORs:YUL:symbol
-VORs:YVO:frequency
-VORs:YVO:name
-VORs:YVO:symbol
-VORs:YVP:frequency
-VORs:YVP:name
-VORs:YVP:symbol
-VORs:YWK:frequency
-VORs:YWK:name
-VORs:YWK:symbol
 VORs:YXI:frequency
 VORs:YXI:name
 VORs:YXI:symbol
-VORs:YYB:frequency
-VORs:YYB:name
-VORs:YYB:symbol
-VORs:YYR:frequency
-VORs:YYR:name
-VORs:YYR:symbol
-VORs:YYY:frequency
-VORs:YYY:name
-VORs:YYY:symbol
-VORs:YZV:frequency
-VORs:YZV:name
-VORs:YZV:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
