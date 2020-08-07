@@ -11,11 +11,10 @@ Airports:CYOW:name
 Airports:CYOW:symbol
 Airports:CYUL:name
 Airports:CYUL:symbol
-ARTCC boundary:KZBW_CZYZ:
+ARTCC boundary:CZUL_FIR:
+ARTCC boundary:ZBWZYZ:
 ARTCC low boundary:BOSTON-MSS:
 ARTCC low boundary:CZUL South Gate:
-ARTCC low boundary:czul-czyz_SE_(X)CN:
-ARTCC low boundary:frontiere_sud:
 ARTCC low boundary:GL-RW:
 ARTCC low boundary:MTL_TCU:
 ARTCC low boundary:YOW_TCU:
@@ -67,6 +66,8 @@ Fixes:ESTEL:name
 Fixes:ESTEL:symbol
 Fixes:GABEV:name
 Fixes:GABEV:symbol
+Fixes:HABBS:name
+Fixes:HABBS:symbol
 Fixes:IKLAX:name
 Fixes:IKLAX:symbol
 Fixes:ILEMU:name
@@ -95,18 +96,28 @@ Fixes:MIILS:name
 Fixes:MIILS:symbol
 Fixes:MIVOK:name
 Fixes:MIVOK:symbol
+Fixes:MOBAL:name
+Fixes:MOBAL:symbol
 Fixes:OBTAX:name
 Fixes:OBTAX:symbol
 Fixes:OLIGO:name
 Fixes:OLIGO:symbol
+Fixes:OMALI:name
+Fixes:OMALI:symbol
 Fixes:ONDOB:name
 Fixes:ONDOB:symbol
+Fixes:PUSOD:name
+Fixes:PUSOD:symbol
+Fixes:PUXER:name
+Fixes:PUXER:symbol
 Fixes:RABIK:name
 Fixes:RABIK:symbol
 Fixes:RADEN:name
 Fixes:RADEN:symbol
 Fixes:REEDO:name
 Fixes:REEDO:symbol
+Fixes:REVEN:name
+Fixes:REVEN:symbol
 Fixes:SAVAL:name
 Fixes:SAVAL:symbol
 Fixes:SMARE:name
@@ -139,28 +150,14 @@ Fixes:VILRO:name
 Fixes:VILRO:symbol
 Fixes:VISOL:name
 Fixes:VISOL:symbol
+Fixes:VODUL:name
+Fixes:VODUL:symbol
 Fixes:VOLAG:name
 Fixes:VOLAG:symbol
 Fixes:WATTO:name
 Fixes:WATTO:symbol
-Free Text:YOW MVA\20<18:freetext
-Free Text:YOW MVA\20<18:freetext
-Free Text:YOW MVA\20<18:freetext
-Free Text:YOW MVA\23<21:freetext
-Free Text:YOW MVA\29<26:freetext
-Free Text:YOW MVA\29<26:freetext
-Free Text:YOW MVA\29<26:freetext
-Free Text:YOW MVA\32<29:freetext
-Free Text:YOW MVA\32<29:freetext
-Free Text:YOW MVA\37<33:freetext
-Free Text:YOW MVA\37<33:freetext
-Free Text:YOW MVA\39<38:freetext
-Free Text:YOW MVA\39<38:freetext
-Free Text:YOW MVA\60<60:freetext
-Geo:GEO:
-NDBs:YGK:frequency
-NDBs:YGK:name
-NDBs:YGK:symbol
+NDBs:YRR:name
+NDBs:YRR:symbol
 Runways:CYND Ottawa Gatineau 09-27:centerline
 Runways:CYND Ottawa Gatineau 09-27:extended centerline 1
 Runways:CYND Ottawa Gatineau 09-27:extended centerline 1 left base
@@ -233,6 +230,8 @@ Sids:YOW arr RIVER:
 Sids:YOW dep CYUL:
 Sids:YOW dep CYYZ:
 Sids:YOW dep EAST:
+Sids:YOW dep EAST JET:
+Sids:YOW dep EAST PROP:
 Sids:YOW dep NE:
 Sids:YOW dep NORTH:
 Sids:YOW dep NW:
@@ -241,57 +240,18 @@ Sids:YOW dep SW:
 Sids:YOW dep WEST:
 Sids:YOW dep WEST PROP:
 Stars:YOW - CONFIG 32:
+VORs:ART:frequency
 VORs:ART:name
 VORs:ART:symbol
+VORs:SYR:frequency
 VORs:SYR:name
 VORs:SYR:symbol
-VORs:VBS:frequency
-VORs:VBS:name
-VORs:VBS:symbol
-VORs:VLV:frequency
-VORs:VLV:name
-VORs:VLV:symbol
-VORs:YBC:frequency
-VORs:YBC:name
-VORs:YBC:symbol
-VORs:YGL:frequency
-VORs:YGL:name
-VORs:YGL:symbol
-VORs:YGP:frequency
-VORs:YGP:name
-VORs:YGP:symbol
-VORs:YJN:frequency
-VORs:YJN:name
-VORs:YJN:symbol
-VORs:YMX:frequency
-VORs:YMX:name
-VORs:YMX:symbol
 VORs:YOW:frequency
 VORs:YOW:name
 VORs:YOW:symbol
-VORs:YQB:frequency
-VORs:YQB:name
-VORs:YQB:symbol
-VORs:YRI:frequency
-VORs:YRI:name
-VORs:YRI:symbol
-VORs:YSC:frequency
-VORs:YSC:name
-VORs:YSC:symbol
-VORs:YUL:frequency
-VORs:YUL:name
-VORs:YUL:symbol
-VORs:YVO:frequency
-VORs:YVO:name
-VORs:YVO:symbol
+VORs:YXI:frequency
 VORs:YXI:name
 VORs:YXI:symbol
-VORs:YYY:frequency
-VORs:YYY:name
-VORs:YYY:symbol
-VORs:YZV:frequency
-VORs:YZV:name
-VORs:YZV:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
