@@ -11,10 +11,14 @@ Airports:CYQB:name
 Airports:CYQB:symbol
 Airports:CYRQ:name
 Airports:CYRQ:symbol
-Airports:CYSJ:name
-Airports:CYSJ:symbol
 Airports:CYUL:name
 Airports:CYUL:symbol
+ARTCC boundary:CZUL_FIR:
+ARTCC boundary:YBG_MTCA:
+ARTCC low boundary:GL-RW:
+ARTCC low boundary:HV-GL:
+ARTCC low boundary:MTL_TCU:
+ARTCC low boundary:RW-HV:
 ARTCC low boundary:YQB_TCU:
 Fixes:ADVEM:name
 Fixes:ADVEM:symbol
@@ -26,14 +30,8 @@ Fixes:APLAK:name
 Fixes:APLAK:symbol
 Fixes:AVEGO:name
 Fixes:AVEGO:symbol
-Fixes:AXOTO:name
-Fixes:AXOTO:symbol
 Fixes:BERUT:name
 Fixes:BERUT:symbol
-Fixes:BIPDA:name
-Fixes:BIPDA:symbol
-Fixes:BOSES:name
-Fixes:BOSES:symbol
 Fixes:DAXUG:name
 Fixes:DAXUG:symbol
 Fixes:DICEN:name
@@ -54,18 +52,12 @@ Fixes:IKMIK:name
 Fixes:IKMIK:symbol
 Fixes:ILERO:name
 Fixes:ILERO:symbol
-Fixes:ITKAR:name
-Fixes:ITKAR:symbol
 Fixes:KAROT:name
 Fixes:KAROT:symbol
 Fixes:KENLO:name
 Fixes:KENLO:symbol
 Fixes:KETRU:name
 Fixes:KETRU:symbol
-Fixes:LETIM:name
-Fixes:LETIM:symbol
-Fixes:LIBID:name
-Fixes:LIBID:symbol
 Fixes:LISLA:name
 Fixes:LISLA:symbol
 Fixes:LOKBU:name
@@ -74,6 +66,8 @@ Fixes:LOMSO:name
 Fixes:LOMSO:symbol
 Fixes:MAXOG:name
 Fixes:MAXOG:symbol
+Fixes:MOBAL:name
+Fixes:MOBAL:symbol
 Fixes:MUTIB:name
 Fixes:MUTIB:symbol
 Fixes:NAGEK:name
@@ -112,8 +106,6 @@ Fixes:TADES:name
 Fixes:TADES:symbol
 Fixes:TILAC:name
 Fixes:TILAC:symbol
-Fixes:UDBAM:name
-Fixes:UDBAM:symbol
 Fixes:UKPOB:name
 Fixes:UKPOB:symbol
 Fixes:URVAS:name
@@ -124,27 +116,10 @@ Fixes:VIXUV:name
 Fixes:VIXUV:symbol
 Fixes:XUBUN:name
 Fixes:XUBUN:symbol
-Free Text:YQB MVA\24<22:freetext
-Free Text:YQB MVA\24<22:freetext
-Free Text:YQB MVA\33<30:freetext
-Free Text:YQB MVA\39<35:freetext
-Free Text:YQB MVA\40<36:freetext
-Free Text:YQB MVA\40<36:freetext
-Free Text:YQB MVA\43<39:freetext
-Free Text:YQB MVA\43<39:freetext
-Free Text:YQB MVA\50<45:freetext
-Free Text:YQB MVA\50<45:freetext
-Free Text:YQB MVA\50<45:freetext
-Free Text:YQB MVA\50<45:freetext
-Free Text:YQB MVA\57<51:freetext
-Free Text:YQB MVA\57<51:freetext
-Geo:GEO:
 NDBs:BV:name
 NDBs:BV:symbol
 NDBs:ML:name
 NDBs:ML:symbol
-NDBs:OU:name
-NDBs:OU:symbol
 Regions:CYR603 SFC-170:polygon
 Regions:CYR612 SFC-27:polygon
 Runways:CYQB Quebec Jean Lesage 06-24:centerline
@@ -198,17 +173,9 @@ VORs:HUL:symbol
 VORs:VBS:frequency
 VORs:VBS:name
 VORs:VBS:symbol
-VORs:YMX:frequency
-VORs:YMX:name
-VORs:YMX:symbol
 VORs:YQB:frequency
 VORs:YQB:name
 VORs:YQB:symbol
-VORs:YRI:frequency
-VORs:YRI:name
-VORs:YRI:symbol
-VORs:YSC:name
-VORs:YSC:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:300
