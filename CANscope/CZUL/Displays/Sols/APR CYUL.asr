@@ -1,5 +1,5 @@
-DisplayTypeName:Standard ES radar screen
-DisplayTypeNeedRadarContent:1
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 Free Text:CYUL FBO\ACA:freetext
 Free Text:CYUL FBO\AIE:freetext
@@ -181,15 +181,92 @@ Geo:AIRPORT LAYOUTS:
 Geo:GROUND CYUL (Gate Lines):
 Geo:GROUND CYUL (Taxiway Lines):
 Regions:CYUL:polygon
+Runways:CYMX Montreal Mirabel 06-24:centerline
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 left base
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 left ticks
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 left vectoring
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 right base
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 right ticks
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 1 right vectoring
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 left base
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 left ticks
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 left vectoring
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 right base
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 right ticks
+Runways:CYMX Montreal Mirabel 06-24:extended centerline 2 right vectoring
+Runways:CYMX Montreal Mirabel 06-24:name
+Runways:CYMX Montreal Mirabel 11-29:centerline
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 left base
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 left ticks
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 left vectoring
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 right base
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 right ticks
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 1 right vectoring
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 left base
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 left ticks
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 left vectoring
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 right base
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 right ticks
+Runways:CYMX Montreal Mirabel 11-29:extended centerline 2 right vectoring
+Runways:CYMX Montreal Mirabel 11-29:name
 Runways:CYUL Montreal Trudeau 06L-24R:centerline
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 left base
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 left ticks
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 left vectoring
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 right base
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 right ticks
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 1 right vectoring
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 left base
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 left ticks
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 left vectoring
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 right base
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 right ticks
+Runways:CYUL Montreal Trudeau 06L-24R:extended centerline 2 right vectoring
+Runways:CYUL Montreal Trudeau 06L-24R:name
 Runways:CYUL Montreal Trudeau 06R-24L:centerline
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 left base
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 left ticks
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 left vectoring
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 right base
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 right ticks
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 1 right vectoring
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 left base
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 left ticks
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 left vectoring
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 right base
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 right ticks
+Runways:CYUL Montreal Trudeau 06R-24L:extended centerline 2 right vectoring
+Runways:CYUL Montreal Trudeau 06R-24L:name
 Runways:CYUL Montreal Trudeau 10-28:centerline
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 left base
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 left ticks
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 left vectoring
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 right base
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 right ticks
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 1 right vectoring
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 left base
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 left ticks
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 left vectoring
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right base
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right ticks
+Runways:CYUL Montreal Trudeau 10-28:extended centerline 2 right vectoring
+Runways:CYUL Montreal Trudeau 10-28:name
 SHOWC:1
 SHOWSB:0
 BELOW:0
 ABOVE:0
 LEADER:5
-SHOWLEADER:0
+SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
 SIMULATION_MODE:2
@@ -197,4 +274,31 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:15.50000
 TAGFAMILY:NARDS
-WINDOWAREA:45.451421:-73.767660:45.474546:-73.720555
+WINDOWAREA:45.451119:-73.773829:45.485007:-73.705793
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYUL
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1535
+PLUGIN:vSMR:SRW1BottomRightY:980
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:4500
+PLUGIN:vSMR:SRW1OffsetX:-108
+PLUGIN:vSMR:SRW1OffsetY:57
+PLUGIN:vSMR:SRW1Rotation:14
+PLUGIN:vSMR:SRW1Scale:20
+PLUGIN:vSMR:SRW1TopLeftX:1135
+PLUGIN:vSMR:SRW1TopLeftY:680
+PLUGIN:vSMR:SRW2BottomRightX:1525
+PLUGIN:vSMR:SRW2BottomRightY:1021
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:-87
+PLUGIN:vSMR:SRW2OffsetY:-79
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:1125
+PLUGIN:vSMR:SRW2TopLeftY:721

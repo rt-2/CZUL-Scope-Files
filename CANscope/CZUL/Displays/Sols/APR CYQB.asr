@@ -1,5 +1,5 @@
-DisplayTypeName:Standard ES radar screen
-DisplayTypeNeedRadarContent:1
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
 DisplayTypeGeoReferenced:1
 Free Text:CYQB FBO\AEROPRO/CFAQ:freetext
 Free Text:CYQB FBO\AILES QC:freetext
@@ -49,13 +49,15 @@ Geo:GROUND CYQB (Gate Lanes):
 Geo:GROUND CYQB (Taxiway Lanes):
 Regions:CYQB:polygon
 Runways:CYQB Quebec Jean Lesage 06-24:centerline
+Runways:CYQB Quebec Jean Lesage 06-24:name
 Runways:CYQB Quebec Jean Lesage 11-29:centerline
+Runways:CYQB Quebec Jean Lesage 11-29:name
 SHOWC:0
 SHOWSB:0
 BELOW:0
-ABOVE:260
+ABOVE:0
 LEADER:5
-SHOWLEADER:0
+SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
 SIMULATION_MODE:2
@@ -63,4 +65,31 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:15.50000
 TAGFAMILY:NARDS
-WINDOWAREA:46.782989:-71.410101:46.800193:-71.368419
+WINDOWAREA:46.775146:-71.417011:46.802051:-71.362994
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYQB
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1535
+PLUGIN:vSMR:SRW1BottomRightY:980
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:4500
+PLUGIN:vSMR:SRW1OffsetX:-108
+PLUGIN:vSMR:SRW1OffsetY:57
+PLUGIN:vSMR:SRW1Rotation:14
+PLUGIN:vSMR:SRW1Scale:20
+PLUGIN:vSMR:SRW1TopLeftX:1135
+PLUGIN:vSMR:SRW1TopLeftY:680
+PLUGIN:vSMR:SRW2BottomRightX:1525
+PLUGIN:vSMR:SRW2BottomRightY:1021
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:-87
+PLUGIN:vSMR:SRW2OffsetY:-79
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:1125
+PLUGIN:vSMR:SRW2TopLeftY:721

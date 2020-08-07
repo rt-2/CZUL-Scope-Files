@@ -1,0 +1,78 @@
+DisplayTypeName:SMR radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+Free Text:CYOW Ramp\G:freetext
+Free Text:CYOW Ramp\G:freetext
+Free Text:CYOW Ramp\G/A:freetext
+Free Text:CYOW Ramp\G/A:freetext
+Free Text:CYOW Ramp\ICE:freetext
+Free Text:CYOW Taxiway\A:freetext
+Free Text:CYOW Taxiway\A:freetext
+Free Text:CYOW Taxiway\A:freetext
+Free Text:CYOW Taxiway\AA:freetext
+Free Text:CYOW Taxiway\B:freetext
+Free Text:CYOW Taxiway\B:freetext
+Free Text:CYOW Taxiway\BB:freetext
+Free Text:CYOW Taxiway\C:freetext
+Free Text:CYOW Taxiway\C:freetext
+Free Text:CYOW Taxiway\CC:freetext
+Free Text:CYOW Taxiway\D:freetext
+Free Text:CYOW Taxiway\E:freetext
+Free Text:CYOW Taxiway\E:freetext
+Free Text:CYOW Taxiway\F:freetext
+Free Text:CYOW Taxiway\J:freetext
+Free Text:CYOW Taxiway\K:freetext
+Free Text:CYOW Taxiway\L:freetext
+Free Text:CYOW Taxiway\M:freetext
+Free Text:CYOW Taxiway\P:freetext
+Free Text:CYOW Taxiway\P:freetext
+Free Text:CYOW Taxiway\Q:freetext
+Free Text:CYOW Taxiway\T:freetext
+Geo:AIRPORT LAYOUTS:
+Runways:CYOW Ottawa MacDonald Cartier 04-22:centerline
+Runways:CYOW Ottawa MacDonald Cartier 04-22:name
+Runways:CYOW Ottawa MacDonald Cartier 07-25:centerline
+Runways:CYOW Ottawa MacDonald Cartier 07-25:name
+Runways:CYOW Ottawa MacDonald Cartier 14-32:centerline
+Runways:CYOW Ottawa MacDonald Cartier 14-32:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:15.50000
+TAGFAMILY:NARDS
+WINDOWAREA:45.303808:-75.712309:45.351454:-75.616650
+PLUGIN:vSMR:ActiveProfile:Default
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:CYOW
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1535
+PLUGIN:vSMR:SRW1BottomRightY:980
+PLUGIN:vSMR:SRW1Display:0
+PLUGIN:vSMR:SRW1Filter:4500
+PLUGIN:vSMR:SRW1OffsetX:-108
+PLUGIN:vSMR:SRW1OffsetY:57
+PLUGIN:vSMR:SRW1Rotation:14
+PLUGIN:vSMR:SRW1Scale:20
+PLUGIN:vSMR:SRW1TopLeftX:1135
+PLUGIN:vSMR:SRW1TopLeftY:680
+PLUGIN:vSMR:SRW2BottomRightX:1525
+PLUGIN:vSMR:SRW2BottomRightY:1021
+PLUGIN:vSMR:SRW2Display:1
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:-87
+PLUGIN:vSMR:SRW2OffsetY:-79
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:1125
+PLUGIN:vSMR:SRW2TopLeftY:721
