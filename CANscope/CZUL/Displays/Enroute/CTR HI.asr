@@ -5,32 +5,35 @@ Airports:CYHU:name
 Airports:CYHU:symbol
 Airports:CYJN:name
 Airports:CYJN:symbol
-ARTCC boundary:KZBW_CTR:
-ARTCC boundary:KZBW_CZYZ:
-ARTCC boundary:QM-QX:
-ARTCC boundary:W080:
-ARTCC boundary:west:
+Airports:CYMX:name
+Airports:CYMX:symbol
+Airports:CYUL:name
+Airports:CYUL:symbol
+ARTCC boundary:CZUL_FIR:
 ARTCC boundary:YBG_MTCA:
-ARTCC boundary:ZEGZUL:
-ARTCC boundary:ZWGZUL:
+ARTCC boundary:ZBWZQM:
+ARTCC boundary:ZBWZYZ:
+ARTCC boundary:ZEGBGLL:
+ARTCC boundary:ZEGZQO:
+ARTCC boundary:ZQMZQX:
+ARTCC boundary:ZQOZQX:
+ARTCC boundary:ZWGZEG:
 ARTCC boundary:ZWGZYZ:
 ARTCC high boundary:FG-BZ:
-ARTCC high boundary:LE-ZV+EAST:
+ARTCC high boundary:FG-ZQX:
+ARTCC high boundary:HU-CY:
+ARTCC high boundary:LE-ZQM:
 ARTCC high boundary:MC-FG:
 ARTCC high boundary:MC-LE:
-ARTCC high boundary:NORD:
+ARTCC high boundary:MC-ZQM:
+ARTCC high boundary:MC-ZQX:
 ARTCC high boundary:Northern Control Area:
-ARTCC high boundary:WK-ZV:
+ARTCC high boundary:ZQMZQX:
+ARTCC high boundary:ZQOZUL:
 ARTCC low boundary:CZUL North Gate:
 ARTCC low boundary:CZUL South Gate:
-ARTCC low boundary:czul-czyz_SE_(X)CN:
-ARTCC low boundary:frontiere_sud:
-Fixes:ALKOB:name
-Fixes:ALKOB:symbol
-Fixes:ANTUR:name
-Fixes:ANTUR:symbol
-Fixes:ARAME:name
-Fixes:ARAME:symbol
+Fixes:ATENE:name
+Fixes:ATENE:symbol
 Fixes:AVPUT:name
 Fixes:AVPUT:symbol
 Fixes:AYROU:name
@@ -39,6 +42,8 @@ Fixes:BERUS:name
 Fixes:BERUS:symbol
 Fixes:BODRA:name
 Fixes:BODRA:symbol
+Fixes:CEFOU:name
+Fixes:CEFOU:symbol
 Fixes:CHARN:name
 Fixes:CHARN:symbol
 Fixes:DUGNO:name
@@ -77,22 +82,14 @@ Fixes:MIBNA:name
 Fixes:MIBNA:symbol
 Fixes:MIBNO:name
 Fixes:MIBNO:symbol
-Fixes:MIGLI:name
-Fixes:MIGLI:symbol
 Fixes:MIGLO:name
 Fixes:MIGLO:symbol
-Fixes:MUNBO:name
-Fixes:MUNBO:symbol
 Fixes:MUSLO:name
 Fixes:MUSLO:symbol
 Fixes:MUSVA:name
 Fixes:MUSVA:symbol
-Fixes:NAGNO:name
-Fixes:NAGNO:symbol
 Fixes:NALDI:name
 Fixes:NALDI:symbol
-Fixes:NAPLO:name
-Fixes:NAPLO:symbol
 Fixes:OLABA:name
 Fixes:OLABA:symbol
 Fixes:OLIGO:name
@@ -101,8 +98,6 @@ Fixes:PEPKI:name
 Fixes:PEPKI:symbol
 Fixes:PIGLA:name
 Fixes:PIGLA:symbol
-Fixes:PIKNA:name
-Fixes:PIKNA:symbol
 Fixes:PINTE:name
 Fixes:PINTE:symbol
 Fixes:REVEN:name
@@ -111,8 +106,6 @@ Fixes:RONPU:name
 Fixes:RONPU:symbol
 Fixes:SINGA:name
 Fixes:SINGA:symbol
-Fixes:TALNO:name
-Fixes:TALNO:symbol
 Fixes:TORNI:name
 Fixes:TORNI:symbol
 Fixes:TUKIR:name
@@ -121,248 +114,6 @@ Fixes:VIBRU:name
 Fixes:VIBRU:symbol
 Fixes:VIRSO:name
 Fixes:VIRSO:symbol
-Fixes:VOKET:name
-Fixes:VOKET:symbol
-High airways:J16:line
-High airways:J16:name
-High airways:J29:line
-High airways:J29:name
-High airways:J49:line
-High airways:J49:name
-High airways:J506:line
-High airways:J506:name
-High airways:J522:line
-High airways:J522:name
-High airways:J524:line
-High airways:J524:name
-High airways:J559:line
-High airways:J559:name
-High airways:J567:line
-High airways:J567:name
-High airways:J570:line
-High airways:J570:name
-High airways:J573:line
-High airways:J573:name
-High airways:J586:line
-High airways:J586:name
-High airways:J59:line
-High airways:J59:name
-High airways:J595:line
-High airways:J595:name
-High airways:J94:line
-High airways:J94:name
-High airways:J95:line
-High airways:J95:name
-High airways:M201:line
-High airways:M201:name
-High airways:M202:line
-High airways:M202:name
-High airways:N112B:line
-High airways:N112B:name
-High airways:N114C:line
-High airways:N114C:name
-High airways:N116A:line
-High airways:N116A:name
-High airways:N173B:line
-High airways:N173B:name
-High airways:N175C:line
-High airways:N175C:name
-High airways:N177C:line
-High airways:N177C:name
-High airways:N179C:line
-High airways:N179C:name
-High airways:N17B:line
-High airways:N17B:name
-High airways:N181E:line
-High airways:N181E:name
-High airways:N19B:line
-High airways:N19B:name
-High airways:N21C:line
-High airways:N21C:name
-High airways:N225B:line
-High airways:N225B:name
-High airways:N227B:line
-High airways:N227B:name
-High airways:N23E:line
-High airways:N23E:name
-High airways:N254A:line
-High airways:N254A:name
-High airways:N258B:line
-High airways:N258B:name
-High airways:N25B:line
-High airways:N25B:name
-High airways:N264A:line
-High airways:N264A:name
-High airways:N268B:line
-High airways:N268B:name
-High airways:N276A:line
-High airways:N276A:name
-High airways:N27A:line
-High airways:N27A:name
-High airways:N280B:line
-High airways:N280B:name
-High airways:N282A:line
-High airways:N282A:name
-High airways:N29B:line
-High airways:N29B:name
-High airways:N302C:line
-High airways:N302C:name
-High airways:N306E:line
-High airways:N306E:name
-High airways:N31E:line
-High airways:N31E:name
-High airways:N33C:line
-High airways:N33C:name
-High airways:N346A:line
-High airways:N346A:name
-High airways:N352E:line
-High airways:N352E:name
-High airways:N354E:line
-High airways:N354E:name
-High airways:N358B:line
-High airways:N358B:name
-High airways:N362B:line
-High airways:N362B:name
-High airways:N36E:line
-High airways:N36E:name
-High airways:N372C:line
-High airways:N372C:name
-High airways:N374C:line
-High airways:N374C:name
-High airways:N378F:line
-High airways:N378F:name
-High airways:N38E:line
-High airways:N38E:name
-High airways:N392E:line
-High airways:N392E:name
-High airways:N396C:line
-High airways:N396C:name
-High airways:N398C:line
-High airways:N398C:name
-High airways:N402E:line
-High airways:N402E:name
-High airways:N40E:line
-High airways:N40E:name
-High airways:N412B:line
-High airways:N412B:name
-High airways:N414C:line
-High airways:N414C:name
-High airways:N424E:line
-High airways:N424E:name
-High airways:N428E:line
-High airways:N428E:name
-High airways:N42B:line
-High airways:N42B:name
-High airways:N432C:line
-High airways:N432C:name
-High airways:N434C:line
-High airways:N434C:name
-High airways:N44B:line
-High airways:N44B:name
-High airways:N464E:line
-High airways:N464E:name
-High airways:N468F:line
-High airways:N468F:name
-High airways:N46E:line
-High airways:N46E:name
-High airways:N472E:line
-High airways:N472E:name
-High airways:N484C:line
-High airways:N484C:name
-High airways:N48E:line
-High airways:N48E:name
-High airways:N494E:line
-High airways:N494E:name
-High airways:N496C:line
-High airways:N496C:name
-High airways:N50E:line
-High airways:N50E:name
-High airways:N512C:line
-High airways:N512C:name
-High airways:N514E:line
-High airways:N514E:name
-High airways:N516H:line
-High airways:N516H:name
-High airways:N52E:line
-High airways:N52E:name
-High airways:N54E:line
-High airways:N54E:name
-High airways:N56E:line
-High airways:N56E:name
-High airways:N58B:line
-High airways:N58B:name
-High airways:N60B:line
-High airways:N60B:name
-High airways:N61B:line
-High airways:N61B:name
-High airways:N62A:line
-High airways:N62A:name
-High airways:N63B:line
-High airways:N63B:name
-High airways:N64C:line
-High airways:N64C:name
-High airways:N65B:line
-High airways:N65B:name
-High airways:N66C:line
-High airways:N66C:name
-High airways:N67B:line
-High airways:N67B:name
-High airways:NCA32:line
-High airways:NCA32:name
-High airways:NCA33:line
-High airways:NCA33:name
-High airways:Q802:line
-High airways:Q802:name
-High airways:Q804:line
-High airways:Q804:name
-High airways:Q806:line
-High airways:Q806:name
-High airways:Q824:line
-High airways:Q824:name
-High airways:Q840:line
-High airways:Q840:name
-High airways:Q844:line
-High airways:Q844:name
-High airways:Q848:line
-High airways:Q848:name
-High airways:Q852:line
-High airways:Q852:name
-High airways:Q901:line
-High airways:Q901:name
-High airways:Q905:line
-High airways:Q905:name
-High airways:Q907:line
-High airways:Q907:name
-High airways:Q913:line
-High airways:Q913:name
-High airways:Q919:line
-High airways:Q919:name
-High airways:Q921:line
-High airways:Q921:name
-High airways:Q941:line
-High airways:Q941:name
-High airways:Q943:line
-High airways:Q943:name
-High airways:Q947:line
-High airways:Q947:name
-High airways:Q951:line
-High airways:Q951:name
-High airways:Q975:line
-High airways:Q975:name
-High airways:SCAD:line
-High airways:SCAD:name
-High airways:SCAH:line
-High airways:SCAH:name
-High airways:SCAI:line
-High airways:SCAI:name
-High airways:SCAJ:line
-High airways:SCAJ:name
-High airways:SCAK:line
-High airways:SCAK:name
-High airways:SCAL:line
-High airways:SCAL:name
-High airways:SCAX:line
-High airways:SCAX:name
 NDBs:CL:name
 NDBs:CL:symbol
 NDBs:UAC:name
@@ -412,12 +163,6 @@ VORs:VLV:symbol
 VORs:YBC:frequency
 VORs:YBC:name
 VORs:YBC:symbol
-VORs:YCF:frequency
-VORs:YCF:name
-VORs:YCF:symbol
-VORs:YEE:frequency
-VORs:YEE:name
-VORs:YEE:symbol
 VORs:YFB:frequency
 VORs:YFB:name
 VORs:YFB:symbol
@@ -457,12 +202,6 @@ VORs:YRI:symbol
 VORs:YSB:frequency
 VORs:YSB:name
 VORs:YSB:symbol
-VORs:YSC:frequency
-VORs:YSC:name
-VORs:YSC:symbol
-VORs:YSO:frequency
-VORs:YSO:name
-VORs:YSO:symbol
 VORs:YTS:frequency
 VORs:YTS:name
 VORs:YTS:symbol
