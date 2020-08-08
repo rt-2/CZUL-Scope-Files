@@ -1,9 +1,19 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-ARTCC low boundary:MTL_TCU:
+Fixes:MEGDO:name
+Fixes:MEGDO:symbol
+Fixes:MIPEL:name
+Fixes:MIPEL:symbol
+Fixes:ODGUR:name
+Fixes:ODGUR:symbol
+Fixes:OTOLA:name
+Fixes:OTOLA:symbol
 Geo:AIRPORT LAYOUTS:
+Geo:CZUL Coastline:
 Geo:GEO:
+NDBs:ZHU:name
+NDBs:ZHU:symbol
 Runways:CYHU Montreal St-Hubert 06L-24R:centerline
 Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1
 Runways:CYHU Montreal St-Hubert 06L-24R:extended centerline 1 left base
@@ -54,13 +64,13 @@ Runways:CYHU Montreal St-Hubert 10-28:extended centerline 2 right vectoring
 Runways:CYHU Montreal St-Hubert 10-28:name
 SHOWC:1
 SHOWSB:0
-BELOW:0
+BELOW:200
 ABOVE:0
 LEADER:5
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
-SIMULATION_MODE:2
+SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:15.50000
