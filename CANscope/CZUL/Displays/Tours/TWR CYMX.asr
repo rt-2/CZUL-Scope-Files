@@ -2,7 +2,6 @@ DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 ARTCC low boundary:BOSTON-MSS:
-ARTCC low boundary:frontiere_sud:
 ARTCC low boundary:MTL_TCU:
 Fixes:ABNEE:name
 Fixes:ABNEE:symbol
@@ -19,6 +18,7 @@ Fixes:URTUX:symbol
 Fixes:VETNO:name
 Fixes:VETNO:symbol
 Geo:AIRPORT LAYOUTS:
+Geo:CZUL Coastline:
 Geo:GEO:
 NDBs:ZMM:name
 NDBs:ZMM:symbol
@@ -26,8 +26,6 @@ NDBs:ZMR:name
 NDBs:ZMR:symbol
 NDBs:ZMX:name
 NDBs:ZMX:symbol
-Regions:CYR603 SFC-170:polygon
-Regions:CYR612 SFC-27:polygon
 Regions:CYR613 SFC-008:polygon
 Runways:CYMX Montreal Mirabel 06-24:centerline
 Runways:CYMX Montreal Mirabel 06-24:extended centerline 1
