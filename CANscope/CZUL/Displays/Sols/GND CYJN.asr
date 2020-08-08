@@ -6,8 +6,11 @@ Free Text:CYJN Taxiway\B:freetext
 Free Text:CYJN Taxiway\C:freetext
 Free Text:CYJN Taxiway\D:freetext
 Geo:AIRPORT LAYOUTS:
+Runways:CYJN St-Jean 02-20:centerline
 Runways:CYJN St-Jean 02-20:name
+Runways:CYJN St-Jean 06-24:centerline
 Runways:CYJN St-Jean 06-24:name
+Runways:CYJN St-Jean 11-29:centerline
 Runways:CYJN St-Jean 11-29:name
 SHOWC:1
 SHOWSB:0
@@ -22,4 +25,4 @@ DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:15.50000
 TAGFAMILY:NARDS
-WINDOWAREA:45.286674:-73.298824:45.304412:-73.262691
+WINDOWAREA:45.286507:-73.305164:45.304245:-73.257493
