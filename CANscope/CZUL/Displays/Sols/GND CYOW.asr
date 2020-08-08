@@ -29,8 +29,11 @@ Free Text:CYOW Taxiway\P:freetext
 Free Text:CYOW Taxiway\Q:freetext
 Free Text:CYOW Taxiway\T:freetext
 Geo:AIRPORT LAYOUTS:
+Runways:CYOW Ottawa MacDonald Cartier 04-22:centerline
 Runways:CYOW Ottawa MacDonald Cartier 04-22:name
+Runways:CYOW Ottawa MacDonald Cartier 07-25:centerline
 Runways:CYOW Ottawa MacDonald Cartier 07-25:name
+Runways:CYOW Ottawa MacDonald Cartier 14-32:centerline
 Runways:CYOW Ottawa MacDonald Cartier 14-32:name
 SHOWC:1
 SHOWSB:0
