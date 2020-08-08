@@ -18,7 +18,9 @@ Free Text:CYQB Taxiway\H:freetext
 Geo:AIRPORT LAYOUTS:
 Geo:GROUND CYQB (Taxiway Lanes):
 Regions:CYQB:polygon
+Runways:CYQB Quebec Jean Lesage 06-24:centerline
 Runways:CYQB Quebec Jean Lesage 06-24:name
+Runways:CYQB Quebec Jean Lesage 11-29:centerline
 Runways:CYQB Quebec Jean Lesage 11-29:name
 SHOWC:0
 SHOWSB:0
