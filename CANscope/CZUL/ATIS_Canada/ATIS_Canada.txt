@@ -1,5 +1,4 @@
 RECORD:-:afv-noatis.empty.wav
-RECORD: :afv-noatis.empty.wav
 RECORD:,:afv-noatis.empty.wav
 RECORD:.:afv-noatis.empty.wav
 RECORD:0:afv-noatis.empty.wav
@@ -211,6 +210,31 @@ RECORD:with:afv-noatis.empty.wav
 RECORD:X:afv-noatis.empty.wav
 RECORD:Y:afv-noatis.empty.wav
 RECORD:Z:afv-noatis.empty.wav
+RECORD:Alpha:afv-noatis.empty.wav
+RECORD:Bravo:afv-noatis.empty.wav
+RECORD:Charlie:afv-noatis.empty.wav
+RECORD:Delta:afv-noatis.empty.wav
+RECORD:Echo:afv-noatis.empty.wav
+RECORD:Foxtrot:afv-noatis.empty.wav
+RECORD:Golf:afv-noatis.empty.wav
+RECORD:Hotel:afv-noatis.empty.wav
+RECORD:India:afv-noatis.empty.wav
+RECORD:Juliet:afv-noatis.empty.wav
+RECORD:Kilo:afv-noatis.empty.wav
+RECORD:Mike:afv-noatis.empty.wav
+RECORD:November:afv-noatis.empty.wav
+RECORD:Oscar:afv-noatis.empty.wav
+RECORD:Papa:afv-noatis.empty.wav
+RECORD:Quebec:afv-noatis.empty.wav
+RECORD:Romeo:afv-noatis.empty.wav
+RECORD:Sierra:afv-noatis.empty.wav
+RECORD:Tango:afv-noatis.empty.wav
+RECORD:Uniform:afv-noatis.empty.wav
+RECORD:Whiskey:afv-noatis.empty.wav
+RECORD:Yankee:afv-noatis.empty.wav
+RECORD:Zulu:afv-noatis.empty.wav
+RECORD:;:afv-noatis.empty.wav
+RECORD: :afv-noatis.empty.wav
 ITEM:Montreal:
 ITEM:International:
 ITEM:Airport:
