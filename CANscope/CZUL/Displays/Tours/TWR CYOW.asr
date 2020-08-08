@@ -1,11 +1,6 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-ARTCC low boundary:BOSTON-MSS:
-ARTCC low boundary:CZUL South Gate:
-ARTCC low boundary:czul-czyz_SE_(X)CN:
-ARTCC low boundary:frontiere_sud:
-ARTCC low boundary:YOW_TCU:
 Fixes:ADVOS:name
 Fixes:ADVOS:symbol
 Fixes:ALPAT:name
@@ -40,21 +35,8 @@ Fixes:WATTO:name
 Fixes:WATTO:symbol
 Fixes:XOLTI:name
 Fixes:XOLTI:symbol
-Free Text:YOW MVA\20<18:freetext
-Free Text:YOW MVA\20<18:freetext
-Free Text:YOW MVA\20<18:freetext
-Free Text:YOW MVA\23<21:freetext
-Free Text:YOW MVA\29<26:freetext
-Free Text:YOW MVA\29<26:freetext
-Free Text:YOW MVA\29<26:freetext
-Free Text:YOW MVA\32<29:freetext
-Free Text:YOW MVA\32<29:freetext
-Free Text:YOW MVA\37<33:freetext
-Free Text:YOW MVA\37<33:freetext
-Free Text:YOW MVA\39<38:freetext
-Free Text:YOW MVA\39<38:freetext
-Free Text:YOW MVA\60<60:freetext
 Geo:AIRPORT LAYOUTS:
+Geo:CZUL Coastline:
 Geo:GEO:
 NDBs:OW:name
 NDBs:OW:symbol
@@ -124,16 +106,17 @@ Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 right base
 Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 right ticks
 Runways:CYOW Ottawa MacDonald Cartier 14-32:extended centerline 2 right vectoring
 Runways:CYOW Ottawa MacDonald Cartier 14-32:name
-Stars:YOW - Min Vectoring Alt:
+VORs:YOW:name
+VORs:YOW:symbol
 SHOWC:1
 SHOWSB:0
-BELOW:0
+BELOW:400
 ABOVE:0
 LEADER:5
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
-SIMULATION_MODE:2
+SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:14.50000
