@@ -1,257 +1,264 @@
-RECORD:-:minus.wav
-RECORD:,:pause.wav
-RECORD:.:silence.wav
-RECORD:0:0.wav
-RECORD:000:000.wav
-RECORD:1:1.wav
-RECORD:1/2:half.wav
-RECORD:1/4:1quarter.wav
-RECORD:1/8:1eight.wav
-RECORD:10:10.wav
-RECORD:11:11.wav
-RECORD:12:12.wav
-RECORD:13:13.wav
-RECORD:14:14.wav
-RECORD:15:15.wav
-RECORD:16:16.wav
-RECORD:17:17.wav
-RECORD:18:18.wav
-RECORD:19:19.wav
-RECORD:2:2.wav
-RECORD:20:20.wav
-RECORD:3:3.wav
-RECORD:3/4:3quarter.wav
-RECORD:3/8:3eight.wav
-RECORD:30:30.wav
-RECORD:380 FT:380ft.wav
-RECORD:4:4.wav
-RECORD:40:40.wav
-RECORD:5:5.wav
-RECORD:5/8:5eight.wav
-RECORD:6:6.wav
-RECORD:7:7.wav
-RECORD:8:8.wav
-RECORD:9:9.wav
-RECORD:A:A.wav
-RECORD:Advise ATC that you have information:AdviseATC.wav
-RECORD:AIRCRAFT DEICING RESIDUE:dicefluid.wav
-RECORD:Altimeter:altimeter.wav
-RECORD:and:and.wav
-RECORD:Approach:approach.wav
-RECORD:Arrival and departure:arrivalanddeparture.wav
-RECORD:ARRIVALS AND DEPARTURES:pause.wav
-RECORD:at:at.wav
-RECORD:ATIS INFO:information.wav
-RECORD:AUTO:automated.wav
-RECORD:B:B.wav
-RECORD:becoming:becoming.wav
-RECORD:BETWEEN:between.wav
-RECORD:BIRD ACTIVITY:bird.wav
-RECORD:BKN:broken.wav
-RECORD:blowing:blowing.wav
-RECORD:breaking actions:breaking.wav
-RECORD:breaking actions moderate:breakingmod.wav
-RECORD:C:C.wav
-RECORD:calm:calm.wav
-RECORD:cavok:cavok.wav
-RECORD:CB:cumulonimbus.wav
-RECORD:ceiling:ceiling.wav
-RECORD:CLSD:clsd.wav
-RECORD:CYBG:CYBG.wav
-RECORD:CYEG:CYEG.wav
-RECORD:CYFC:CYFC.wav
-RECORD:CYHM:CYHM.wav
-RECORD:CYHU:CYHU.wav
-RECORD:CYHZ:CYHZ.wav
-RECORD:CYMX:cymx.wav
-RECORD:CYOW:pause.wav
-RECORD:CYQB:CYQB.wav
-RECORD:CYQM:CYQM.wav
-RECORD:CYQX:CYQX.wav
-RECORD:CYUL:CYUL.wav
-RECORD:CYVR:CYVR.wav
-RECORD:CYWG:CYWG.wav
-RECORD:CYXU:CYXU.wav
-RECORD:CYYC:CYYC.wav
-RECORD:CYYT:CYYT.wav
-RECORD:CYYZ:CYYZ.wav
-RECORD:D:D.wav
-RECORD:degree:degree.wav
-RECORD:degrees:degrees.wav
-RECORD:departing:departing.wav
-RECORD:Departures:departure.wav
-RECORD:dew point:dewpoint.wav
-RECORD:downgrading:downgrading.wav
-RECORD:drifting:drifting.wav
-RECORD:drizzle:drizzle.wav
-RECORD:E:E.wav
-RECORD:end:end.wav
-RECORD:F:F.wav
-RECORD:feet:feet.wav
-RECORD:FEW:few.wav
-RECORD:FIRST 2752 FT RWY 06L NOT AVAILABLE. DECLARED DIST AVAIL RWY 24R TORA 8248 FT. TODA 9232 FT. ASDA 8248 FT. LDA 7068 FT:pause.wav
-RECORD:FIRST 2752 FT RWY 06L NOT AVAILABLE. DECLARED DIST AVAIL RWY 24R TORA 8248 FT. TODA 9232 FT. ASDA 8248 FT. LDA 7068 FT.:pause.wav
-RECORD:FIRST 2752 FT RWY 06L NOT AVAILABLE. THR 06L DISPLACED BY 3932 FT. DECLARED DIST AVAIL RWY 06L TORA, TODA, LDA AND ASDA 7068 FT.:pause.wav
-RECORD:FIRST 2948 FT RWY 06L CLSD. DECLARED DIST AVAIL RWY 24R TORA AND LDA 7068 FT. TODA 7268 FT AND ASDA 7852 FT.:twordt.wav
-RECORD:fog:fog.wav
-RECORD:freezing:freezing.wav
-RECORD:FROM:from.wav
-RECORD:G:G.wav
-RECORD:good:good.wav
-RECORD:grains:grains.wav
-RECORD:gusting:gusting.wav
-RECORD:H:H.wav
-RECORD:hail:hail.wav
-RECORD:haze:haze.wav
-RECORD:heavy:heavy.wav
-RECORD:hectopascal:hectopascal.wav
-RECORD:hundred:00.wav
-RECORD:I:I.wav
-RECORD:ice crystals:icecrystals.wav
-RECORD:ice pellets:icepellets.wav
-RECORD:ifr:ifr.wav
-RECORD:IFR:iFR.wav
-RECORD:ILS:ILS.wav
-RECORD:ILS CAT II:ILS CAT II.wav
-RECORD:ILS, RNAV Y AND Z:ilsrnavyandz.wav
-RECORD:in the vicinity:VC.wav
-RECORD:INFORM ARRIVAL OF REQUESTED APPROACH ON INITIAL CONTACT:informapp.wav
-RECORD:INFORM ATC ATIS:AdviseATC.wav
-RECORD:INFORM CYMX ATC ATIS:adviseatc.wav
-RECORD:INFORM CYOW ATC ATIS:adviseatc.wav
-RECORD:INFORM CYQB ATC ATIS:AdviseATC.wav
-RECORD:INFORM CYUL ATC ATIS:AdviseATC.wav
-RECORD:J:J.wav
-RECORD:K:K.wav
-RECORD:knots:knots.wav
-RECORD:L:L.wav
-RECORD:LAHSO IN USE. DIST AVAIL FOR RWY 24 5400FT FOR RWY 29 3800FT. ADVISE ATC ON INITIAL CONTACT IF UNABLE TO HOLD SHORT.:lahsoqb.wav
-RECORD:landing:landing.wav
-RECORD:LANDING AND DEPARTING:pause.wav
-RECORD:left:left.wav
-RECORD:less than:lessthan.wav
-RECORD:light:light.wav
-RECORD:LOC-BC:loc-bc.wav
-RECORD:LOCDME:locdme.wav
-RECORD:low:low.wav
-RECORD:M:M.wav
-RECORD:MIGRATORY BIRD ACTIVITY:migbird.wav
-RECORD:mist:mist.wav
-RECORD:moderate:moderate.wav
-RECORD:more than:morethan.wav
-RECORD:more than 10 km:more10km.wav
-RECORD:N:N.wav
-RECORD:NDB:ndb.wav
-RECORD:NE OF:neof.wav
-RECORD:neutral:neutral.wav
-RECORD:No clouds below 10000:clr.wav
-RECORD:O:O.wav
-RECORD:observation at:observation.wav
-RECORD:OBTAIN VFR CODE PRIOR ENTERING CLASS C AIRSPACE:cymxcode.wav
-RECORD:on first contact notify received info:firstcontact.wav
-RECORD:or:or.wav
-RECORD:OVC:overcast.wav
-RECORD:P:P.wav
-RECORD:partial:partial.wav
-RECORD:patches of fog:patchesoffog.wav
-RECORD:PILOTS SHALL INFORM ARRIVAL OF REQUESTED APPROACH ON INITIAL CONTACT:informapp.wav
-RECORD:Q:Q.wav
-RECORD:QNH:qnh.wav
-RECORD:R:R.wav
-RECORD:rain:rain.wav
-RECORD:recent:recent.wav
-RECORD:right:right.wav
-RECORD:RNAV:rnav.wav
-RECORD:RNAV ZULU OR YANKEE:pause.wav
-RECORD:RNAV ZULU OR YANKEE OR ILS:pause.wav
-RECORD:runway:runway.wav
-RECORD:RVR:RVR.wav
-RECORD:S:S.wav
-RECORD:SCT:scattered.wav
-RECORD:shallow:shallow.wav
-RECORD:showers:showers.wav
-RECORD:Sky clear:skyclear.wav
-RECORD:Sky conditions:skycondition.wav
-RECORD:small:small.wav
-RECORD:snow:snow.wav
-RECORD:SNOW REMOVAL IN PROGRESS:snowremoval.wav
-RECORD:SW:sw.wav
-RECORD:T:T.wav
-RECORD:TAKEOFF AND LANDING RWY 06L/24R USE FREQ 119 DECIMAL 3.:pause.wav
-RECORD:TAKEOFF AND LANDING RWY 06R/24L USE FREQ 119 DECIMAL 9.:pause.wav
-RECORD:TCU:TCU.wav
-RECORD:temperature:temperature.wav
-RECORD:THE IFR APPROACH IS AN:IFRappis.wav
-RECORD:thousand:000.wav
-RECORD:THRESHOLD:thr.wav
-RECORD:thunderstorm:thunderstorm.wav
-RECORD:to:to.wav
-RECORD:TWY:twy.wav
-RECORD:TWY E CLSD BETWEEN RWY 06L-24R AND TWY B:echoclsd.wav
-RECORD:U:U.wav
-RECORD:UNTIL FURTHER ADVISED:untilfurtheradvised.wav
-RECORD:upgrading:upgrading.wav
-RECORD:V:V.wav
-RECORD:variable:variable.wav
-RECORD:Vertical visibility:vv.wav
-RECORD:VFR:VFR.wav
-RECORD:VFR FLT NOT AUTH EXC HELI TIL 0000z:VFR not auth.wav
-RECORD:visibility:visibility.wav
-RECORD:visual:visual.wav
-RECORD:W:W.wav
-RECORD:weather at:wxat.wav
-RECORD:WHEN LDG RWY 24R, PLAN EXIT B2:pause.wav
-RECORD:WHEN PARALLEL RWYS ARE IN USE, SIMULTANEOUS IFR APPROACHES AND SIMULTANEOUS VISUAL APPROACHES TO PARALLEL RWYS ARE IN EFFECT:parvisapp.wav
-RECORD:WHEN PARALLEL RWYS ARE IN USE, SIMULTANEOUS ILS APPROACHES ARE IN EFFECT:notams.wav
-RECORD:widespread dust:widespreaddust.wav
-RECORD:wind:wind.wav
-RECORD:wind calm:windcalm.wav
-RECORD:with:with.wav
-RECORD:X:X.wav
-RECORD:Y:Y.wav
-RECORD:Z:Z.wav
-ITEM:CYQB:XXX
-ITEM:ATIS INFO:XXX
-ITEM:M:
+RECORD:-:empty.wav
+RECORD: :empty.wav
+RECORD:,:empty.wav
+RECORD:.:empty.wav
+RECORD:0:empty.wav
+RECORD:000:empty.wav
+RECORD:1:empty.wav
+RECORD:1/2:empty.wav
+RECORD:1/4:empty.wav
+RECORD:1/8:empty.wav
+RECORD:10:empty.wav
+RECORD:11:empty.wav
+RECORD:12:empty.wav
+RECORD:13:empty.wav
+RECORD:14:empty.wav
+RECORD:15:empty.wav
+RECORD:16:empty.wav
+RECORD:17:empty.wav
+RECORD:18:empty.wav
+RECORD:19:empty.wav
+RECORD:2:empty.wav
+RECORD:20:empty.wav
+RECORD:3:empty.wav
+RECORD:3/4:empty.wav
+RECORD:3/8:empty.wav
+RECORD:30:empty.wav
+RECORD:380 FT:empty.wav
+RECORD:4:empty.wav
+RECORD:40:empty.wav
+RECORD:5:empty.wav
+RECORD:5/8:empty.wav
+RECORD:6:empty.wav
+RECORD:7:empty.wav
+RECORD:8:empty.wav
+RECORD:9:empty.wav
+RECORD:A:empty.wav
+RECORD:Advise ATC that you have information:empty.wav
+RECORD:AIRCRAFT DEICING RESIDUE:empty.wav
+RECORD:Altimeter:empty.wav
+RECORD:and:empty.wav
+RECORD:Approach:empty.wav
+RECORD:Arrival and departure:empty.wav
+RECORD:ARRIVALS AND DEPARTURES:empty.wav
+RECORD:at:empty.wav
+RECORD:ATIS INFO:empty.wav
+RECORD:AUTO:empty.wav
+RECORD:B:empty.wav
+RECORD:becoming:empty.wav
+RECORD:BETWEEN:empty.wav
+RECORD:BIRD ACTIVITY:empty.wav
+RECORD:BKN:empty.wav
+RECORD:blowing:empty.wav
+RECORD:breaking actions:empty.wav
+RECORD:breaking actions moderate:empty.wav
+RECORD:C:empty.wav
+RECORD:calm:empty.wav
+RECORD:cavok:empty.wav
+RECORD:CB:empty.wav
+RECORD:ceiling:empty.wav
+RECORD:CLSD:empty.wav
+RECORD:CYBG:empty.wav
+RECORD:CYEG:empty.wav
+RECORD:CYFC:empty.wav
+RECORD:CYHM:empty.wav
+RECORD:CYHU:empty.wav
+RECORD:CYHZ:empty.wav
+RECORD:CYMX:empty.wav
+RECORD:CYOW:empty.wav
+RECORD:CYQB:empty.wav
+RECORD:CYQM:empty.wav
+RECORD:CYQX:empty.wav
+RECORD:CYUL:empty.wav
+RECORD:CYVR:empty.wav
+RECORD:CYWG:empty.wav
+RECORD:CYXU:empty.wav
+RECORD:CYYC:empty.wav
+RECORD:CYYT:empty.wav
+RECORD:CYYZ:empty.wav
+RECORD:D:empty.wav
+RECORD:degree:empty.wav
+RECORD:degrees:empty.wav
+RECORD:departing:empty.wav
+RECORD:Departures:empty.wav
+RECORD:dew point:empty.wav
+RECORD:downgrading:empty.wav
+RECORD:drifting:empty.wav
+RECORD:drizzle:empty.wav
+RECORD:E:empty.wav
+RECORD:end:empty.wav
+RECORD:F:empty.wav
+RECORD:feet:empty.wav
+RECORD:FEW:empty.wav
+RECORD:FIRST 2752 FT RWY 06L NOT AVAILABLE. DECLARED DIST AVAIL RWY 24R TORA 8248 FT. TODA 9232 FT. ASDA 8248 FT. LDA 7068 FT:empty.wav
+RECORD:FIRST 2752 FT RWY 06L NOT AVAILABLE. DECLARED DIST AVAIL RWY 24R TORA 8248 FT. TODA 9232 FT. ASDA 8248 FT. LDA 7068 FT.:empty.wav
+RECORD:FIRST 2752 FT RWY 06L NOT AVAILABLE. THR 06L DISPLACED BY 3932 FT. DECLARED DIST AVAIL RWY 06L TORA, TODA, LDA AND ASDA 7068 FT.:empty.wav
+RECORD:FIRST 2948 FT RWY 06L CLSD. DECLARED DIST AVAIL RWY 24R TORA AND LDA 7068 FT. TODA 7268 FT AND ASDA 7852 FT.:empty.wav
+RECORD:fog:empty.wav
+RECORD:freezing:empty.wav
+RECORD:FROM:empty.wav
+RECORD:G:empty.wav
+RECORD:good:empty.wav
+RECORD:grains:empty.wav
+RECORD:gusting:empty.wav
+RECORD:H:empty.wav
+RECORD:hail:empty.wav
+RECORD:haze:empty.wav
+RECORD:heavy:empty.wav
+RECORD:hectopascal:empty.wav
+RECORD:hundred:empty.wav
+RECORD:I:empty.wav
+RECORD:ice crystals:empty.wav
+RECORD:ice pellets:empty.wav
+RECORD:IFR:empty.wav
+RECORD:ifr:empty.wav
+RECORD:ILS:empty.wav
+RECORD:ILS CAT II:empty.wav
+RECORD:ILS, RNAV Y AND Z:empty.wav
+RECORD:in the vicinity:empty.wav
+RECORD:INFORM ARRIVAL OF REQUESTED APPROACH ON INITIAL CONTACT:empty.wav
+RECORD:INFORM ATC ATIS:empty.wav
+RECORD:INFORM CYMX ATC ATIS:empty.wav
+RECORD:INFORM CYOW ATC ATIS:empty.wav
+RECORD:INFORM CYQB ATC ATIS:empty.wav
+RECORD:INFORM CYUL ATC ATIS:empty.wav
+RECORD:J:empty.wav
+RECORD:K:empty.wav
+RECORD:knots:empty.wav
+RECORD:L:empty.wav
+RECORD:LAHSO IN USE. DIST AVAIL FOR RWY 24 5400FT FOR RWY 29 3800FT. ADVISE ATC ON INITIAL CONTACT IF UNABLE TO HOLD SHORT.:empty.wav
+RECORD:landing:empty.wav
+RECORD:LANDING AND DEPARTING:empty.wav
+RECORD:left:empty.wav
+RECORD:less than:empty.wav
+RECORD:light:empty.wav
+RECORD:LOC-BC:empty.wav
+RECORD:LOCDME:empty.wav
+RECORD:low:empty.wav
+RECORD:M:empty.wav
+RECORD:MIGRATORY BIRD ACTIVITY:empty.wav
+RECORD:mist:empty.wav
+RECORD:moderate:empty.wav
+RECORD:more than:empty.wav
+RECORD:more than 10 km:empty.wav
+RECORD:N:empty.wav
+RECORD:NDB:empty.wav
+RECORD:NE OF:empty.wav
+RECORD:neutral:empty.wav
+RECORD:No clouds below 10000:empty.wav
+RECORD:O:empty.wav
+RECORD:observation at:empty.wav
+RECORD:OBTAIN VFR CODE PRIOR ENTERING CLASS C AIRSPACE:empty.wav
+RECORD:on first contact notify received info:empty.wav
+RECORD:or:empty.wav
+RECORD:OVC:empty.wav
+RECORD:P:empty.wav
+RECORD:partial:empty.wav
+RECORD:patches of fog:empty.wav
+RECORD:PILOTS SHALL INFORM ARRIVAL OF REQUESTED APPROACH ON INITIAL CONTACT:empty.wav
+RECORD:Q:empty.wav
+RECORD:QNH:empty.wav
+RECORD:R:empty.wav
+RECORD:rain:empty.wav
+RECORD:recent:empty.wav
+RECORD:right:empty.wav
+RECORD:RNAV:empty.wav
+RECORD:RNAV ZULU OR YANKEE:empty.wav
+RECORD:RNAV ZULU OR YANKEE OR ILS:empty.wav
+RECORD:runway:empty.wav
+RECORD:RVR:empty.wav
+RECORD:S:empty.wav
+RECORD:SCT:empty.wav
+RECORD:shallow:empty.wav
+RECORD:showers:empty.wav
+RECORD:Sky clear:empty.wav
+RECORD:Sky conditions:empty.wav
+RECORD:small:empty.wav
+RECORD:snow:empty.wav
+RECORD:SNOW REMOVAL IN PROGRESS:empty.wav
+RECORD:SW:empty.wav
+RECORD:T:empty.wav
+RECORD:TAKEOFF AND LANDING RWY 06L/24R USE FREQ 119 DECIMAL 3.:empty.wav
+RECORD:TAKEOFF AND LANDING RWY 06R/24L USE FREQ 119 DECIMAL 9.:empty.wav
+RECORD:TCU:empty.wav
+RECORD:temperature:empty.wav
+RECORD:THE IFR APPROACH IS AN:empty.wav
+RECORD:thousand:empty.wav
+RECORD:THRESHOLD:empty.wav
+RECORD:thunderstorm:empty.wav
+RECORD:to:empty.wav
+RECORD:TWY:empty.wav
+RECORD:TWY E CLSD BETWEEN RWY 06L-24R AND TWY B:empty.wav
+RECORD:U:empty.wav
+RECORD:UNTIL FURTHER ADVISED:empty.wav
+RECORD:upgrading:empty.wav
+RECORD:V:empty.wav
+RECORD:variable:empty.wav
+RECORD:Vertical visibility:empty.wav
+RECORD:VFR:empty.wav
+RECORD:VFR FLT NOT AUTH EXC HELI TIL 0000z:empty.wav
+RECORD:visibility:empty.wav
+RECORD:visual:empty.wav
+RECORD:W:empty.wav
+RECORD:weather at:empty.wav
+RECORD:WHEN LDG RWY 24R, PLAN EXIT B2:empty.wav
+RECORD:WHEN PARALLEL RWYS ARE IN USE, SIMULTANEOUS IFR APPROACHES AND SIMULTANEOUS VISUAL APPROACHES TO PARALLEL RWYS ARE IN EFFECT:empty.wav
+RECORD:WHEN PARALLEL RWYS ARE IN USE, SIMULTANEOUS ILS APPROACHES ARE IN EFFECT:empty.wav
+RECORD:widespread dust:empty.wav
+RECORD:wind:empty.wav
+RECORD:wind calm:empty.wav
+RECORD:with:empty.wav
+RECORD:X:empty.wav
+RECORD:Y:empty.wav
+RECORD:Z:empty.wav
+ITEM:Montreal:
+ITEM:International:
+ITEM:Airport:
+ITEM:information :
+ITEM:DELTA:XXX
 ITEM:,:XXX
-ITEM:WEATHER AT:XXX
-ITEM:0200Z:
+ITEM:weather:
+ITEM:at:
+ITEM:1200:
+ITEM:Zulu:
+ITEM:;:XXX
+ITEM:Wind:
+ITEM:020:
+ITEM:at:
 ITEM:,:XXX
-ITEM:WIND:XXX
-ITEM:280:
-ITEM:AT:XXX
-ITEM:{8}:
-ITEM:,:XXX
-ITEM:VISIBILITY:XXX
+ITEM:visibility:
 ITEM:15:
+ITEM:;:XXX
+ITEM:Few:
+ITEM:clouds:
+ITEM:at:
+ITEM:25000:
+ITEM:;:XXX
+ITEM:Temperature:
+ITEM:20:
 ITEM:,:XXX
-ITEM:FEW:XXX
-ITEM:{4500}:
-ITEM:,:XXX
-ITEM:FEW:XXX
-ITEM:{25000}:
-ITEM:,:XXX
-ITEM:,:XXX
-ITEM:TEMPERATURE:XXX
-ITEM:19:
-ITEM:,:XXX
-ITEM:DEW POINT:XXX
+ITEM:dew:
+ITEM:point:
 ITEM:16:
 ITEM:,:XXX
+ITEM:altimeter:
+ITEM:3015:
+ITEM:;:XXX
+ITEM:IFR:
+ITEM:approach:
+ITEM:ILS:
+ITEM:runway:
+ITEM:24L:
 ITEM:,:XXX
-ITEM:ALTIMETER:XXX
-ITEM:3001:
-ITEM:,:XXX
-ITEM:IFR:XXX
-ITEM:APPROACH:XXX
-ITEM:RNAV ZULU OR YANKEE:XXX
-ITEM:RUNWAY:XXX
-ITEM:29:
-ITEM:,:XXX
-ITEM:ARRIVALS AND DEPARTURES:XXX
-ITEM:RUNWAY:XXX
-ITEM:29:
-ITEM:,:XXX
-ITEM:INFORM CYQB ATC ATIS:XXX
-ITEM:M:
-ITEM:.:XXX
+ITEM:departures:
+ITEM:runway:
+ITEM:24L:
+ITEM:;:XXX
+ITEM:Advise:
+ITEM:ATC:
+ITEM:that:
+ITEM:you:
+ITEM:have:
+ITEM:information :
+ITEM:DELTA:XXX
+ITEM:;:XXX
