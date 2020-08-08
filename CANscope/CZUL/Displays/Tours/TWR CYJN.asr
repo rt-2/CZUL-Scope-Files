@@ -1,6 +1,16 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+Fixes:DEBGI:name
+Fixes:DEBGI:symbol
+Fixes:EMEPU:name
+Fixes:EMEPU:symbol
+Fixes:REXEN:name
+Fixes:REXEN:symbol
+Fixes:SINLI:name
+Fixes:SINLI:symbol
+Fixes:VEVSU:name
+Fixes:VEVSU:symbol
 Geo:AIRPORT LAYOUTS:
 Geo:GEO:
 Runways:CYJN St-Jean 02-20:extended centerline 1
@@ -48,6 +58,8 @@ Runways:CYJN St-Jean 11-29:extended centerline 2 right base
 Runways:CYJN St-Jean 11-29:extended centerline 2 right ticks
 Runways:CYJN St-Jean 11-29:extended centerline 2 right vectoring
 Runways:CYJN St-Jean 11-29:name
+VORs:YJN:name
+VORs:YJN:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
@@ -56,7 +68,7 @@ LEADER:5
 SHOWLEADER:1
 TURNLEADER:0
 HISTORY_DOTS:5
-SIMULATION_MODE:2
+SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
 DisplayRotation:15.50000
