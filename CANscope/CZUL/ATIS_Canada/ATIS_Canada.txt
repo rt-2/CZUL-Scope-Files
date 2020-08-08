@@ -1,216 +1,216 @@
-RECORD:-:empty.wav
-RECORD: :empty.wav
-RECORD:,:empty.wav
-RECORD:.:empty.wav
-RECORD:0:empty.wav
-RECORD:000:empty.wav
-RECORD:1:empty.wav
-RECORD:1/2:empty.wav
-RECORD:1/4:empty.wav
-RECORD:1/8:empty.wav
-RECORD:10:empty.wav
-RECORD:11:empty.wav
-RECORD:12:empty.wav
-RECORD:13:empty.wav
-RECORD:14:empty.wav
-RECORD:15:empty.wav
-RECORD:16:empty.wav
-RECORD:17:empty.wav
-RECORD:18:empty.wav
-RECORD:19:empty.wav
-RECORD:2:empty.wav
-RECORD:20:empty.wav
-RECORD:3:empty.wav
-RECORD:3/4:empty.wav
-RECORD:3/8:empty.wav
-RECORD:30:empty.wav
-RECORD:380 FT:empty.wav
-RECORD:4:empty.wav
-RECORD:40:empty.wav
-RECORD:5:empty.wav
-RECORD:5/8:empty.wav
-RECORD:6:empty.wav
-RECORD:7:empty.wav
-RECORD:8:empty.wav
-RECORD:9:empty.wav
-RECORD:A:empty.wav
-RECORD:Advise ATC that you have information:empty.wav
-RECORD:AIRCRAFT DEICING RESIDUE:empty.wav
-RECORD:Altimeter:empty.wav
-RECORD:and:empty.wav
-RECORD:Approach:empty.wav
-RECORD:Arrival and departure:empty.wav
-RECORD:ARRIVALS AND DEPARTURES:empty.wav
-RECORD:at:empty.wav
-RECORD:ATIS INFO:empty.wav
-RECORD:AUTO:empty.wav
-RECORD:B:empty.wav
-RECORD:becoming:empty.wav
-RECORD:BETWEEN:empty.wav
-RECORD:BIRD ACTIVITY:empty.wav
-RECORD:BKN:empty.wav
-RECORD:blowing:empty.wav
-RECORD:breaking actions:empty.wav
-RECORD:breaking actions moderate:empty.wav
-RECORD:C:empty.wav
-RECORD:calm:empty.wav
-RECORD:cavok:empty.wav
-RECORD:CB:empty.wav
-RECORD:ceiling:empty.wav
-RECORD:CLSD:empty.wav
-RECORD:CYBG:empty.wav
-RECORD:CYEG:empty.wav
-RECORD:CYFC:empty.wav
-RECORD:CYHM:empty.wav
-RECORD:CYHU:empty.wav
-RECORD:CYHZ:empty.wav
-RECORD:CYMX:empty.wav
-RECORD:CYOW:empty.wav
-RECORD:CYQB:empty.wav
-RECORD:CYQM:empty.wav
-RECORD:CYQX:empty.wav
-RECORD:CYUL:empty.wav
-RECORD:CYVR:empty.wav
-RECORD:CYWG:empty.wav
-RECORD:CYXU:empty.wav
-RECORD:CYYC:empty.wav
-RECORD:CYYT:empty.wav
-RECORD:CYYZ:empty.wav
-RECORD:D:empty.wav
-RECORD:degree:empty.wav
-RECORD:degrees:empty.wav
-RECORD:departing:empty.wav
-RECORD:Departures:empty.wav
-RECORD:dew point:empty.wav
-RECORD:downgrading:empty.wav
-RECORD:drifting:empty.wav
-RECORD:drizzle:empty.wav
-RECORD:E:empty.wav
-RECORD:end:empty.wav
-RECORD:F:empty.wav
-RECORD:feet:empty.wav
-RECORD:FEW:empty.wav
-RECORD:FIRST 2752 FT RWY 06L NOT AVAILABLE. DECLARED DIST AVAIL RWY 24R TORA 8248 FT. TODA 9232 FT. ASDA 8248 FT. LDA 7068 FT:empty.wav
-RECORD:FIRST 2752 FT RWY 06L NOT AVAILABLE. DECLARED DIST AVAIL RWY 24R TORA 8248 FT. TODA 9232 FT. ASDA 8248 FT. LDA 7068 FT.:empty.wav
-RECORD:FIRST 2752 FT RWY 06L NOT AVAILABLE. THR 06L DISPLACED BY 3932 FT. DECLARED DIST AVAIL RWY 06L TORA, TODA, LDA AND ASDA 7068 FT.:empty.wav
-RECORD:FIRST 2948 FT RWY 06L CLSD. DECLARED DIST AVAIL RWY 24R TORA AND LDA 7068 FT. TODA 7268 FT AND ASDA 7852 FT.:empty.wav
-RECORD:fog:empty.wav
-RECORD:freezing:empty.wav
-RECORD:FROM:empty.wav
-RECORD:G:empty.wav
-RECORD:good:empty.wav
-RECORD:grains:empty.wav
-RECORD:gusting:empty.wav
-RECORD:H:empty.wav
-RECORD:hail:empty.wav
-RECORD:haze:empty.wav
-RECORD:heavy:empty.wav
-RECORD:hectopascal:empty.wav
-RECORD:hundred:empty.wav
-RECORD:I:empty.wav
-RECORD:ice crystals:empty.wav
-RECORD:ice pellets:empty.wav
-RECORD:IFR:empty.wav
-RECORD:ifr:empty.wav
-RECORD:ILS:empty.wav
-RECORD:ILS CAT II:empty.wav
-RECORD:ILS, RNAV Y AND Z:empty.wav
-RECORD:in the vicinity:empty.wav
-RECORD:INFORM ARRIVAL OF REQUESTED APPROACH ON INITIAL CONTACT:empty.wav
-RECORD:INFORM ATC ATIS:empty.wav
-RECORD:INFORM CYMX ATC ATIS:empty.wav
-RECORD:INFORM CYOW ATC ATIS:empty.wav
-RECORD:INFORM CYQB ATC ATIS:empty.wav
-RECORD:INFORM CYUL ATC ATIS:empty.wav
-RECORD:J:empty.wav
-RECORD:K:empty.wav
-RECORD:knots:empty.wav
-RECORD:L:empty.wav
-RECORD:LAHSO IN USE. DIST AVAIL FOR RWY 24 5400FT FOR RWY 29 3800FT. ADVISE ATC ON INITIAL CONTACT IF UNABLE TO HOLD SHORT.:empty.wav
-RECORD:landing:empty.wav
-RECORD:LANDING AND DEPARTING:empty.wav
-RECORD:left:empty.wav
-RECORD:less than:empty.wav
-RECORD:light:empty.wav
-RECORD:LOC-BC:empty.wav
-RECORD:LOCDME:empty.wav
-RECORD:low:empty.wav
-RECORD:M:empty.wav
-RECORD:MIGRATORY BIRD ACTIVITY:empty.wav
-RECORD:mist:empty.wav
-RECORD:moderate:empty.wav
-RECORD:more than:empty.wav
-RECORD:more than 10 km:empty.wav
-RECORD:N:empty.wav
-RECORD:NDB:empty.wav
-RECORD:NE OF:empty.wav
-RECORD:neutral:empty.wav
-RECORD:No clouds below 10000:empty.wav
-RECORD:O:empty.wav
-RECORD:observation at:empty.wav
-RECORD:OBTAIN VFR CODE PRIOR ENTERING CLASS C AIRSPACE:empty.wav
-RECORD:on first contact notify received info:empty.wav
-RECORD:or:empty.wav
-RECORD:OVC:empty.wav
-RECORD:P:empty.wav
-RECORD:partial:empty.wav
-RECORD:patches of fog:empty.wav
-RECORD:PILOTS SHALL INFORM ARRIVAL OF REQUESTED APPROACH ON INITIAL CONTACT:empty.wav
-RECORD:Q:empty.wav
-RECORD:QNH:empty.wav
-RECORD:R:empty.wav
-RECORD:rain:empty.wav
-RECORD:recent:empty.wav
-RECORD:right:empty.wav
-RECORD:RNAV:empty.wav
-RECORD:RNAV ZULU OR YANKEE:empty.wav
-RECORD:RNAV ZULU OR YANKEE OR ILS:empty.wav
-RECORD:runway:empty.wav
-RECORD:RVR:empty.wav
-RECORD:S:empty.wav
-RECORD:SCT:empty.wav
-RECORD:shallow:empty.wav
-RECORD:showers:empty.wav
-RECORD:Sky clear:empty.wav
-RECORD:Sky conditions:empty.wav
-RECORD:small:empty.wav
-RECORD:snow:empty.wav
-RECORD:SNOW REMOVAL IN PROGRESS:empty.wav
-RECORD:SW:empty.wav
-RECORD:T:empty.wav
-RECORD:TAKEOFF AND LANDING RWY 06L/24R USE FREQ 119 DECIMAL 3.:empty.wav
-RECORD:TAKEOFF AND LANDING RWY 06R/24L USE FREQ 119 DECIMAL 9.:empty.wav
-RECORD:TCU:empty.wav
-RECORD:temperature:empty.wav
-RECORD:THE IFR APPROACH IS AN:empty.wav
-RECORD:thousand:empty.wav
-RECORD:THRESHOLD:empty.wav
-RECORD:thunderstorm:empty.wav
-RECORD:to:empty.wav
-RECORD:TWY:empty.wav
-RECORD:TWY E CLSD BETWEEN RWY 06L-24R AND TWY B:empty.wav
-RECORD:U:empty.wav
-RECORD:UNTIL FURTHER ADVISED:empty.wav
-RECORD:upgrading:empty.wav
-RECORD:V:empty.wav
-RECORD:variable:empty.wav
-RECORD:Vertical visibility:empty.wav
-RECORD:VFR:empty.wav
-RECORD:VFR FLT NOT AUTH EXC HELI TIL 0000z:empty.wav
-RECORD:visibility:empty.wav
-RECORD:visual:empty.wav
-RECORD:W:empty.wav
-RECORD:weather at:empty.wav
-RECORD:WHEN LDG RWY 24R, PLAN EXIT B2:empty.wav
-RECORD:WHEN PARALLEL RWYS ARE IN USE, SIMULTANEOUS IFR APPROACHES AND SIMULTANEOUS VISUAL APPROACHES TO PARALLEL RWYS ARE IN EFFECT:empty.wav
-RECORD:WHEN PARALLEL RWYS ARE IN USE, SIMULTANEOUS ILS APPROACHES ARE IN EFFECT:empty.wav
-RECORD:widespread dust:empty.wav
-RECORD:wind:empty.wav
-RECORD:wind calm:empty.wav
-RECORD:with:empty.wav
-RECORD:X:empty.wav
-RECORD:Y:empty.wav
-RECORD:Z:empty.wav
+RECORD:-:afv-noatis.empty.wav
+RECORD: :afv-noatis.empty.wav
+RECORD:,:afv-noatis.empty.wav
+RECORD:.:afv-noatis.empty.wav
+RECORD:0:afv-noatis.empty.wav
+RECORD:000:afv-noatis.empty.wav
+RECORD:1:afv-noatis.empty.wav
+RECORD:1/2:afv-noatis.empty.wav
+RECORD:1/4:afv-noatis.empty.wav
+RECORD:1/8:afv-noatis.empty.wav
+RECORD:10:afv-noatis.empty.wav
+RECORD:11:afv-noatis.empty.wav
+RECORD:12:afv-noatis.empty.wav
+RECORD:13:afv-noatis.empty.wav
+RECORD:14:afv-noatis.empty.wav
+RECORD:15:afv-noatis.empty.wav
+RECORD:16:afv-noatis.empty.wav
+RECORD:17:afv-noatis.empty.wav
+RECORD:18:afv-noatis.empty.wav
+RECORD:19:afv-noatis.empty.wav
+RECORD:2:afv-noatis.empty.wav
+RECORD:20:afv-noatis.empty.wav
+RECORD:3:afv-noatis.empty.wav
+RECORD:3/4:afv-noatis.empty.wav
+RECORD:3/8:afv-noatis.empty.wav
+RECORD:30:afv-noatis.empty.wav
+RECORD:380 FT:afv-noatis.empty.wav
+RECORD:4:afv-noatis.empty.wav
+RECORD:40:afv-noatis.empty.wav
+RECORD:5:afv-noatis.empty.wav
+RECORD:5/8:afv-noatis.empty.wav
+RECORD:6:afv-noatis.empty.wav
+RECORD:7:afv-noatis.empty.wav
+RECORD:8:afv-noatis.empty.wav
+RECORD:9:afv-noatis.empty.wav
+RECORD:A:afv-noatis.empty.wav
+RECORD:Advise ATC that you have information:afv-noatis.empty.wav
+RECORD:AIRCRAFT DEICING RESIDUE:afv-noatis.empty.wav
+RECORD:Altimeter:afv-noatis.empty.wav
+RECORD:and:afv-noatis.empty.wav
+RECORD:Approach:afv-noatis.empty.wav
+RECORD:Arrival and departure:afv-noatis.empty.wav
+RECORD:ARRIVALS AND DEPARTURES:afv-noatis.empty.wav
+RECORD:at:afv-noatis.empty.wav
+RECORD:ATIS INFO:afv-noatis.empty.wav
+RECORD:AUTO:afv-noatis.empty.wav
+RECORD:B:afv-noatis.empty.wav
+RECORD:becoming:afv-noatis.empty.wav
+RECORD:BETWEEN:afv-noatis.empty.wav
+RECORD:BIRD ACTIVITY:afv-noatis.empty.wav
+RECORD:BKN:afv-noatis.empty.wav
+RECORD:blowing:afv-noatis.empty.wav
+RECORD:breaking actions:afv-noatis.empty.wav
+RECORD:breaking actions moderate:afv-noatis.empty.wav
+RECORD:C:afv-noatis.empty.wav
+RECORD:calm:afv-noatis.empty.wav
+RECORD:cavok:afv-noatis.empty.wav
+RECORD:CB:afv-noatis.empty.wav
+RECORD:ceiling:afv-noatis.empty.wav
+RECORD:CLSD:afv-noatis.empty.wav
+RECORD:CYBG:afv-noatis.empty.wav
+RECORD:CYEG:afv-noatis.empty.wav
+RECORD:CYFC:afv-noatis.empty.wav
+RECORD:CYHM:afv-noatis.empty.wav
+RECORD:CYHU:afv-noatis.empty.wav
+RECORD:CYHZ:afv-noatis.empty.wav
+RECORD:CYMX:afv-noatis.empty.wav
+RECORD:CYOW:afv-noatis.empty.wav
+RECORD:CYQB:afv-noatis.empty.wav
+RECORD:CYQM:afv-noatis.empty.wav
+RECORD:CYQX:afv-noatis.empty.wav
+RECORD:CYUL:afv-noatis.empty.wav
+RECORD:CYVR:afv-noatis.empty.wav
+RECORD:CYWG:afv-noatis.empty.wav
+RECORD:CYXU:afv-noatis.empty.wav
+RECORD:CYYC:afv-noatis.empty.wav
+RECORD:CYYT:afv-noatis.empty.wav
+RECORD:CYYZ:afv-noatis.empty.wav
+RECORD:D:afv-noatis.empty.wav
+RECORD:degree:afv-noatis.empty.wav
+RECORD:degrees:afv-noatis.empty.wav
+RECORD:departing:afv-noatis.empty.wav
+RECORD:Departures:afv-noatis.empty.wav
+RECORD:dew point:afv-noatis.empty.wav
+RECORD:downgrading:afv-noatis.empty.wav
+RECORD:drifting:afv-noatis.empty.wav
+RECORD:drizzle:afv-noatis.empty.wav
+RECORD:E:afv-noatis.empty.wav
+RECORD:end:afv-noatis.empty.wav
+RECORD:F:afv-noatis.empty.wav
+RECORD:feet:afv-noatis.empty.wav
+RECORD:FEW:afv-noatis.empty.wav
+RECORD:FIRST 2752 FT RWY 06L NOT AVAILABLE. DECLARED DIST AVAIL RWY 24R TORA 8248 FT. TODA 9232 FT. ASDA 8248 FT. LDA 7068 FT:afv-noatis.empty.wav
+RECORD:FIRST 2752 FT RWY 06L NOT AVAILABLE. DECLARED DIST AVAIL RWY 24R TORA 8248 FT. TODA 9232 FT. ASDA 8248 FT. LDA 7068 FT.:afv-noatis.empty.wav
+RECORD:FIRST 2752 FT RWY 06L NOT AVAILABLE. THR 06L DISPLACED BY 3932 FT. DECLARED DIST AVAIL RWY 06L TORA, TODA, LDA AND ASDA 7068 FT.:afv-noatis.empty.wav
+RECORD:FIRST 2948 FT RWY 06L CLSD. DECLARED DIST AVAIL RWY 24R TORA AND LDA 7068 FT. TODA 7268 FT AND ASDA 7852 FT.:afv-noatis.empty.wav
+RECORD:fog:afv-noatis.empty.wav
+RECORD:freezing:afv-noatis.empty.wav
+RECORD:FROM:afv-noatis.empty.wav
+RECORD:G:afv-noatis.empty.wav
+RECORD:good:afv-noatis.empty.wav
+RECORD:grains:afv-noatis.empty.wav
+RECORD:gusting:afv-noatis.empty.wav
+RECORD:H:afv-noatis.empty.wav
+RECORD:hail:afv-noatis.empty.wav
+RECORD:haze:afv-noatis.empty.wav
+RECORD:heavy:afv-noatis.empty.wav
+RECORD:hectopascal:afv-noatis.empty.wav
+RECORD:hundred:afv-noatis.empty.wav
+RECORD:I:afv-noatis.empty.wav
+RECORD:ice crystals:afv-noatis.empty.wav
+RECORD:ice pellets:afv-noatis.empty.wav
+RECORD:IFR:afv-noatis.empty.wav
+RECORD:ifr:afv-noatis.empty.wav
+RECORD:ILS:afv-noatis.empty.wav
+RECORD:ILS CAT II:afv-noatis.empty.wav
+RECORD:ILS, RNAV Y AND Z:afv-noatis.empty.wav
+RECORD:in the vicinity:afv-noatis.empty.wav
+RECORD:INFORM ARRIVAL OF REQUESTED APPROACH ON INITIAL CONTACT:afv-noatis.empty.wav
+RECORD:INFORM ATC ATIS:afv-noatis.empty.wav
+RECORD:INFORM CYMX ATC ATIS:afv-noatis.empty.wav
+RECORD:INFORM CYOW ATC ATIS:afv-noatis.empty.wav
+RECORD:INFORM CYQB ATC ATIS:afv-noatis.empty.wav
+RECORD:INFORM CYUL ATC ATIS:afv-noatis.empty.wav
+RECORD:J:afv-noatis.empty.wav
+RECORD:K:afv-noatis.empty.wav
+RECORD:knots:afv-noatis.empty.wav
+RECORD:L:afv-noatis.empty.wav
+RECORD:LAHSO IN USE. DIST AVAIL FOR RWY 24 5400FT FOR RWY 29 3800FT. ADVISE ATC ON INITIAL CONTACT IF UNABLE TO HOLD SHORT.:afv-noatis.empty.wav
+RECORD:landing:afv-noatis.empty.wav
+RECORD:LANDING AND DEPARTING:afv-noatis.empty.wav
+RECORD:left:afv-noatis.empty.wav
+RECORD:less than:afv-noatis.empty.wav
+RECORD:light:afv-noatis.empty.wav
+RECORD:LOC-BC:afv-noatis.empty.wav
+RECORD:LOCDME:afv-noatis.empty.wav
+RECORD:low:afv-noatis.empty.wav
+RECORD:M:afv-noatis.empty.wav
+RECORD:MIGRATORY BIRD ACTIVITY:afv-noatis.empty.wav
+RECORD:mist:afv-noatis.empty.wav
+RECORD:moderate:afv-noatis.empty.wav
+RECORD:more than:afv-noatis.empty.wav
+RECORD:more than 10 km:afv-noatis.empty.wav
+RECORD:N:afv-noatis.empty.wav
+RECORD:NDB:afv-noatis.empty.wav
+RECORD:NE OF:afv-noatis.empty.wav
+RECORD:neutral:afv-noatis.empty.wav
+RECORD:No clouds below 10000:afv-noatis.empty.wav
+RECORD:O:afv-noatis.empty.wav
+RECORD:observation at:afv-noatis.empty.wav
+RECORD:OBTAIN VFR CODE PRIOR ENTERING CLASS C AIRSPACE:afv-noatis.empty.wav
+RECORD:on first contact notify received info:afv-noatis.empty.wav
+RECORD:or:afv-noatis.empty.wav
+RECORD:OVC:afv-noatis.empty.wav
+RECORD:P:afv-noatis.empty.wav
+RECORD:partial:afv-noatis.empty.wav
+RECORD:patches of fog:afv-noatis.empty.wav
+RECORD:PILOTS SHALL INFORM ARRIVAL OF REQUESTED APPROACH ON INITIAL CONTACT:afv-noatis.empty.wav
+RECORD:Q:afv-noatis.empty.wav
+RECORD:QNH:afv-noatis.empty.wav
+RECORD:R:afv-noatis.empty.wav
+RECORD:rain:afv-noatis.empty.wav
+RECORD:recent:afv-noatis.empty.wav
+RECORD:right:afv-noatis.empty.wav
+RECORD:RNAV:afv-noatis.empty.wav
+RECORD:RNAV ZULU OR YANKEE:afv-noatis.empty.wav
+RECORD:RNAV ZULU OR YANKEE OR ILS:afv-noatis.empty.wav
+RECORD:runway:afv-noatis.empty.wav
+RECORD:RVR:afv-noatis.empty.wav
+RECORD:S:afv-noatis.empty.wav
+RECORD:SCT:afv-noatis.empty.wav
+RECORD:shallow:afv-noatis.empty.wav
+RECORD:showers:afv-noatis.empty.wav
+RECORD:Sky clear:afv-noatis.empty.wav
+RECORD:Sky conditions:afv-noatis.empty.wav
+RECORD:small:afv-noatis.empty.wav
+RECORD:snow:afv-noatis.empty.wav
+RECORD:SNOW REMOVAL IN PROGRESS:afv-noatis.empty.wav
+RECORD:SW:afv-noatis.empty.wav
+RECORD:T:afv-noatis.empty.wav
+RECORD:TAKEOFF AND LANDING RWY 06L/24R USE FREQ 119 DECIMAL 3.:afv-noatis.empty.wav
+RECORD:TAKEOFF AND LANDING RWY 06R/24L USE FREQ 119 DECIMAL 9.:afv-noatis.empty.wav
+RECORD:TCU:afv-noatis.empty.wav
+RECORD:temperature:afv-noatis.empty.wav
+RECORD:THE IFR APPROACH IS AN:afv-noatis.empty.wav
+RECORD:thousand:afv-noatis.empty.wav
+RECORD:THRESHOLD:afv-noatis.empty.wav
+RECORD:thunderstorm:afv-noatis.empty.wav
+RECORD:to:afv-noatis.empty.wav
+RECORD:TWY:afv-noatis.empty.wav
+RECORD:TWY E CLSD BETWEEN RWY 06L-24R AND TWY B:afv-noatis.empty.wav
+RECORD:U:afv-noatis.empty.wav
+RECORD:UNTIL FURTHER ADVISED:afv-noatis.empty.wav
+RECORD:upgrading:afv-noatis.empty.wav
+RECORD:V:afv-noatis.empty.wav
+RECORD:variable:afv-noatis.empty.wav
+RECORD:Vertical visibility:afv-noatis.empty.wav
+RECORD:VFR:afv-noatis.empty.wav
+RECORD:VFR FLT NOT AUTH EXC HELI TIL 0000z:afv-noatis.empty.wav
+RECORD:visibility:afv-noatis.empty.wav
+RECORD:visual:afv-noatis.empty.wav
+RECORD:W:afv-noatis.empty.wav
+RECORD:weather at:afv-noatis.empty.wav
+RECORD:WHEN LDG RWY 24R, PLAN EXIT B2:afv-noatis.empty.wav
+RECORD:WHEN PARALLEL RWYS ARE IN USE, SIMULTANEOUS IFR APPROACHES AND SIMULTANEOUS VISUAL APPROACHES TO PARALLEL RWYS ARE IN EFFECT:afv-noatis.empty.wav
+RECORD:WHEN PARALLEL RWYS ARE IN USE, SIMULTANEOUS ILS APPROACHES ARE IN EFFECT:afv-noatis.empty.wav
+RECORD:widespread dust:afv-noatis.empty.wav
+RECORD:wind:afv-noatis.empty.wav
+RECORD:wind calm:afv-noatis.empty.wav
+RECORD:with:afv-noatis.empty.wav
+RECORD:X:afv-noatis.empty.wav
+RECORD:Y:afv-noatis.empty.wav
+RECORD:Z:afv-noatis.empty.wav
 ITEM:Montreal:
 ITEM:International:
 ITEM:Airport:
