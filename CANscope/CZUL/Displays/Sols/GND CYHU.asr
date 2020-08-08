@@ -18,8 +18,11 @@ Free Text:CYHU Taxiway\R:freetext
 Free Text:CYHU Taxiway\T:freetext
 Free Text:CYHU Taxiway\T:freetext
 Geo:AIRPORT LAYOUTS:
+Runways:CYHU Montreal St-Hubert 06L-24R:centerline
 Runways:CYHU Montreal St-Hubert 06L-24R:name
+Runways:CYHU Montreal St-Hubert 06R-24L:centerline
 Runways:CYHU Montreal St-Hubert 06R-24L:name
+Runways:CYHU Montreal St-Hubert 10-28:centerline
 Runways:CYHU Montreal St-Hubert 10-28:name
 SHOWC:1
 SHOWSB:0
