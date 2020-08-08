@@ -1,8 +1,17 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
+Fixes:BAJON:name
+Fixes:BAJON:symbol
+Fixes:GAGMO:name
+Fixes:GAGMO:symbol
 Geo:AIRPORT LAYOUTS:
+Geo:CZUL Coastline:
 Geo:GEO:
+NDBs:YBG:name
+NDBs:YBG:symbol
+NDBs:YRC:name
+NDBs:YRC:symbol
 Runways:CYBG Bagotville 11-29:centerline
 Runways:CYBG Bagotville 11-29:extended centerline 1
 Runways:CYBG Bagotville 11-29:extended centerline 1 left base
@@ -35,6 +44,8 @@ Runways:CYBG Bagotville 18-36:extended centerline 2 right base
 Runways:CYBG Bagotville 18-36:extended centerline 2 right ticks
 Runways:CYBG Bagotville 18-36:extended centerline 2 right vectoring
 Runways:CYBG Bagotville 18-36:name
+VORs:VBS:name
+VORs:VBS:symbol
 SHOWC:1
 SHOWSB:0
 BELOW:0
