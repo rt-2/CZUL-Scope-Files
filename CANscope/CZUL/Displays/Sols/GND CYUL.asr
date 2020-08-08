@@ -3,14 +3,150 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 Airports:CYUL:name
 Airports:CYUL:symbol
-Free Text:CYUL Ramp\ACA:freetext
+Free Text:CYUL FBO\ACA:freetext
+Free Text:CYUL FBO\AIE:freetext
+Free Text:CYUL FBO\BBA:freetext
+Free Text:CYUL FBO\CRQ:freetext
+Free Text:CYUL FBO\ETC:freetext
+Free Text:CYUL FBO\PETRO T/PROPAIR:freetext
+Free Text:CYUL FBO\SHELL/INNOTECH/EXECAIRE:freetext
+Free Text:CYUL FBO\SSV1/ESSO:freetext
+Free Text:CYUL FBO\SSV2/NRL:freetext
+Free Text:CYUL FBO\STARLINK:freetext
+Free Text:CYUL FBO\TSC:freetext
+Free Text:CYUL Gates\1:freetext
+Free Text:CYUL Gates\10:freetext
+Free Text:CYUL Gates\11:freetext
+Free Text:CYUL Gates\11B:freetext
+Free Text:CYUL Gates\12:freetext
+Free Text:CYUL Gates\15:freetext
+Free Text:CYUL Gates\15B:freetext
+Free Text:CYUL Gates\17:freetext
+Free Text:CYUL Gates\19:freetext
+Free Text:CYUL Gates\19A:freetext
+Free Text:CYUL Gates\19B:freetext
+Free Text:CYUL Gates\2 2A:freetext
+Free Text:CYUL Gates\21:freetext
+Free Text:CYUL Gates\21A:freetext
+Free Text:CYUL Gates\21B:freetext
+Free Text:CYUL Gates\23:freetext
+Free Text:CYUL Gates\25:freetext
+Free Text:CYUL Gates\27:freetext
+Free Text:CYUL Gates\28:freetext
+Free Text:CYUL Gates\3:freetext
+Free Text:CYUL Gates\30:freetext
+Free Text:CYUL Gates\32:freetext
+Free Text:CYUL Gates\34:freetext
+Free Text:CYUL Gates\4:freetext
+Free Text:CYUL Gates\47:freetext
+Free Text:CYUL Gates\48:freetext
+Free Text:CYUL Gates\49:freetext
+Free Text:CYUL Gates\5:freetext
+Free Text:CYUL Gates\50:freetext
+Free Text:CYUL Gates\51:freetext
+Free Text:CYUL Gates\52:freetext
+Free Text:CYUL Gates\55A 55:freetext
+Free Text:CYUL Gates\56:freetext
+Free Text:CYUL Gates\56B:freetext
+Free Text:CYUL Gates\57A  57:freetext
+Free Text:CYUL Gates\58:freetext
+Free Text:CYUL Gates\59:freetext
+Free Text:CYUL Gates\6:freetext
+Free Text:CYUL Gates\60:freetext
+Free Text:CYUL Gates\61:freetext
+Free Text:CYUL Gates\63:freetext
+Free Text:CYUL Gates\64:freetext
+Free Text:CYUL Gates\65:freetext
+Free Text:CYUL Gates\66:freetext
+Free Text:CYUL Gates\67:freetext
+Free Text:CYUL Gates\68:freetext
+Free Text:CYUL Gates\7:freetext
+Free Text:CYUL Gates\72:freetext
+Free Text:CYUL Gates\73:freetext
+Free Text:CYUL Gates\73A:freetext
+Free Text:CYUL Gates\74:freetext
+Free Text:CYUL Gates\75:freetext
+Free Text:CYUL Gates\76:freetext
+Free Text:CYUL Gates\77:freetext
+Free Text:CYUL Gates\77B:freetext
+Free Text:CYUL Gates\78:freetext
+Free Text:CYUL Gates\79:freetext
+Free Text:CYUL Gates\79A:freetext
+Free Text:CYUL Gates\8:freetext
+Free Text:CYUL Gates\80:freetext
+Free Text:CYUL Gates\81:freetext
+Free Text:CYUL Gates\82:freetext
+Free Text:CYUL Gates\83:freetext
+Free Text:CYUL Gates\84 84A:freetext
+Free Text:CYUL Gates\85:freetext
+Free Text:CYUL Gates\86:freetext
+Free Text:CYUL Gates\87:freetext
+Free Text:CYUL Gates\87A:freetext
+Free Text:CYUL Gates\88:freetext
+Free Text:CYUL Gates\89:freetext
+Free Text:CYUL Gates\9:freetext
+Free Text:CYUL Gates\E1:freetext
+Free Text:CYUL Gates\E1N:freetext
+Free Text:CYUL Gates\E1S:freetext
+Free Text:CYUL Gates\E2:freetext
+Free Text:CYUL Gates\E2N:freetext
+Free Text:CYUL Gates\E2S:freetext
+Free Text:CYUL Gates\E3:freetext
+Free Text:CYUL Gates\N1:freetext
+Free Text:CYUL Gates\N1A:freetext
+Free Text:CYUL Gates\N1B:freetext
+Free Text:CYUL Gates\N2:freetext
+Free Text:CYUL Gates\N2A:freetext
+Free Text:CYUL Gates\N2B:freetext
+Free Text:CYUL Gates\N3:freetext
+Free Text:CYUL Gates\N3A:freetext
+Free Text:CYUL Gates\N3B:freetext
+Free Text:CYUL Gates\N4:freetext
+Free Text:CYUL Gates\N4A:freetext
+Free Text:CYUL Gates\N4B:freetext
+Free Text:CYUL Gates\N5:freetext
+Free Text:CYUL Gates\N5A:freetext
+Free Text:CYUL Gates\N5B:freetext
+Free Text:CYUL Gates\N6:freetext
+Free Text:CYUL Gates\N6A:freetext
+Free Text:CYUL Gates\N6B:freetext
+Free Text:CYUL Gates\N7:freetext
+Free Text:CYUL Gates\N7A:freetext
+Free Text:CYUL Gates\N7B:freetext
+Free Text:CYUL Gates\P1:freetext
+Free Text:CYUL Gates\P1A:freetext
+Free Text:CYUL Gates\P1B:freetext
+Free Text:CYUL Gates\P2:freetext
+Free Text:CYUL Gates\P2A:freetext
+Free Text:CYUL Gates\PA380:freetext
+Free Text:CYUL Gates\W1:freetext
+Free Text:CYUL Gates\W1A:freetext
+Free Text:CYUL Gates\W1B:freetext
+Free Text:CYUL Gates\W2:freetext
+Free Text:CYUL Gates\W2A:freetext
+Free Text:CYUL Gates\W2B:freetext
+Free Text:CYUL Gates\W3:freetext
+Free Text:CYUL Gates\W3A:freetext
+Free Text:CYUL Gates\W3B:freetext
+Free Text:CYUL Gates\W4:freetext
+Free Text:CYUL Gates\W4A:freetext
+Free Text:CYUL Gates\W4B:freetext
+Free Text:CYUL Gates\W5:freetext
+Free Text:CYUL Gates\W5A:freetext
+Free Text:CYUL Gates\W5B:freetext
+Free Text:CYUL Gates\W5C:freetext
+Free Text:CYUL ICE PADS\1:freetext
+Free Text:CYUL ICE PADS\2:freetext
+Free Text:CYUL ICE PADS\3:freetext
+Free Text:CYUL ICE PADS\4:freetext
+Free Text:CYUL ICE PADS\5:freetext
+Free Text:CYUL ICE PADS\6:freetext
+Free Text:CYUL ICE PADS\7:freetext
+Free Text:CYUL ICE PADS\8:freetext
+Free Text:CYUL ICE PADS\9:freetext
 Free Text:CYUL Ramp\CAN:freetext
-Free Text:CYUL Ramp\Cargo:freetext
-Free Text:CYUL Ramp\CDR:freetext
-Free Text:CYUL Ramp\G/A:freetext
 Free Text:CYUL Ramp\ICE:freetext
 Free Text:CYUL Ramp\INT:freetext
-Free Text:CYUL Ramp\TSC:freetext
 Free Text:CYUL Ramp\USA:freetext
 Free Text:CYUL Taxiway\A:freetext
 Free Text:CYUL Taxiway\A:freetext
@@ -28,6 +164,7 @@ Free Text:CYUL Taxiway\B2:freetext
 Free Text:CYUL Taxiway\B3:freetext
 Free Text:CYUL Taxiway\D:freetext
 Free Text:CYUL Taxiway\E:freetext
+Free Text:CYUL Taxiway\E:freetext
 Free Text:CYUL Taxiway\F:freetext
 Free Text:CYUL Taxiway\G:freetext
 Free Text:CYUL Taxiway\H:freetext
@@ -44,9 +181,14 @@ Free Text:CYUL Taxiway\V:freetext
 Free Text:CYUL Taxiway\W:freetext
 Geo:AIRPORT LAYOUTS:
 Geo:GEO:
+Geo:GROUND CYUL (Gate Lines):
+Geo:GROUND CYUL (Taxiway Lines):
 Regions:CYUL:polygon
+Runways:CYUL Montreal Trudeau 06L-24R:centerline
 Runways:CYUL Montreal Trudeau 06L-24R:name
+Runways:CYUL Montreal Trudeau 06R-24L:centerline
 Runways:CYUL Montreal Trudeau 06R-24L:name
+Runways:CYUL Montreal Trudeau 10-28:centerline
 Runways:CYUL Montreal Trudeau 10-28:name
 SHOWC:1
 SHOWSB:0
@@ -57,8 +199,8 @@ SHOWLEADER:0
 TURNLEADER:0
 HISTORY_DOTS:8
 SIMULATION_MODE:2
-DISABLEPANNING:1
-DISABLEZOOMING:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
 DisplayRotation:15.50000
 TAGFAMILY:NARDS
 WINDOWAREA:45.448381:-73.787186:45.493942:-73.694379
